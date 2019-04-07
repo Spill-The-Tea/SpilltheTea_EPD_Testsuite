@@ -1,0 +1,1402 @@
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 1"]
+[Black "Najdorf 6. Be3"]
+[Result "*"]
+[ECO "B90"]
+[PlyCount "22"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+h5 9. Qd2 Nbd7 10. Nd5 Bxd5 11. exd5 g6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 2"]
+[Black "Najdorf 6. Be3"]
+[Result "*"]
+[ECO "B90"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. Rg1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 3"]
+[Black "Najdorf 6. Be3"]
+[Result "*"]
+[ECO "B90"]
+[PlyCount "25"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 Nh5 13. Kb1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 4"]
+[Black "Najdorf 6. Be3"]
+[Result "*"]
+[ECO "B90"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
+Nbd7 9. f4 b5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 5"]
+[Black "Najdorf 6. Be3"]
+[Result "*"]
+[ECO "B90"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
+O-O 9. O-O Be6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 6"]
+[Black "Najdorf 6. Be3"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "25"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+Nbd7 9. g4 b4 10. Nce2 h6 11. O-O-O Qc7 12. h4 d5 13. Bf4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 7"]
+[Black "Najdorf 6. Be3"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. a3
+Bb7 9. Qd2 Nbd7 10. O-O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 8"]
+[Black "Najdorf 6. Be3"]
+[Result "*"]
+[ECO "B90"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. h3 Ne5 11. f3 Nbc6 12. Bf2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 9"]
+[Black "Najdorf 6. Bg5"]
+[Result "*"]
+[ECO "B97"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 10"]
+[Black "Najdorf 6. Bg5"]
+[Result "*"]
+[ECO "B96"]
+[PlyCount "21"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bd3 Bb7 11. Rhe1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 11"]
+[Black "Najdorf 6. Bg5"]
+[Result "*"]
+[ECO "B99"]
+[PlyCount "39"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Bxg5+ 14. Kb1 Ne5
+15. Qh5 Qe7 16. Nxe6 Bxe6 17. fxe6 g6 18. exf7+ Kxf7 19. Qh3 Kg7 20. Nd5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 12"]
+[Black "Najdorf 6. Bg5"]
+[Result "*"]
+[ECO "B99"]
+[PlyCount "33"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15.
+gxf6 Bf8 16. Rg1 h5 17. a3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 13"]
+[Black "Najdorf 6. Bg5"]
+[Result "*"]
+[ECO "B67"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6
+gxf6 9. Qd2 Nc6 10. O-O-O Bd7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 14"]
+[Black "Najdorf 6. Bg5"]
+[Result "*"]
+[ECO "B96"]
+[PlyCount "28"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. Qd3 Qxf6 13. Rf1 Qe5 14. Rd1
+Ra7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 15"]
+[Black "Najdorf 6. Be2"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Qd2 Nbd7 11. a4 Rc8 12. a5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 16"]
+[Black "Najdorf 6. Be2"]
+[Result "*"]
+[ECO "B92"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 Nc6 10. f4 b5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 17"]
+[Black "Najdorf 6. Be2"]
+[Result "*"]
+[ECO "B85"]
+[PlyCount "27"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+Qc7 9. Be3 Nc6 10. Qe1 O-O 11. Kh1 Nxd4 12. Bxd4 b5 13. a3 Bb7 14. Qg3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 18"]
+[Black "Najdorf 6. Be2"]
+[Result "*"]
+[ECO "B85"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+Qc7 9. Be3 Nc6 10. a4 O-O 11. Kh1 Re8 12. Bf3 Rb8 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 19"]
+[Black "Najdorf 6. h3"]
+[Result "*"]
+[ECO "B81"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8. Bg2
+Be7 9. Be3 Nc6 10. f4 Nd7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 20"]
+[Black "Najdorf 6. h3"]
+[Result "*"]
+[ECO "B90"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 21"]
+[Black "Najdorf 6. Bc4"]
+[Result "*"]
+[ECO "B87"]
+[PlyCount "26"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 b4 12. Na4 Nbd7 13. f3 O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 22"]
+[Black "Najdorf 6. f4"]
+[Result "*"]
+[ECO "B93"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bd3 O-O 10. O-O Nc5 11. Kh1 exf4 12. Bxf4 Bg4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 23"]
+[Black "Dragon 9. Bc4"]
+[Result "*"]
+[ECO "B78"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Kb1 Re8 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 24"]
+[Black "Dragon 9. Bc4"]
+[Result "*"]
+[ECO "B78"]
+[PlyCount "32"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Kb1 a6 13. h4 h5 14. Bh6 Nc4 15.
+Bxc4 Rxc4 16. Bxg7 Kxg7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 25"]
+[Black "Dragon 9. Bc4"]
+[Result "*"]
+[ECO "B78"]
+[PlyCount "27"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Bg5 Rc5 14. Kb1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 26"]
+[Black "Dragon 9. Bc4"]
+[Result "*"]
+[ECO "B78"]
+[PlyCount "26"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rb8 11. Bb3 Na5 12. Bh6 Bxh6 13. Qxh6 b5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 27"]
+[Black "Dragon 9. O-O-O"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "35"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Be6 14. Ne4 Re8
+15. h4 h6 16. g4 Qc7 17. g5 h5 18. Bc4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 28"]
+[Black "Dragon 9. O-O-O"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "28"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qb6 14. Na4
+Qc7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 29"]
+[Black "Dragon 9. O-O-O"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "32"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Nxc3 13. Qxc3 Bh6+ 14. Be3
+Bxe3+ 15. Qxe3 Qb6 16. Qxe7 Be6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 30"]
+[Black "Dragon 7. Be2"]
+[Result "*"]
+[ECO "B74"]
+[PlyCount "21"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O 8.
+O-O Nc6 9. Nb3 Be6 10. f4 Qc8 11. Kh1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 31"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B67"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nxc6 Bxc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 32"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B67"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 b4 12. Nce2 Qb6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 33"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B69"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Kb1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 34"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B67"]
+[PlyCount "28"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 g5 11. fxg5 Ng4 12. Be2 Nge5 13. Nf3 Be7 14. Rhg1 b5
+*
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 35"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B65"]
+[PlyCount "33"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 Bd7 12. e5 dxe5 13. fxe5 Bc6 14. Bd2
+Nd7 15. Nd5 Qd8 16. Nxe7+ Qxe7 17. Rhe1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 36"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B65"]
+[PlyCount "28"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 Bd7 12. e5 dxe5 13. fxe5 Bc6 14. Bd2
+Bc5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 37"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B63"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. f3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 38"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B89"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 O-O 11. g4 Nxd4 12. Rxd4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 39"]
+[Black "Rauzer"]
+[Result "*"]
+[ECO "B89"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 O-O 9. O-O-O a6 10. Bb3 Nd7 11. Kb1 Qc7 12. f4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 40"]
+[Black "Sveshnikov 9. Nd5"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "34"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Rb8 16. b3 Kh8 17. Nce3 g6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 41"]
+[Black "Sveshnikov 9. Nd5"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "33"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Bd7 16. Nce3 Ne7 17. Ra2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 42"]
+[Black "Sveshnikov 9. Nd5"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "31"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Ne7 16. Nce3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 43"]
+[Black "Sveshnikov 9. Nd5"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "26"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. h4 a5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 44"]
+[Black "Sveshnikov 9. Nd5"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Rb8 12. Nc2 Bg5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 45"]
+[Black "Sveshnikov 9. Nd5"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "26"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7 12. Nxf6+ gxf6 13. Bd3 Bb7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 46"]
+[Black "Sveshnikov 9. Nd5"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "25"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 O-O 13. g3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 47"]
+[Black "Sveshnikov 9. Bxf6"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "28"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. O-O Bxd5 13. exd5 Ne7 14. c3 Bg7
+*
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 48"]
+[Black "Sveshnikov 9. Bxf6"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "31"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7 12. exf5 Bxf5 13. Nc2 O-O 14. Nce3
+Be6 15. Bd3 f5 16. O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 49"]
+[Black "Sveshnikov 9. Bxf6"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "32"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7 12. exf5 Bxf5 13. Nc2 Be6 14. g3 O-O
+15. Bg2 a5 16. O-O f5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 50"]
+[Black "Sveshnikov 9. Bxf6"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "26"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7 12. Bd3 Be6 13. Qh5 O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 51"]
+[Black "Kalashnikov"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nge7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 52"]
+[Black "Kalashnikov"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be7 8.
+Nc4 b5 9. Ne3 Nf6 10. g3 O-O 11. Bg2 b4 12. Ncd5 Nxd5 13. Nxd5 Bg5 14. Bxg5
+Qxg5 15. O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 53"]
+[Black "Kalashnikov"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "17"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+Be6 9. Nc2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 54"]
+[Black "Kalashnikov"]
+[Result "*"]
+[ECO "B32"]
+[PlyCount "22"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+f5 9. exf5 Bxf5 10. Bd3 Be6 11. O-O Nf6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 55"]
+[Black "Accelerated Dragon"]
+[Result "*"]
+[ECO "B38"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 O-O 8.
+Be2 d6 9. O-O Bd7 10. Qd2 Nxd4 11. Bxd4 Bc6 12. f3 a5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 56"]
+[Black "Accelerated Dragon"]
+[Result "*"]
+[ECO "B39"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 Ng4 8.
+Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 57"]
+[Black "Accelerated Dragon"]
+[Result "*"]
+[ECO "B36"]
+[PlyCount "22"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
+Be2 Bg7 9. Be3 O-O 10. Qd2 Be6 11. O-O Qa5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 58"]
+[Black "Accelerated Dragon"]
+[Result "*"]
+[ECO "B36"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
+Be2 Bg7 9. Bg5 O-O 10. Qd2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 59"]
+[Black "Accelerated Dragon"]
+[Result "*"]
+[ECO "B35"]
+[PlyCount "17"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 a5 9. O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 60"]
+[Black "Accelerated Dragon"]
+[Result "*"]
+[ECO "B35"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 Qa5 8.
+O-O O-O 9. Bb3 d6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 61"]
+[Black "Keres Attack"]
+[Result "*"]
+[ECO "B81"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Rg1
+h5 9. gxh5 Nxh5 10. Bg5 Nf6 11. Qd2 Qb6 12. Nb3 a6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 62"]
+[Black "Keres Attack"]
+[Result "*"]
+[ECO "B81"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Be7 8. Be3
+Nc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 63"]
+[Black "Keres Attack"]
+[Result "*"]
+[ECO "B81"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Be3
+Be7 9. h4 O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 64"]
+[Black "Keres Attack"]
+[Result "*"]
+[ECO "B81"]
+[PlyCount "15"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Be3
+*
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 65"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B41"]
+[PlyCount "13"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 66"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B42"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. Qg4 g6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 67"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B42"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. O-O d6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 68"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B42"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 69"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B42"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3
+O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 70"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B42"]
+[PlyCount "22"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 10. Rd1 O-O 11. Nf3 Nc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 71"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B43"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Nc6 8.
+Nxc6 Bxc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 72"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B42"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 d6 7. O-O Nf6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 73"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B48"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 O-O 10. g4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 74"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B48"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Qd4 Nc6 12. Qb6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 75"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B48"]
+[PlyCount "27"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Bd4 Be7 12. Qf2 d6 13. Kb1 O-O 14. g4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 76"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B48"]
+[PlyCount "21"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Qf2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 77"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B49"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Be2 Nf6 8.
+O-O Bb4 9. Na4 Be7 10. Nxc6 bxc6 11. Nb6 Rb8 12. Nxc8 Qxc8 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 78"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B49"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Be2 Nf6 8.
+O-O Bb4 9. Na4 O-O 10. Nxc6 bxc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 79"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B49"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Be2 Nf6 8.
+O-O Bb4 9. Na4 O-O 10. c4 Be7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 80"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B49"]
+[PlyCount "21"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Be2 Nf6 8.
+O-O Bb4 9. Nxc6 bxc6 10. Qd4 c5 11. Qc4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 81"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B49"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Qc7 7. Be2 b5 8.
+Nxc6 Qxc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 82"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B43"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O Bc5 8.
+Nb3 Be7 9. f4 d6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 83"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B48"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O Nc6 8.
+Be3 Ne5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 84"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B48"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O Nc6 8.
+Be3 Nxd4 9. Bxd4 Bc5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 85"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B44"]
+[PlyCount "22"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3
+Be7 9. Be2 O-O 10. O-O b6 11. Be3 Bb7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 86"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 Nf6 8.
+N1c3 a6 9. Na3 Rb8 10. Nd5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 87"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B54"]
+[PlyCount "13"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. g4 a6 7. Be3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 88"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B54"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. g4 h6 7. Be3 Nf6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 89"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B54"]
+[PlyCount "15"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. g4 Nge7 7. Be3 a6 8. f4
+*
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 90"]
+[Black "4. Qxd4"]
+[Result "*"]
+[ECO "B53"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8.
+Bg5 e6 9. O-O-O Be7 10. Rhe1 O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 91"]
+[Black "4. Qxd4"]
+[Result "*"]
+[ECO "B53"]
+[PlyCount "21"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. c4 Nf6 8.
+Nc3 g6 9. O-O Bg7 10. Qd3 O-O 11. Nd4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 92"]
+[Black "4. Qxd4"]
+[Result "*"]
+[ECO "B53"]
+[PlyCount "10"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. Be3 Nc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 93"]
+[Black "3. Bb5+"]
+[Result "*"]
+[ECO "B52"]
+[PlyCount "10"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 94"]
+[Black "3. Bb5+"]
+[Result "*"]
+[ECO "B52"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 Nc6 7. d4 cxd4 8.
+Nxd4 g6 9. O-O Bg7 10. Nde2 O-O 11. f3 a6 12. a4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 95"]
+[Black "3. Bb5+"]
+[Result "*"]
+[ECO "B52"]
+[PlyCount "22"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 Nc6 7. d4 cxd4 8.
+Nxd4 g6 9. f3 Bg7 10. Be3 O-O 11. O-O a6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 96"]
+[Black "3. Bb5+"]
+[Result "*"]
+[ECO "B51"]
+[PlyCount "12"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 97"]
+[Black "3. Bb5+"]
+[Result "*"]
+[ECO "B51"]
+[PlyCount "13"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Ngf6 5. Nc3 cxd4 6. Qxd4 e5 7. Qd3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 98"]
+[Black "3. Bb5+"]
+[Result "*"]
+[ECO "B51"]
+[PlyCount "10"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Ngf6 5. Re1 a6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 99"]
+[Black "2... b6"]
+[Result "*"]
+[ECO "B27"]
+[PlyCount "12"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 b6 3. d4 cxd4 4. Nxd4 Bb7 5. Nc3 a6 6. Bg5 Qc7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "SICILIAN 100"]
+[Black "2... b6"]
+[Result "*"]
+[ECO "B27"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 b6 3. d4 cxd4 4. Nxd4 Bb7 5. Nc3 a6 6. Be2 e6 7. O-O Qc7 *
+

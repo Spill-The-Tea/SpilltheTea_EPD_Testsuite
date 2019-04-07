@@ -1,0 +1,819 @@
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.048"]
+[Black "bm Nc2"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/3k4/3p3n/1P1N1p1P/5K2/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.049"]
+[Black "bm Bd1"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/3p1k2/2pPp2P/1pP1P1K1/1P6/2B1n3/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.050"]
+[Black "bm a4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/6p1/1k3p2/p3pP2/1pP3Pp/1P1K3P/P4Nb1/8 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.051"]
+[Black "bm Bd3"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/3bkp2/1p1p1p1p/3P4/1K3PPP/1P6/4B3/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.052"]
+[Black "bm f4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "5b2/nk6/1p1p1p1p/3PpNpP/1KP1P1P1/5P2/5B2/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.053"]
+[Black "bm f4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/5n2/1p1n2k1/p1pPpp2/P1P4B/1P1B1PK1/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.054"]
+[Black "bm Rb7"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/r7/5K1k/5P1P/8/8/8/4R3 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.055"]
+[Black "bm Kb3"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/1p1p4/p7/PkPR4/8/4r3/1K6 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.056"]
+[Black "bm Kf2"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/4k3/p7/1p4R1/1P3P2/r7/6P1/6K1 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.057"]
+[Black "bm Kf7"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "4r3/R7/1P1p2K1/4k3/6P1/8/4p3/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.058"]
+[Black "bm Re1"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/5pk1/1N4p1/4n2p/4n2P/6P1/6K1/3R4 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.059"]
+[Black "bm Rh6"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "6k1/3K3R/4p3/4B2p/1P3P2/P7/3p2PP/5b2 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.060"]
+[Black "bm Kxh3"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "5N2/8/8/4Pp2/5Pk1/r6R/4K3/8 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.061"]
+[Black "bm Rd2+"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "3R4/3K1p2/4pkp1/7p/8/5B1P/r5P1/8 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.062"]
+[Black "bm Bd7"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "4B3/8/R6n/4kpp1/3p3p/3PbK1P/4P3/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.063"]
+[Black "bm f3"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/p2k1p2/2p3p1/p1K4p/2P4P/1P4P1/5P2/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.064"]
+[Black "bm Nd3"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/5Kpk/1p3p1p/1N3P2/6P1/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.065"]
+[Black "bm Ba5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "3B4/5k1p/8/2p2p2/1p6/8/P6P/6K1 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.066"]
+[Black "bm Nh5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/8/p2k4/5P1p/P1pB1Kn1/2P5/8 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.067"]
+[Black "bm Bf4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/5p1p/kp1p1PpP/2pP2P1/2P5/2KB1b2/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.068"]
+[Black "bm Qd7+"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/4Q3/p7/1p1k1K2/5p1p/7P/1PP5/q7 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.069"]
+[Black "bm Re7+"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "3r4/1R6/8/4k1p1/P1np2B1/8/7P/6K1 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.070"]
+[Black "bm Rhh1"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/1pp3p1/p2b1pk1/Pr2p2R/2p1P1P1/2P2P2/2K5/R7 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.071"]
+[Black "bm c6"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/3r2p1/pp1Bp1p1/1kP5/1n2K3/6R1/1P3P2/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.072"]
+[Black "bm h4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/5p2/3k2p1/1Pp5/2K5/7P/6P1/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.073"]
+[Black "bm Rd1"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/4pk2/4p1p1/3pPnP1/8/8/5K2/2R5 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.074"]
+[Black "bm Rd1+"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "2k5/8/3KPBp1/7p/7P/6P1/8/4r3 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.075"]
+[Black "bm f5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "K7/P7/5p2/4k3/4P3/1r5p/4R2P/8 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.076"]
+[Black "bm Rg7"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "r7/PR6/3k4/2p2pp1/1pK5/5P2/1P6/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.077"]
+[Black "bm g5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "6R1/4kpp1/2r4p/3p3P/6P1/5PK1/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.078"]
+[Black "bm Rf5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/5p2/6p1/4K1k1/5rP1/R4P2/8 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.079"]
+[Black "bm Re7"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/P7/8/2B1r1p1/2K1k3/3R4/2n5 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.080"]
+[Black "bm Be3"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "5k2/5np1/1p1pQ3/p5PP/3q1B2/P4PK1/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.081"]
+[Black "bm Na3"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "6K1/8/5k1p/1N5P/p7/8/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.082"]
+[Black "bm Na7"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "2n5/4k3/P5pp/3K4/8/8/7P/8 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.083"]
+[Black "bm Nf2+"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/p3k2p/3p4/2pP1p2/2P1n2P/P2KP3/8/6N1 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.084"]
+[Black "bm Kd4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "2B5/8/1p3n2/1P4p1/5kP1/3K4/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.085"]
+[Black "bm b5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "2k1K3/2p5/1pNp4/3P4/PPP5/8/3b4/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.086"]
+[Black "bm Bb6"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "5n2/8/8/B1p2k1p/2Pp1p1P/3P1K2/5PP1/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.087"]
+[Black "bm Ba4+"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/3k3p/6p1/2pPp3/4P2P/2K3P1/b1B5/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.088"]
+[Black "bm dxc6"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "6k1/1p3p2/1ppb2p1/3P2p1/1PP2nP1/P6P/5BB1/3K4 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.089"]
+[Black "bm Nb4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/8/1ppN4/3p4/1K3N2/B1p5/2k5 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.090"]
+[Black "bm Kc5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/5ppp/4p3/k7/3K4/8/5PPP/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.091"]
+[Black "bm Kf4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "6k1/1R6/5pp1/8/4P2p/2P1K1rP/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.092"]
+[Black "bm c4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "2r5/8/3Pk3/ppp1P1pp/5p2/1P5P/P1R3P1/7K b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.093"]
+[Black "bm g4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "5r2/1p3p1k/3p4/p3pPPp/5r2/8/PP3PP1/1K1R3R w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.094"]
+[Black "bm Qh4"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "5k2/5p2/8/2K5/5pQ1/r7/6P1/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.095"]
+[Black "bm Qe5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "2q3k1/5p2/6p1/p1pQ3p/2P4P/1P4P1/P4P1K/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.096"]
+[Black "bm g5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/6p1/2k2n1p/1p3P1P/pp1KN1P1/1P6/P7/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " White to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.097"]
+[Black "bm Ne1"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/5k2/4p3/1n2P1p1/6P1/3NK2P/8/8 w - - 0 1"]
+
+*
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.098"]
+[Black "bm Nxc5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/1p6/5p2/1PP2k2/3K2p1/3np1P1/4N3/8 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.099"]
+[Black "bm g5"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/p5p1/5b2/3p1k1p/3P4/1P2K1PP/8/B7 b - - 0 1"]
+
+1... *
+
+[Event ""]
+[Site " Black to move "]
+[Date "2003.11.25"]
+[Round "1"]
+[White "id Aemis2.100"]
+[Black "bm Bc7"]
+[Result "*"]
+[BlackElo ""]
+[WhiteElo ""]
+[FEN "8/8/p1kbpp2/7p/P1KP2p1/4B1P1/5P1P/8 b - - 0 1"]
+
+1... *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "PEND (h5)"]
+[Black "0:29 (15)"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "8/6pp/8/pp1kpp2/7P/PP2KP2/2P3P1/8 b - - 0 1"]
+
+1... h5 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END2 (f6)"]
+[Black "0:11 (13)"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "3k4/8/7p/2bNPP2/p1P5/2K5/8/8 w - - 0 1"]
+
+1. f6 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END (Bc8)"]
+[Black "0:29 (13)"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "3k4/2p2p2/1p2b1n1/4P3/4K3/4N3/2PB4/8 b - - 0 1"]
+
+1... Bc8 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END2 (Kh4)"]
+[Black "0:26 (17)"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "8/8/4p2k/3bP3/6R1/5pK1/8/8 w - - 0 1"]
+
+1. Kh4 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END2 (a5)"]
+[Black "0:40 (16)"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "8/R7/1p6/2p5/Pk1p4/1P6/2P1r3/1K6 w - - 0 1"]
+
+1. a5 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END2 (Rf3)"]
+[Black "0:26 (13)"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "8/1p2k3/2p2R2/6KP/1P4P1/2p5/8/2r5 w - - 0 1"]
+
+1. Rf3 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END2 (f4+)"]
+[Black "17=NOK=0:53"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "8/5b2/8/1p1pk1p1/1p4P1/1P1KPP2/P7/3B4 w - - 0 1"]
+
+1. Bc2 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END (b4)"]
+[Black "16=NOK=1:22"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "8/2b5/7B/4p2b/N1k5/P5P1/1P3K2/8 w - - 0 1"]
+
+1. Be3 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END2 (c5+)"]
+[Black "15=NOK=1:01"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "6R1/8/2pkr1p1/5p1p/3K3P/5PP1/8/8 b - - 0 1"]
+
+1... Ke7 *
+
+[Event "Aemis"]
+[Site "RXP-2000"]
+[Date "2003.11.25"]
+[Round "1"]
+[White "END (d5)"]
+[Black "16=NOK=1:20"]
+[Result "*"]
+[BlackElo "    "]
+[WhiteElo "    "]
+[FEN "k7/1p6/1n1Pp2r/1P3p1p/2BP1PpN/6P1/5K1P/8 w - - 0 1"]
+
+1. Ba2 *
+

@@ -1,0 +1,183 @@
+[Event "Linares"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Monkey 01: Der Schöne"]
+[Black "Karpov-Gelfand"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k5r/pb3p1p/1q2rp1b/2p5/1pQ1P3/1P3N2/P3BPPP/3R1RK1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1993.??.??"]
+
+1. Rd5 Rhe8 (1... Bxd5 2. exd5 Re7 3. Rd1 $16) 2. Bd3 Rd8 3. Rd1 Red6 4. Be2
+Bxd5 5. exd5 Qb7 6. Qh4 Bf8 7. Bc4 $16 {etc.} 1-0
+
+[Event "Oakham GM"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Monkey 02: Der Hässliche"]
+[Black "Tyomkin-McDonald"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4rk1/ppnqp2p/3p2p1/2pP4/P1P2B1P/6P1/1P3PK1/R2Q1R2 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "2001.??.??"]
+
+1... Rxf4 2. gxf4 Rf8 $17 {etc.} 0-1
+
+[Event "Nordic-ch"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Monkey 03: Der Gute"]
+[Black "Akesson-Stefansson"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3r1rk1/1Qp1q2p/4p3/p7/Pn1b1p1P/2N3P1/1P3PB1/2RR2K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1997.??.??"]
+
+1. Rxd4 (1. Ne2 Bxb2 2. Nxf4 Bxc1 3. Rxc1 Rf7 $17) (1. Nb5 Bb6 2. Qf3 Rxd1+ 3.
+Rxd1 Qg7 $17) 1... Rxd4 2. Ne2 Rd7 3. Nxf4 e5 4. Nh3 Nd3 5. Rc4 Qf7 6. Rc2 $11
+{etc.} 1/2-1/2
+
+[Event "CHN-RUS"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Monkey 04: Der Böse"]
+[Black "PengXiaomin-Motylev"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2br1k1/1q3ppp/p2B4/Pp1pN3/3Pb1P1/1QP2P2/7P/R3R1K1 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "2001.??.??"]
+
+1... Rxe5 2. Bxe5 Bxf3 3. Qc2 Be4 4. Qf2 Rc8 5. Re3 Rc6 $17 {etc.} 0-1
+
+[Event "Julian Borowski"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Monkey 05: Der Exakte"]
+[Black "Romanishin-Smagin"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3r4/p5kp/Pb1R4/1P1B2P1/6P1/3K4/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2001.??.??"]
+
+1. Rxb5 (1. Rxd7 Bxd7) 1... axb5 2. Ke3 Kf7 3. a6 Ke6 4. a7 Rd8 5. Ke4 Kd6 6.
+Be3 Ra8 (6... Re8+ 7. Kf5) 7. Bf4+ {etc.} 1-0
+
+[Event "RUS-chT"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Monkey 06: Der Spekulative"]
+[Black "Ionov-Sergienko"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/ppqb2pp/2n1p3/3pP3/2pP4/P1P1BN1Q/2P2PP1/R3K3 b Q - 0 1"]
+[PlyCount "15"]
+[EventDate "1999.??.??"]
+
+1... Rxf3 2. Qxf3 (2. gxf3 Qc8 3. Kd2 Be8 4. Rh1 Bg6) 2... Be8 3. Qh3 Qd7 4. a4
+Bg6 5. Kd1 Na5 6. Bc1 Bf5 7. Qh4 (7. g4 Be4 8. f3 Bg6 9. Qh4) 7... h6 8. f3 Kh7
+$15 {etc.} 0-1
+
+[Event "EU-chT"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Monkey 07: Der Stürmische"]
+[Black "Movsesian-Sokolov"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3rrnk1/p1n1qpp1/1p5p/2pRP3/2P4P/1P2Q1PB/PB5K/4R3 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1999.??.??"]
+
+1. Red1 Nxd5 2. cxd5 Ne6 (2... Qb7 3. d6 Ne6 4. Bg2 $16) 3. d6 Qb7 4. Bg2 Qd7
+5. Bd5 $16 {etc.} 1-0
+
+[Event "Reykjavik"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Monkey 08: Der Berechnende"]
+[Black "Mortensen-Van der Weide"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2nqr1k1/5p2/1p4pp/pP1rNn2/P4P2/BQ1p4/6PP/2RR2K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1998.??.??"]
+
+1... Rdxe5 (1... Ne3 2. Rd2 $14) (1... Na7 2. Bb2 $16) 2. fxe5 Qd4+ 3. Kh1 d2
+$19 {etc.} 0-1
+
+[Event "Chigorin memorial"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Monkey 09: Der Originelle"]
+[Black "Zakharevich-Guliev"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3pb1/3q2pp/2nP4/6P1/2P2N2/P1Q1BPP1/2BR1RK1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1997.??.??"]
+
+1. Rd4 $18 Bxd4 2. cxd4 Na6 3. Ne5 Rd8 (3... Qxd5 4. Bc4 $16) 4. Qd2 $16 {etc.}
+1-0
+
+[Event "Anibal op"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Monkey 10: Der Freche"]
+[Black "Minasian-Jonkman"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1rbk1/p1qn2p1/3n1pp1/P1p1p3/1p2P1P1/1N3Q1P/1PP2P2/R1BR1BK1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2000.??.??"]
+
+1. Rxd6 Bxd6 2. Bc4+ Kf8 3. Qd3 Ke7 (3... Qc6 4. Bb5 Qc7 5. Qd5 c4 6. Nd2 $16)
+4. Be3 Nf8 5. Qd5 Qc6 6. Qf7+ Kd8 7. Qxg7 $18 {etc.} 1-0
+
+[Event "Kiev"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Monkey 11: Der Romantische"]
+[Black "Svetushkin-Kruppa"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1r3k1/1bq2pp1/p4n1p/1p1npB2/PP6/2P2N2/1BQ2PPP/R3R1K1 b - - 0 1"]
+[PlyCount "13"]
+[EventDate "2000.??.??"]
+
+1... Nf4 2. axb5 (2. Bxc8 Qxc8 3. Nxe5 (3. Nh4 Qg4 $19) 3... Nxg2 $17) 2...
+axb5 3. Bxc8 Qxc8 4. Rxa8 (4. Nxe5 Nxg2 5. Rxa8 Bxa8 6. Ra1 Nh4 $44) 4... Bxa8
+5. Ra1 (5. Nxe5 Nxg2) 5... Be4 (5... Bxf3 6. gxf3 e4 $17) 6. Qd1 Nxg2 7. Nxe5
+Nh4 $17 {etc.} 0-1
+
+[Event "Geller memorial"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Monkey 12: Der Unbarmherzige"]
+[Black "Dolinskij-Tosic"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2q2rk1/2p2pb1/PpP1p1pp/2n5/5B1P/3Q2P1/4PPN1/2R3K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1999.??.??"]
+
+1. Rxc5 (1. Qe3 Qxa6 2. Bxc7 Rc8 3. Bxb6 Na4 $11) 1... bxc5 2. Qb5 c4 (2... Rd8
+3. a7 Qa8 4. Qb7 e5 5. Bd2 $18) 3. Qxc4 Rd8 4. Be3 Rd1+ 5. Kh2 Ra1 6. a7 Qd8 7.
+Qb3 $16 {etc.} 1-0
+

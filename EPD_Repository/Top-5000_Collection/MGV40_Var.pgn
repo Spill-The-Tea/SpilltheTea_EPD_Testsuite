@@ -1,0 +1,748 @@
+[Event "Plovdiv"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "SHIROV"]
+[Black "Atalik"]
+[Result "1-0"]
+[Annotator "MGV1-K"]
+[SetUp "1"]
+[FEN "rn2k3/p4ppr/1p2p1n1/2ppP1Bp/q2P3P/P1P2QN1/2P2PP1/R4K1R w q c6 0 1"]
+[PlyCount "7"]
+[EventDate "2003.??.??"]
+
+1. Nf5 $1 exf5 (1... Nc6 $1 2. Nd6+ Kd7 3. Qxf7+ Nce7 $16) (1... Qd7 2. Nd6+
+Kf8 3. c4 Nc6 4. cxd5 Nxd4 5. Qe4 $16) (1... Qc4+ {(Die Originalpartie)} 2. Kg1
+exf5 3. Qxf5 Nd7 4. e6 Nf6 5. Re1 $1 Nf8 (5... Qxc3 6. exf7+ Kf8 (6... Kxf7 7.
+Qe6+ Kf8 8. Rh3 $18 {(Die Originalpartie-Variante)}) 7. Re8+ $1 Rxe8 8. fxe8=Q+
+Kxe8 9. Qxg6+ $18) 6. Rh3 $16) 2. Qxd5 {(es droht Dd8#)} Nc6 3. e6 Kf8 4. exf7
+$16 1-0
+
+[Event "Biel"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "SHIROV"]
+[Black "Zvjaginsev"]
+[Result "1-0"]
+[Annotator "MGV2-K"]
+[SetUp "1"]
+[FEN "1qb2rk1/3p1pp1/1p6/1pbBp3/r5p1/3QB3/PPP2P1P/2KR2R1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1995.??.??"]
+
+1. b3 $1 e4 $1 (1... Rxa2 {(Originalpartie)} 2. Rxg4 {(Es droht Dg6)} Qd6 3.
+Kb1 Ra6 4. Rdg1 $18 {(Originalpartie-Variante)}) (1... Rf4 2. Bxf4 exf4 3. Rxg4
+Qe5 4. Rdg1 Bxf2 5. Rxg7+ $18) (1... Bxe3+ 2. fxe3 Rxa2 3. Rxg4 d6 4. Rh4 Rd8
+5. Qg6 Qc7 (5... Ra1+ $2 6. Kb2 $3) 6. Kb1 $18) 2. Qc3 b4 (2... Bb4 3. Qa1 $1
+$18) 3. Qb2 $18 1-0
+
+[Event "Sarajevo"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Sokolov, I."]
+[Black "SHIROV"]
+[Result "1-0"]
+[Annotator "MGV3-P"]
+[SetUp "1"]
+[FEN "bn1k1b1r/5p2/4pq1p/1B2N3/Q2P3p/8/1P3PPP/4K2R b K - 0 1"]
+[PlyCount "11"]
+[EventDate "2005.??.??"]
+
+1... Bd6 $1 (1... Bxg2 $2 2. Qa7 Kc8 3. Bd7+ Nxd7 4. Qxd7+ Kb8 5. f3 $1 $16) 2.
+Qxa8 (2. Nc4 {(Originalpartie)} Bc7 $6 (2... Bxg2 $1 3. Nxd6 Bxh1 4. Qa7 Qg6 5.
+Nxf7+ Kc8 6. Nd6+ Kd8 7. Qxb8+ Ke7 8. Qxh8 Qb1+ $11) 3. Qxa8 Qg5 4. Qb7 Qc1+ 5.
+Ke2 Qxh1 6. Ne5 $16 {(Originalpartie-Variante)}) 2... Bxe5 3. dxe5 Qxe5+ 4. Be2
+Ke7 5. Qa3+ Kf6 6. Qf3+ Qf5 {(Und Weiss hat nur einen minimalen Vorteil).} 1-0
+
+[Event "Manila ol"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "SHIROV"]
+[Black "Rivas Pastor"]
+[Result "1-0"]
+[Annotator "MGV4-P"]
+[SetUp "1"]
+[FEN "rnq1kb1r/1R3ppp/2pp1n2/3P4/p3P3/3B1P2/1QPBN2P/4K2R w Kkq - 0 1"]
+[PlyCount "7"]
+[EventDate "1992.??.??"]
+
+1. Nd4 $1 a3 2. Qb3 a2 3. Kf2 $1 Be7 (3... g6 {(Originalpartie-Variante)} 4.
+dxc6 $18) (3... c5 4. Nb5 $1) (3... Nfd7 4. Nxc6 Be7 (4... Na6 5. Bxa6 Rxa6 6.
+Rxd7 $1 Kxd7 (6... Qxd7 7. Qb8+ Qd8 8. Qxd8#) 7. Nb8+ $18) (4... Nxc6 5. dxc6
+Qxc6 6. Rxd7 $3 Qxd7 7. Bb5) 5. Nxe7 Kxe7 6. e5 $16) 4. Nf5 $18 1-0
+
+[Event "Leon"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sion Castro"]
+[Black "SHIROV"]
+[Result "0-1"]
+[Annotator "MGV5-P"]
+[SetUp "1"]
+[FEN "2r3k1/1nq2ppp/p2ppB2/1n4P1/P3P3/1Pp3R1/4QP1P/2KR4 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "1995.??.??"]
+
+1... e5 $1 (1... Qa5 $2 2. Qh5 (2. Rh3 $2 Qb4 $1 3. Qh5 gxf6 $1 4. Qxh7+ Kf8 5.
+g6 Nd8 6. g7+ Ke7 7. g8=N+ Kd7 $19) 2... Qb4 (2... Nc5 3. Rh3 h6 (3... Kf8 4.
+Qxh7 $18) (3... gxf6 4. Qxh7+ Kf8 5. Qh8+ Ke7 6. Qxc8 $18) 4. Qxh6 $3 $18) 3.
+g6 $3 fxg6 (3... Qa3+ 4. Kc2 Qb2+ 5. Kd3 Nc5+ 6. Ke3 fxg6 7. Rxg6 hxg6 8. Qxg6
+Rc7 9. Qe8+ $11) (3... hxg6 4. Rxg6 $11) 4. Rxg6 hxg6 5. Qxg6 Rc7 6. Qe8+ Kh7
+7. Qh5+ Kg8 8. Qe8+ $11) 2. Qc4 (2. Qg4 Na5 (2... Nd4 $15 3. Rxd4 exd4 4. Bxd4
+Nc5 5. Rxc3 Nxb3+ 6. Kd1 Nc5) 3. axb5 Nxb3+ 4. Kc2 axb5 5. Kxb3 c2 $17) (2.
+axb5 $2 Qa5 $19) (2. Rh3 $2 c2 3. Rd2 Nc3 $19) (2. Qa2 $2 c2 $19 {
+(Originalpartie-Variante).}) 2... Qd7 3. Qb4 Na7 (3... Nd4 4. Rxd4 exd4 5. Bxd4
+Nc5 $17) 4. Qb6 Nc6 $17 0-1
+
+[Event "Sarajevo"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Leko"]
+[Black "SHIROV"]
+[Result "0-1"]
+[Annotator "MGV6-P"]
+[SetUp "1"]
+[FEN "r2qkb1r/3n3p/p2pbPp1/8/2pBPP2/2N5/PPPQ3P/2KR3R b kq - 0 1"]
+[PlyCount "11"]
+[EventDate "1999.??.??"]
+
+1... Bh6 $1 (1... Nxf6 $6 2. f5 Bf7 3. e5 $1 dxe5 4. Rhe1 Be7 5. Rxe5 O-O 6.
+fxg6 Bxg6 7. Qe2 Rf7 8. Bc5 $18) 2. f7+ Kxf7 3. Be3 (3. Bxh8 Qxh8 4. Kb1 Rb8 5.
+Qxd6 Qxc3 6. Qxb8 Nxb8 7. bxc3 Bxf4 8. Rhf1 g5 $15) 3... Bg4 4. Rdf1 (4. Qd5+
+Kg7 $1 5. Bd4+ Nf6 6. Qb7+ Qd7 7. Qxd7+ Bxd7 $17 {(Originalpartie-Variante)})
+4... Rf8 5. Rhg1 Bh5 6. e5 (6. Qd5+ Ke7 $11) 6... Kg8 $15 0-1
+
+[Event "Linares"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "SHIROV"]
+[Black "Kamsky"]
+[Result "1-0"]
+[Annotator "MGV7-E"]
+[SetUp "1"]
+[FEN "r1n2bk1/p6p/1p4pP/3Pp1N1/4P1P1/4B3/P4K2/1R6 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1993.??.??"]
+
+1. Rc1 $1 Nd6 2. Rc7 Bxh6 {(Die Zugumstellung mit 1...Lxh6 ist moeglich)} (2...
+Rc8 3. Rd7 $1 Rc3 4. Nxh7 Nxe4+ 5. Ke2 Bb4 6. Rxa7 $18 {
+(Die Originalpartie-Variante)}) 3. Nxh7 Bg7 (3... Nxe4+ 4. Kf3 Nd2+ 5. Bxd2
+Bxd2 6. Ke4 $18) 4. Ng5 Rc8 5. Rd7 Bf8 6. Kf3 Rc3 7. Nh7 Nf7 8. Nxf8 Kxf8 9.
+Rxa7 Nd6 10. Ke2 Nxe4 11. Bxb6 $16 1-0
+
+[Event "Tilburg"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Shirov"]
+[Black "MOZETIC"]
+[Result "1-0"]
+[Annotator "MGV8-K"]
+[SetUp "1"]
+[FEN "r4rk1/1pp2ppp/8/p2q4/Q7/2P4P/PP2nP1K/RNB2R2 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "1993.??.??"]
+
+1... Ra6 $1 2. Nd2 (2. Qd1 Qe5+ 3. f4 (3. Kh1 Qe4+ 4. f3 Qh4 $1 $19) 3... Qh5
+4. Nd2 {(Die Originalpartie-Variante)} Rh6 $1 (4... Rd8 $2 5. Rf2 $16 {
+(In der Originalpartie gespielt)}) 5. Rf3 Ng3 $3 $19) 2... Rh6 (2... Nxc1 3.
+Qd4 Qxd4 4. cxd4 Nd3 $19) 3. Qg4 Nxc1 4. Raxc1 Rg6 ({Oder} 4... Qxd2 5. Rb1 c5
+$17) 5. Qf3 Qxd2 $17 1-0
+
+[Event "Dortmund"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "KAMSKY"]
+[Black "Shirov"]
+[Result "1-0"]
+[Annotator "MGV9-K"]
+[SetUp "1"]
+[FEN "rnbqr2k/pp2bp1B/7B/3pP1pP/3p4/2P2N2/P1Q2PP1/R3K2R w KQ - 0 1"]
+[PlyCount "7"]
+[EventDate "1992.??.??"]
+
+1. Bg6 $1 (1. Nxd4 $2 Bd6 (1... Nc6 2. Nxc6 bxc6 3. Bd3 $15) 2. O-O Bxe5 3. Nf3
+g4 4. Bg5) 1... Be6 (1... fxg6 $2 2. hxg6 Kg8 3. g7 Qa5 4. Bxg5 $18) (1... Kg8
+$2 2. Bxf7+ $1 Kxf7 3. Qg6#) 2. Nxd4 Qc8 3. Bd3 (3. Qd2 $1 fxg6 4. hxg6 Kg8 5.
+Rc1 Nc6 6. Bxg5 Qc7 7. Bxe7 Rxe7 8. Kf1 $1 $18 {(Die Originalpartie-Variante)})
+3... Nc6 4. f4 $18 1-0
+
+[Event "World Chess Cup"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "GRISCHUK"]
+[Black "Kamsky"]
+[Result "1-0"]
+[Annotator "MGV10-P"]
+[SetUp "1"]
+[FEN "3r1k2/2pq1np1/p2pQ3/1p1P1ppP/3P2N1/P7/1P3PP1/4R1K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "2005.??.??"]
+
+1. Nf6 $1 gxf6 (1... Qxe6 2. dxe6 gxf6 3. e7+ Kg7 4. exd8=Q Nxd8 5. Re7+ $18)
+2. Qxf6 Re8 3. Re6 Qd8 (3... Rxe6 4. dxe6 Qe7 5. Qxf5 $1 Kg8 6. Qg6+ Kf8 7.
+exf7 Qxf7 8. Qxg5 Qb3 9. Kh2 $18) 4. Qxf5 $18 {(Die Originalpartie-Variante)}
+1-0
+
+[Event "1. BL"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "APPEL"]
+[Black "Beckhuis"]
+[Result "1-0"]
+[Annotator "MGV11-K"]
+[SetUp "1"]
+[FEN "1r3bk1/1bp3p1/p2q1p2/1p1PNQp1/2p5/P5P1/1P3P1P/3RR1K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2006.??.??"]
+
+1. Ng4 $1 Bc8 (1... Kh8 2. Re6 Bc8 (2... Qc5 3. h4 gxh4 4. Qh5+ Kg8 5. Rxf6 $1
+gxf6 6. Qg6+ Bg7 7. Nxf6+ Kf8 8. Nd7+ $18) (2... Qd8 3. Qg6 Bxd5 4. Rxf6 $18)
+3. Nxf6 $3 gxf6 4. Qxf6+ Bg7 5. Rxd6 $18) (1... c3 2. Qg6 Kh8 3. Re6 $18) 2.
+Nh6+ $1 gxh6 (2... Kh8 $2 3. Nf7+ Kg8 4. Nxd6 Bxf5 5. Nxf5 $18) 3. Qg6+ Kh8 4.
+Re8 c6 (4... Bg4 5. Rxb8 {Und Schwarz gab in der Originalpartie auf wegen:}
+Bxd1 6. Qf7 $18) 5. Qxh6+ Kg8 6. Qg6+ Kh8 7. Qf7 $18 1-0
+
+[Event "Berlin op"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "RAZUVAEV"]
+[Black "Ostojic"]
+[Result "1-0"]
+[Annotator "MGV12-E"]
+[SetUp "1"]
+[FEN "8/4k3/p2p2p1/P1pPn2p/1pP1P2P/1P1NK1P1/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1988.??.??"]
+
+1. g4 $1 (1. Nxe5 $4 dxe5 2. Kf3 Kd7 3. g4 Ke7 $11) 1... Nxg4+ (1... Kf6 2.
+gxh5 gxh5 3. Nf4 Ng4+ 4. Kf3 Ne5+ 5. Ke2 Kf7 6. Nxh5 $18) (1... Kf7 2. gxh5
+gxh5 3. Nf4 Ng4+ 4. Kf3 Nf6 5. Ne6 Nd7 6. Nc7 $18) (1... hxg4 2. Nxe5 dxe5 3.
+Kf2 $18) (1... Nxd3 2. Kxd3 Kf6 3. gxh5 gxh5 4. Ke2 $18) 2. Kf4 Kf6 (2... Nf6
+3. e5 dxe5+ 4. Nxe5 $18 {(Die Originalpartie-Variante)}) 3. e5+ $3 Nxe5 4. Nxe5
+dxe5+ 5. Ke4 $18 1-0
+
+[Event "Tilburg"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "SVIDLER"]
+[Black "Van Wely"]
+[Result "1-0"]
+[Annotator "MGV13-E"]
+[SetUp "1"]
+[FEN "4R3/P7/2bB2p1/r3pk2/2p2p1P/2P2P1K/6P1/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1998.??.??"]
+
+1. Rxe5+ $1 Rxe5 2. Bxe5 Kxe5 (2... Bd5 3. Bc7 Ba8 4. Kh2 $1 Bc6 5. Kg1 Bd5 6.
+Kf2 Ba8 7. Ke2 $18 {(Schwarz kann nicht den Marsch des weissen Koenigs auf den
+Damenfluegel verhindern!)}) 3. Kg4 Kf6 4. Kxf4 Bb7 5. g4 Bc6 6. Ke3 $18 {
+(Die Originalpartie-Variante)} 1-0
+
+[Event "CHN-RUS"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "ZHANG PENGXIANG"]
+[Black "Svidler"]
+[Result "1/2-1/2"]
+[Annotator "MGV14-P"]
+[SetUp "1"]
+[FEN "4k1r1/5q2/p2pp2Q/4P3/Ppr2P2/8/P5BP/5R1K w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2001.??.??"]
+
+1. f5 $1 (1. exd6 $2 Qg6 $17) 1... Rxg2 $1 (1... dxe5 2. f6 $1 Rf8 (2... Kd8 3.
+Qd2+ Qd7 4. f7 Rf8 5. Qg5+ Kc7 6. Qxe5+ Qd6 7. Qe3 {Mit Gegenspiel}) (2... Rg6
+3. Qh8+ Rg8 4. Qh6 $11) 3. Qg5 Qc7 4. Rd1 Rd4 5. Rc1 Rxf6 6. Qg8+ Rf8 7. Qxe6+
+Kd8 8. Rxc7 Rd1+ 9. Bf1 Rdxf1+ $11) (1... Rcg4 2. Qc1 $1 (2. Bc6+ $2 $19 {
+(Die Originalpartie-Variante)}) 2... Kd8 3. Rd1 $18) 2. Kxg2 Rc2+ 3. Kh3 exf5
+4. exd6 Kd7 5. Rg1 Rc3+ 6. Kh4 Qc4+ 7. Kg5 Qd4 8. Rg2 Rc5 9. Kg6 Qxd6+ 10. Kh7
+Qxh6+ 11. Kxh6 $11 1/2-1/2
+
+[Event "Corus"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "BOLOGAN"]
+[Black "Svidler"]
+[Result "1-0"]
+[Annotator "MGV15-P"]
+[SetUp "1"]
+[FEN "3rr1k1/p2b1p1p/6p1/n2Pq3/1pp3P1/4B2P/P1Q2PB1/2R1R1K1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2004.??.??"]
+
+1. Bc5 $1 Qxe1+ (1... b3 2. Rxe5 bxc2 3. Rxe8+ Rxe8 4. Rxc2 Ba4 5. Rc3 $18) 2.
+Rxe1 Rxe1+ 3. Kh2 b3 (3... Rde8 4. Bxb4 R1e2 5. Qc3 Rxf2 6. Kg3 $18 {
+(Die Originalpartie-Variante)}) (3... Rb8 4. Qd2 Rb1 5. Be4 Rf1 6. Bd4 $18) 4.
+axb3 Nxb3 (4... cxb3 5. Qc3 Rde8 6. Ba3 $1 R1e2 7. Qxa5 b2 8. Qb4 $1) 5. Qc3
+Nxc5 6. Qxe1 Rc8 7. Qe3 a5 8. d6 a4 9. f4 $18 1-0
+
+[Event "XXIII SuperGM"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Topalov"]
+[Black "IVANCHUK"]
+[Result "1/2-1/2"]
+[Annotator "MGV16-P"]
+[SetUp "1"]
+[FEN "3qr1k1/1b4p1/3b1p2/2npp1N1/4P3/3PB3/BQ3PP1/4R1K1 b - - 0 1"]
+[PlyCount "13"]
+[EventDate "2006.??.??"]
+
+1... fxg5 $1 2. Bxc5 Bxc5 3. Qxb7 Rf8 4. Qxd5+ Qxd5 5. Bxd5+ Kh7 6. Re2 g4 7.
+g3 {(Die Originalpartrie-Variante)} (7. Kf1 g3 8. f3 $11) 7... Kh6 $11 1/2-1/2
+
+[Event "Linares"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "BAREEV"]
+[Black "Ivanchuk"]
+[Result "1-0"]
+[Annotator "MGV17-E"]
+[SetUp "1"]
+[FEN "8/5pp1/3kpb2/8/1PKP3p/r4N1P/1R3PP1/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1994.??.??"]
+
+1. Ne5 $1 Bxe5 (1... Ra7 2. b5 Bd8 3. Nc6 Ra4+ 4. Kb3 Ra8 5. Nxd8 Rxd8 6. Rc2
+$18 {(Die Originalpartie-Variante)}) 2. dxe5+ Kxe5 (2... Kc6 3. Rd2 Ra1 (3...
+g5 4. Rd6+ Kc7 5. Rd3 $18) 4. Rd6+ Kc7 5. Rd4 Re1 6. Rf4 $18) 3. b5 Ra8 4. b6
+Kd6 5. Kb5 Rb8 6. Rd2+ Ke7 7. Kc6 Rc8+ 8. Kb7 Rc4 9. Ra2 $18 1-0
+
+[Event "WCC San Luis"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "POLGAR, J."]
+[Black "Kasimdzhanov"]
+[Result "1-0"]
+[Annotator "MGV18-P"]
+[SetUp "1"]
+[FEN "r1bRnk1r/1p2qpb1/p6p/5P2/8/2N5/PPPQ1P1P/2K2BR1 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2005.??.??"]
+
+1. Bb5 $1 axb5 2. Re1 Be5 (2... Bf6 3. Rxe8+ Qxe8 4. Rxe8+ Kxe8 5. Ne4 Bd8 6.
+Nd6+ Kf8 7. Qd5 $18) (2... b4 {(Die Originalpartie)} 3. Rxe8+ Kxe8 4. Nd5 $18)
+3. f4 Bf6 4. Rxe8+ Qxe8 5. Rxe8+ Kxe8 6. Nd5 Bd8 7. Qe3+ Kf8 8. f6 $18 1-0
+
+[Event "WCC San Luis"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "LEKO"]
+[Black "Polgar, J."]
+[Result "1-0"]
+[Annotator "MGV19-P"]
+[SetUp "1"]
+[FEN "1rb1k3/2qp1pp1/p3p1nr/6Rn/1b1QPP2/2N1B3/1PP1N2P/1K1R1B2 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2005.??.??"]
+
+1. Nb5 $1 Qc6 (1... Rxb5 2. Rxb5 axb5 3. Qxb4 Nhxf4 4. Nc3 Rxh2 5. Bg1 $18 {
+(Die Originalpartie-Variante)}) (1... axb5 2. Qxb4 Ne7 3. Nd4 $18) 2. Qxb4 Rxb5
+3. Rxb5 Qxb5 4. Qxb5 axb5 5. f5 Ne5 6. Bxh6 gxh6 7. Nc3 b4 8. Nb5 $18 1-0
+
+[Event "XXIII SuperGM"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "LEKO"]
+[Black "Radjabov"]
+[Result "1-0"]
+[Annotator "MGV20-P"]
+[SetUp "1"]
+[FEN "1r6/Rb4kp/3pr3/3Rp1pP/6N1/1Pq3P1/4QP2/6K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2006.??.??"]
+
+1. Qc4 $1 Qxc4 (1... Qe1+ 2. Kg2 $1 Re7 3. Rxb7 $1 Rexb7 4. Rxd6 $18 {
+(Die Originalpartie-Variante)}) 2. bxc4 Kf7 3. f3 Ke8 4. Rb5 Re7 5. Rb6 Kd8 (
+5... Rf7 6. Kh2 Rc7 7. Nf6+ Kd8 (7... Ke7 8. Nxh7 $18) 8. Rxd6+ $18) 6. Rxd6+
+Kc7 7. Rh6 $18 1-0
+
+[Event "Moscow"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "LEKO"]
+[Black "Anand"]
+[Result "1-0"]
+[Annotator "MGV21-E"]
+[SetUp "1"]
+[FEN "2r5/8/p1k2p2/Kp3p1p/3R4/P1P2PP1/7P/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2004.??.??"]
+
+1. Rh4 $1 Kd6 (1... Kd5 2. Kb4 Rh8 3. a4 bxa4 4. c4+ Ke5 5. Kxa4 $18) 2. Kb4
+Rh8 (2... Re8 3. a4 bxa4 4. Rxh5 f4 5. Rf5 fxg3 6. hxg3 $18) 3. c4 $1 bxc4 4.
+Kxc4 Ke6 5. Kb4 $18 {(Die Originalpartie-Variante)} 1-0
+
+[Event "Pamplona"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "MOROZEVICH"]
+[Black "Vallejo Pons"]
+[Result "1-0"]
+[Annotator "MGV22-E"]
+[SetUp "1"]
+[FEN "8/3bkpp1/pp2p3/1P1pP2r/P2K3P/3B4/2P2P2/R7 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1997.??.??"]
+
+1. a5 $1 (1. bxa6 $2 Rxh4+ 2. Kc3 Rxa4 3. Rxa4 Bxa4 4. Kb4 Bc6 5. Bb5 Ba8 6.
+Ba4 Kd8 7. Kc3 f6 8. Kd4 Ke7 9. Bb5 g5 $11) 1... Rxh4+ 2. Kc3 bxa5 (2... Bxb5
+3. Bxb5 axb5 (3... bxa5 $5 4. Bd3 Rf4 (4... f6 5. Kd2 a4 (5... fxe5 6. Rxa5 $16
+) 6. Bxa6 Rf4 (6... fxe5 7. Bb5 Rh2 8. Ke2 e4 9. Rxa4 $16) 7. Ke1 Re4+ 8. Be2
+Rxe5 9. Rxa4 $16) 5. Rg1 g6 (5... Kf8 6. f3 Rxf3 7. Ra1 $16) 6. Rg2 Kd7 7. Kd2
+a4 8. Ke3 Rb4 9. c3 Rb2 10. Rg4 a3 11. Ra4 $18) 4. a6 Rh8 5. Kb4 Kd7 6. a7 (6.
+Kxb5 Kc7 7. Ra3 $16 {(Die Originalpartie-Variante)}) 6... Ra8 7. Kxb5 Kc7 8.
+Ka6 $18) 3. bxa6 Bc6 (3... a4 4. a7 Bc6 5. Bb5 Bb7 6. Rxa4 Rxa4 7. Bxa4 Kd8 8.
+Kd4 $18) (3... Ra4 $2 4. a7 $18) 4. a7 Kd7 5. Rxa5 Rh8 6. Kb4 $18 1-0
+
+[Event "RUS-Cup"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Morozevich"]
+[Black "DOLMATOV"]
+[Result "0-1"]
+[Annotator "MGV23-P"]
+[SetUp "1"]
+[FEN "1r2qrk1/p3npbp/b1np4/2p2PN1/4p3/1NPPB1PB/P3Q2P/R1R3K1 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "1997.??.??"]
+
+1... Nd5 $1 (1... exd3 $2 2. Qh5 h6 3. Ne4 $18) (1... Bxd3 $2 2. Qh5 h6 3. f6
+$1 Bxf6 4. Qxh6 Bxg5 5. Bxg5 f5 6. Qxd6 $14) 2. Nxe4 (2. Qh5 $2 Nf6 $1 {
+(durch 1...Sd5! ermoeglicht)} 3. Qh4 Bxd3 $19) 2... Qxe4 $1 3. dxe4 Bxe2 4.
+exd5 Ne5 5. Bg2 Rfe8 $11 {(die Originalpartie-Fortsetzung)} 0-1
+
+[Event "Merida"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "SHORT"]
+[Black "Khalifman"]
+[Result "1-0"]
+[Annotator "MGV24-P"]
+[SetUp "1"]
+[FEN "1k3r2/1p1n1pp1/q1n1p1p1/3pP1P1/3P2P1/pP1NBR2/P4PK1/3Q4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2001.??.??"]
+
+1. Ne1 $1 Ka8 (1... b5 2. Nc2 Kb7 3. Rh3 b4 4. Rh7 $16) (1... Qb6 2. Nc2 Nb4 3.
+Nxb4 Qxb4 4. Bc1 Qe7 (4... f5 5. Qd2 $1 Qxd2 6. Bxd2 Kc7 7. Bb4 $18) 5. Qd2 $16
+) (1... f6 2. gxf6 gxf6 3. exf6 Rxf6 4. Nc2 Ka8 5. Rh3 Rf8 6. Bh6 $1 $16 {
+(Die Originalpartie-Fortsetzung)}) 2. Nc2 Qb6 (2... b5 3. Bd2 Qb6 4. b4 $16) 3.
+Bc1 Qd8 4. Bxa3 Rh8 5. Rxf7 Qxg5 6. Bd6 $14 (6. Rxd7 $2 Qf4 $15) 6... Ndb8 7.
+Rf8 $18 1-0
+
+[Event "1. BL 0203"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "ALMASI"]
+[Black "Hickl"]
+[Result "1-0"]
+[Annotator "MGV25-K"]
+[SetUp "1"]
+[FEN "1rbq1rk1/1p3pbn/p3p1p1/P1pPp3/R7/2PB1N2/2P3PP/2B1QRK1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2003.??.??"]
+
+1. Rh4 $1 exd5 (1... Nf6 2. Qxe5 Nd7 3. Qg3 exd5 4. Bh6 $18) (1... Bf6 2. Rh6
+exd5 (2... c4 3. Bxg6 $3 $18) 3. Nxe5 $18 {(Die Originalpartie-Variante)}) 2.
+Rxh7 e4 3. Rxg7+ $1 Kxg7 4. Qg3 exd3 5. Qxb8 dxc2 6. Qe5+ Kh7 7. Qg3 $18 1-0
+
+[Event "ISR-ch"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "SUTOVSKY"]
+[Black "Gelfand"]
+[Result "1-0"]
+[Annotator "MGV26-K"]
+[SetUp "1"]
+[FEN "1r1qk2r/5p2/pp1pb1pp/n1p5/P4Q1N/3P4/NPP3PP/R4RK1 w k - 0 1"]
+[PlyCount "9"]
+[EventDate "2000.??.??"]
+
+1. Nxg6 $1 Rh7 (1... Rg8 2. Rae1 $1 Rxg6 $4 (2... Rb7 3. Nf8 $3 Rxf8 4. Rxe6+
+fxe6 5. Qxf8+ Kd7 6. Qxh6 $18) 3. Qxf7#) (1... fxg6 2. Rae1 Qe7 (2... Kd7 3.
+Rxe6 $1 $18) 3. Nc3 Kd7 4. Nd5 Bxd5 (4... Qg5 5. Nf6+ Ke7 (5... Kc6 6. Qxg5
+hxg5 7. Rxe6 Rbf8 8. Rfe1 Nb7 9. Ng4 $18) 6. Rxe6+ $1 Kxe6 7. Qe4+ $18) 5.
+Rxe7+ $18 {(Die Originalpartie-Variante)}) 2. Nh4 Kd7 3. Nf5 Nb7 4. Nc3 Qg5 5.
+Qe4 $18 1-0
+
+[Event "Milan Vidmar Mem."]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "VOLOKITIN"]
+[Black "Kozul"]
+[Result "1-0"]
+[Annotator "MGV27-K"]
+[SetUp "1"]
+[FEN "r2qr1k1/pp1nbppp/3p1n2/2pP2N1/2B2B2/3P4/PPP1Q1PP/4RRK1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2001.??.??"]
+
+1. Nxf7 $1 Kxf7 2. Qe6+ Kf8 (2... Kg6 $2 3. d4 {(mit matt)}) 3. Re3 (3. g4 a6
+4. g5 b5 5. Re3 $1 $18 {(Die Originalpartie-Variante)}) 3... a6 4. Rg3 Nh5 5.
+Rh3 Ndf6 (5... Nhf6 6. Bg5 $18) 6. Rxh5 $1 $18 1-0
+
+[Event "FIDE Wch Tripoli"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "DOMINGUEZ"]
+[Black "Radjabov"]
+[Result "1-0"]
+[Annotator "MGV28-E"]
+[SetUp "1"]
+[FEN "5r2/k6r/p2bP3/2pP2pp/2R1P3/1P2K1P1/P4P2/7R w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2004.??.??"]
+
+1. b4 $1 cxb4 2. Rc6 Rd8 (2... Bc7 3. Rxc7+ $1 Rxc7 4. d6 Rh7 5. f4 $18) (2...
+Bb8 3. d6 Kb7 4. Rhc1 $18 {(Die Originalpartie-Variante)}) 3. Kd4 Kb7 4. e5 Bf8
+5. f4 $18 1-0
+
+[Event "Capablanca mem"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Felgaer"]
+[Black "DOMINGUEZ"]
+[Result "0-1"]
+[Annotator "MGV29-E"]
+[SetUp "1"]
+[FEN "8/1B6/3r2p1/5p1p/5P1P/4k1P1/8/6K1 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "2004.??.??"]
+
+1... g5 $1 2. hxg5 (2. fxg5 f4 $1 3. gxf4 (3. Kg2 f3+ 4. Bxf3 Rd2+ $19) 3...
+Kxf4 4. Kg2 Kg4 $19) 2... h4 $1 3. Kg2 hxg3 4. Kxg3 Rd4 $19 {
+(Die Originalpartie-Variante)} 0-1
+
+[Event "Santa Clara"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "GOMEZ"]
+[Black "Dominguez"]
+[Result "1-0"]
+[Annotator "MGV30-P"]
+[SetUp "1"]
+[FEN "3r2k1/pp1r1p2/2p1pbp1/q4n1p/2PPQ2P/PP1R1NP1/5PK1/2BR4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2000.??.??"]
+
+1. Bg5 $1 Bxg5 (1... Kg7 2. Ne5 Rd6 3. b4 Qc7 4. Qf4 $16) 2. hxg5 Qb6 (2... c5
+3. Ne5 cxd4 4. Nxd7 Rxd7 5. g4 $16) (2... Nd6 3. Qf4 Qf5 4. Qe3 $16) (2... Qxa3
+3. g4 $1 hxg4 4. Ne5 Rc7 5. Nxg4 $16 {(Die Originalpartie-Variante)}) 3. c5 Qc7
+4. Ne5 Rd5 5. g4 Ng7 6. gxh5 Nxh5 7. b4 $14 1-0
+
+[Event "Luebeck - Kreuzberg"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "FRESSINET"]
+[Black "Socko"]
+[Result "1-0"]
+[Annotator "MGV31-K"]
+[SetUp "1"]
+[FEN "4q3/1p4bk/1P1Bb1p1/1r2P2p/2p5/5RQP/6PK/5R2 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2002.??.??"]
+
+1. Rf8 $1 Qd7 (1... Bxf8 2. Rxf8 Qd7 3. Rf6 Qe8 4. Bf8 Kg8 5. Be7 $1) (1... Qc6
+2. R1f6 Bxf6 3. Rxf6 $1 $18 {(Die Originalpartie-Variante)}) 2. R1f6 $1 Bxf6 3.
+Rxf6 Qe8 4. Bf8 Kg8 5. Qf4 Bd5 6. Ba3 $18 1-0
+
+[Event "LTU-ch"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "ASAUSKAS"]
+[Black "Malisauskas"]
+[Result "1-0"]
+[Annotator "MGV32-K"]
+[SetUp "1"]
+[FEN "r2q1r2/1b2bpkp/p3p1p1/2ppP1P1/7R/1PN1BQR1/1PP2P1P/4K3 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "2004.??.??"]
+
+1. Qf6+ $1 Bxf6 (1... Kg8 2. Rxh7 Bxf6 3. gxf6 Kxh7 4. Rh3+ Kg8 5. Bh6 Qc7 6.
+f4 {(mit matt)}) 2. gxf6+ Kg8 (2... Qxf6 3. Bh6+ Kg8 4. exf6 $18) 3. Rxh7 Kxh7
+4. Rh3+ {(Und Weiss setzt matt: Die Originalpartie-Variante)} 1-0
+
+[Event "BCF-ch (4NCL)"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Turner"]
+[Black "MESTEL"]
+[Result "0-1"]
+[Annotator "MGV33-K"]
+[SetUp "1"]
+[FEN "r4rk1/pp3pb1/1qppbnp1/8/2P1PP2/1PNQ1BPp/P6P/R1B1K2R b KQ - 0 1"]
+[PlyCount "9"]
+[EventDate "2000.??.??"]
+
+1... Nxe4 $1 2. Nxe4 (2. Bxe4 d5 $1 3. cxd5 (3. Na4 dxe4 4. Qe2 Qb4+ 5. Bd2 Qa3
+6. Bc1 Qd6 7. Bb2 Bxb2 8. Qxb2 Rad8 $19) 3... cxd5 4. Bf3 (4. Bxd5 Bxc3+ 5.
+Qxc3 Bxd5 $19) 4... Bf5 5. Qd2 Rfe8+ $19 {(Die Originalpartie-Variante)}) 2...
+Bxa1 3. Be3 Qa5+ (3... Qa6 4. Qd2 $19) 4. Qd2 Qxd2+ 5. Kxd2 Bg7 $19 0-1
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "SOLOVJOV"]
+[Black "Lugovoj"]
+[Result "1-0"]
+[Annotator "MGV34-K"]
+[SetUp "1"]
+[FEN "1rb1qrk1/ppn1p1b1/3p3p/2pP2p1/4P1nQ/P1N2N1P/1PPBB1P1/R4RK1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2005.??.??"]
+
+1. Bxg5 $1 hxg5 2. Nxg5 Nf6 (2... Bd4+ 3. Kh1 Nf2+ (3... Rxf1+ 4. Rxf1 Qg6 5.
+Bxg4 Bf6 6. Bxc8 $18) 4. Rxf2 Rxf2 5. Qh7+ Kf8 6. Bh5 Qd8 7. e5 $1 Bxe5 8. Nce4
+Rf4 9. Nf6 $1 {mit matt!}) 3. Rxf6 $1 Rxf6 4. Qh7+ Kf8 5. Bh5 Qd8 6. Bf7 $18 {
+(Die Originalpartie-Variante)} 1-0
+
+[Event "St. Petersburg vs Moscow"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "SOLOVJOV"]
+[Black "Kharitonov"]
+[Result "1-0"]
+[Annotator "MGV35-P"]
+[SetUp "1"]
+[FEN "r2qkb1r/3bpppp/p4nn1/3P4/1p1N4/1QN3B1/PP3PPP/R3KB1R w KQkq - 0 1"]
+[PlyCount "19"]
+[EventDate "2005.??.??"]
+
+1. Nc6 $1 (1. Qxb4 $2 e5 $19) (1. Nd1 Qb6 2. Nf3 e6 $11) 1... Bxc6 (1... Qc8 2.
+Nxb4 e5 3. dxe6 Bxe6 4. Qa4+ Bd7 5. Qa5 $16) 2. dxc6 e5 (2... bxc3 3. Rd1 Qa5 (
+3... Qc8 4. c7 Nd7 5. Be2 cxb2 (5... e5 6. Bg4 $18) 6. O-O $18) 4. Bc4 $1 {
+(Die Originalpartie-Variante)} e6 (4... c2+ 5. Ke2 cxd1=Q+ 6. Rxd1 e6 7. Qb7
+Rd8 8. Rxd8+ Qxd8 9. c7 $18) 5. Qb7 $1 $18) 3. c7 $5 (3. Bc4 Qc7 4. Nd5 Nxd5 5.
+Bxd5 Bd6 6. O-O O-O 7. Rad1 $16) 3... Qxc7 4. Qa4+ Nd7 (4... Qd7 $4 5. Bb5 $18)
+5. Nd5 Qb7 6. Bb5 $1 axb5 7. Qxa8+ Qxa8 8. Nc7+ Kd8 9. Nxa8 Bc5 10. Rc1 $16 1-0
+
+[Event "Kiev"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "TABOROV"]
+[Black "Vovk"]
+[Result "1-0"]
+[Annotator "MGV36-E"]
+[SetUp "1"]
+[FEN "8/4k2p/p1P5/1p2P3/2p5/P3K3/7P/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1993.??.??"]
+[TimeControl "3600+15"]
+
+1. Ke4 $1 Ke6 (1... h6 2. Ke3 Ke6 3. Kd2 Ke7 4. Kc3 Ke6 5. Kb4 Ke7 6. h4 Ke8 7.
+e6 $18) 2. Kd4 Ke7 3. Kc3 a5 (3... Ke6 4. Kb4 Ke7 5. Ka5 Kd8 (5... c3 6. c7 Kd7
+7. Kb6 c2 8. e6+ $18 {(Die Originalpartie-Variante)}) 6. Kb6 $18) 4. Kd4 h6 5.
+h3 h5 6. h4 Ke6 7. Kc5 $1 c3 8. c7 Kd7 9. Kb6 c2 10. e6+ Kc8 11. e7 Kd7 12.
+e8=Q+ Kxe8 13. c8=Q+ $18 1-0
+
+[Event "GER-ch Binz"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Boensch"]
+[Black "ZUDE"]
+[Result "0-1"]
+[Annotator "MGV37-E"]
+[SetUp "1"]
+[FEN "8/8/5kp1/4p1p1/3n4/1pK1PP2/3N4/8 b - - 0 1"]
+[PlyCount "17"]
+[EventDate "1995.??.??"]
+
+1... Nxf3 $1 2. Nxf3 g4 3. Nd2 Kg5 (3... Kf5 4. Kd3 g3 5. Ke2 Kg4 6. Kf1 Kh3 7.
+Kg1 b2 $19 {(Die Originalpartie-Variante)}) 4. Kd3 b2 5. Ke2 Kh4 6. Kf2 Kh3 7.
+Kg1 g3 8. e4 g2 9. Nb1 Kg3 $19 0-1
+
+[Event "Gausdal NOR"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "OHLZON"]
+[Black "Nilsen"]
+[Result "1-0"]
+[Annotator "MGV38-K"]
+[SetUp "1"]
+[FEN "q1rbnr2/1b3p1k/pp1ppPp1/4n1Pp/2PNPQ1P/1PN1B3/P3B1R1/2R3K1 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2003.??.??"]
+
+1. Bxh5 $1 Nd3 (1... Rh8 2. Be2 Kg8 3. Rf1 Rc7 4. h5 gxh5 (4... Qc8 5. Na4 $18)
+5. g6 $18) (1... Bxe4 2. Nxe6 $1 fxe6 (2... Bxg2 3. Nxf8+ Kg8 4. Nxg6 Bh1 5.
+Nd5 $18) 3. Nxe4 $18) (1... gxh5 2. g6+ Nxg6 3. Qh6+ Kg8 4. Nxe6 $1 {
+Und Weiss setzt Matt.}) 2. Bxg6+ $1 fxg6 {(Die Originalpartie-Variante)} 3. Qh2
+Bxe4 (3... Nxc1 4. h5 $18) 4. h5 Kg8 5. hxg6 Bxg6 6. Nxe6 Qf3 (6... Nxc1 7. Qh6
+$18) 7. Rg3 Qh5 8. Qxh5 Bxh5 9. Rf1 Rf7 10. Nxd8 Rxd8 11. Bxb6 $18 1-0
+
+[Event "BL 9596"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "CONQUEST"]
+[Black "Hodgson"]
+[Result "1-0"]
+[Annotator "MGV39-K"]
+[SetUp "1"]
+[FEN "4kbnr/ppq2ppp/1np1p3/6P1/3r3P/2N2Q2/PPPB1P2/2KR1B1R w k - 0 1"]
+[PlyCount "13"]
+[EventDate "1995.??.??"]
+
+1. Nb5 $1 cxb5 2. Bxb5+ Kd8 (2... Nd7 {(Die Originalpartie)} 3. Ba5 $3 Qxa5 4.
+Qxb7 Rxd1+ 5. Rxd1 $18) 3. Bf4 $1 Rd6 4. Rhe1 $1 Kc8 (4... a6 5. Rxe6 $3 axb5 (
+5... fxe6 6. Bxd6 Bxd6 7. Qf8#) (5... Rxd1+ 6. Qxd1+ $18) 6. Bxd6 Bxd6 7.
+Rdxd6+ Nd7 8. Qxf7 $18) 5. Bxd6 Bxd6 6. Rxd6 $1 Qxd6 7. Qc3+ $18 1-0
+
+[Event "FRA -ct"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Efimov"]
+[Black "NATAF"]
+[Result "0-1"]
+[Annotator "MGV40-K"]
+[SetUp "1"]
+[FEN "2kr3r/pp3p1p/2n1b3/q3p3/2p5/b1P1P1N1/P1QN1PPP/1R2KB1R b K - 0 1"]
+[PlyCount "15"]
+[EventDate "2000.??.??"]
+
+1... Rxd2 $1 2. Qxd2 (2. Kxd2 Rd8+ 3. Ke1 Nb4 4. cxb4 (4. Rxb4 Bxb4 5. Ne4 Be7
+$19) 4... Bxb4+ 5. Rxb4 Qxb4+ 6. Ke2 f5 7. a3 (7. Nxf5 c3 8. Kf3 e4+ 9. Qxe4
+Bd5 $19) 7... Qxa3 8. Nxf5 c3 $19) 2... Rd8 3. Qc2 Nb4 4. Rxb4 (4. Qxh7 Nxa2 5.
+Be2 Nxc3 6. O-O Nxb1 7. Rxb1 c3 8. Bf3 Bb2 $19) 4... Bxb4 5. Ne4 Be7 6. Nd2 (6.
+Be2 Qd5 7. O-O f5 8. Ng3 Qd2 9. Qb1 Ba3 $17 {(Die Originalpartie-Variante)})
+6... Kb8 7. Be2 f5 8. O-O (8. Nxc4 Qc5 9. Nd2 Qa3 $17) 8... e4 $17 0-1
+

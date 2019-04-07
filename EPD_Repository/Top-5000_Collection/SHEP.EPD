@@ -1,0 +1,17 @@
+8/1p4P1/5K2/2k5/8/R7/6r1/8 b - - bm Rxg7; id "Shep.01";
+5k2/8/6p1/4q3/5p2/5P2/6R1/6K1 b - - bm Qe1+; id "Shep.02";
+r1bq1r2/pp3ppk/2n1p3/3pP3/1b4QP/2N2N2/PPP2PP1/R3K2R w kKQ - bm Qh5+; id "Shep.03";
+4r1k1/1Q3ppp/8/3r4/4q3/PN3nPP/1P3P2/1R3R1K b - - bm Nh4+; id "Shep.04";
+7k/q2PK3/6Q1/8/7p/8/8/8 w - - bm Ke6; id "Shep.05";
+2r2kn1/1p3pr1/pq2p3/3pP2N/b4P1P/PnPQ4/1B4P1/1R2KB1R b K - bm Rc4; id "Shep.06";
+1r6/p2p1pk1/8/n3pq1p/2Pp1Pp1/P5QP/2R1P1P1/2K2R2 w - - am Qd3; id "Shep.07";
+2r3k1/5ppp/p1n1bq2/4p3/1P2P3/Q3N3/PP1rBPPP/R3K2R b KQ - bm Rxe2+; id "Shep.08";
+1b1r2k1/1r3p2/2b1p1pp/1pP4q/1P1P1P2/R6P/2B1NQP1/3R2K1 w - - bm d5; id "Shep.09";
+4k2r/1p3p2/5p2/r3n2P/p7/P3qBPK/1P1pP3/1RNQ1R2 b k - bm Nxf3; id "Shep.10";
+3b4/3b1k1p/1p3pp1/pP1pP3/P2N1P2/3NK3/6PP/8 w - - bm f5; id "Shep.11";
+1r2kr2/q4p1Q/p2P1P2/3Bp3/bp3b2/8/PPP4P/1K1R2R1 w - - bm Be6; id "Shep.12";
+8/8/8/5pR1/8/2n2k1p/r7/4K3 b - - bm Re2+; id "Shep.13";
+r3r1k1/pb2qppp/1pn5/2b1P3/3pNQ2/1P1B1NP1/P4P1P/3R1RK1 w - - bm Nf6+; id "Shep.14";
+2q3k1/8/1Q3p2/2p1p1pp/p1PbP1Pr/B4P2/P1R3K1/8 b - - bm Rxg4+; id "Shep.15";
+r4rk1/pppb1ppp/1qn1pn2/8/2BP4/2N1B1P1/PPP3PP/1R1Q1RK1 w - - bm Rxf6; id "Shep.16";
+r2qr3/ppp2kpp/2n2n2/5b2/1bPP4/4BP2/PP3KPP/RN1Q1BNR w - - bm Ne2; am Nc3; id "Shep.II.01";

@@ -1,0 +1,130 @@
+[Event "?"]
+[Site "?"]
+[Date "1999.11.02"]
+[Round "?"]
+[White "bm Nxd6"]
+[Black "USKI-DIF.EPD"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "2b1rr1k/1p5p/1Ppp2q1/p3bN2/2P1n3/5R2/PBQ3BP/3R2K1 w - - 0 1"]
+
+{ AH7: 16=NOK after 3h } *
+
+[Event "?"]
+[Site "?"]
+[Date "1999.11.02"]
+[Round "?"]
+[White "bm Nxh7"]
+[Black "USKI-DIF.EPD"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "2rq1rk1/pp1bnpbp/4p1p1/3pP1N1/3P2Q1/2PB4/P4PPP/R1B1R1K1 w - - 0 1"]
+
+{ AH7: 1:47:00 (15e) } *
+
+[Event "?"]
+[Site "?"]
+[Date "1999.11.02"]
+[Round "?"]
+[White "bm Rxd6"]
+[Black "USKI-DIF.EPD"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "rq3r1k/p2n1p2/1pbb1np1/2p2BB1/8/2N2N2/PP3QPP/3R1RK1 w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site "?"]
+[Date "1999.11.02"]
+[Round "?"]
+[White "bm Rxe5"]
+[Black "USKI-DIF.EPD"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r4k1r/pp2pp2/3p1b2/q2PnQpp/3N4/1BP3P1/PP3PP1/3RR1K1 w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site "?"]
+[Date "1999.11.02"]
+[Round "?"]
+[White "bm Rxh2"]
+[Black "USKI-DIF.EPD"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r2q3r/2pkb1p1/p2p1n2/4p1p1/Pp2P1P1/1QP5/1P1P2PP/RNB2RK1 b - - 0 1"]
+
+1... *
+
+[Event "?"]
+[Site " White to move "]
+[Date "1999.11.02"]
+[Round "?"]
+[White "id "ECM.1149""]
+[Black "bm Rxg6"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r4rk1/ppp3b1/3p1qp1/3Pp3/2P1Bn2/4BP2/PP1Q4/2K3RR w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site " Black to move "]
+[Date "1999.11.02"]
+[Round "?"]
+[White "id "ECM.1229""]
+[Black "bm Rxb2"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "1r3rk1/6p1/p1pb1qPp/3p4/4nPR1/2N4Q/PPP4P/2K1BR2 b - - 0 1"]
+
+1... *
+
+[Event "?"]
+[Site " White to move "]
+[Date "1999.11.02"]
+[Round "?"]
+[White "id "ECM.1259""]
+[Black "bm Rd5"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "rnb2rk1/pp2bppp/2p5/q7/4NN2/4B1QP/PPP3P1/2KR3R w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site " White to move "]
+[Date "1999.11.02"]
+[Round "?"]
+[White "id "ECM.1545""]
+[Black "bm Bxg6"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r1b5/p2k1r1p/3P2pP/1ppR4/2P2p2/2P5/P1B4P/4R1K1 w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site " White to move "]
+[Date "1999.11.02"]
+[Round "?"]
+[White "id "ECM.1574""]
+[Black "bm Rxf6"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r4rk1/ppq3pp/2p1Pn2/4p1Q1/8/2N5/PP4PP/2KR1R2 w - - 0 1"]
+
+*
+

@@ -1,0 +1,869 @@
+[Event "Testposition - Eval Results"]
+[Site "Kil"]
+[Date "2001.03.05"]
+[Round "?"]
+[White "CM8"]
+[Black "Larsson"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7k/7P/P5K1/8/4B3/8/8/6b1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2001.??.??"]
+
+ 1/2-1/2
+
+[Event "Good Knight vs Bad Bishop"]
+[Site "?"]
+[Date "1931.03.05"]
+[Round "?"]
+[White "Grigoriev"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5b2/1k2p1p1/2NpP1P1/1K1P4/8/8/8 w - - 0 1"]
+[PlyCount "37"]
+[EventDate "1931.??.??"]
+
+{In this position white's knight is far superior to black's bishop. This is
+very old knowledge and white is winning this one. People that play French as
+black might have nightmares of positions like this. The black bishop can only
+defend the two weak pawns on e6,g6 or wander around like a ghost on the white
+squares.} 1. Na4+ Kc6 2. Ka5 Kb7 3. Nc5+ Kc7 4. Kb5 Be8+ 5. Ka6 Bf7 6. Nb7 Be8
+7. Ka7 Bf7 8. Nd6 Bg8 9. Ka6 Kc6 10. Ka5 Bh7 11. Nf7 Bg8 12. Nh8 Bh7 13. Ka6
+Kc7 14. Kb5 Kb7 15. Kc5 Kc7 16. Nf7 Bg8 17. Nd6 Bh7 18. Ne8+ Kd8 19. Nf6 {
+and wins.} 1-0
+
+[Event "Rook ending"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Alekhine"]
+[Black "Capablanca"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5p1k/r5pp/P7/3R3P/6P1/5PK1/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1927.??.??"]
+
+{1927 Alekhine won the 34th game in the battle vs Capablanca to become World
+Champion. He did it by playing 1.Ra4! in the above position. Black's rook has
+to block the pawn and white has at his disposal an endless reserve of rook
+moves along the a-file. Again, the future for black spells "Zugzwang". The
+general rule is that a passed pawn should be supported by a rook from the rear.
+That's why ideas of 1.Rd5? are wrong. This is a knowledge that have to be
+implemented in many chessprograms. I have seen numerous examples of trying to
+support such a pawn sideways.    What would your favourite program play?} 1.
+Ra4 1-0
+
+[Event "Good knight vs bad bishop II"]
+[Site "Karlsbad"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Burn"]
+[Black "Alekhine"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4b3/5k2/4p1p1/3pP2p/2pP1P1P/2P5/6N1/2K5 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1911.??.??"]
+
+{Amos Burn's only victory over Alekhine, in a good knight versus bad bishop
+ending, is virtually a walk-over. The game went like this: 1.Kb2 Ba4 2.Ne3 Ke7
+3.Ka3 Bc6 4.Kb4 Kd7 5.Ka5 Kc7 6.Nc2 Kb7 7.Nb4 Bd7 8.Na6 Be8 (if 8.-Bc8 9.Nc5+
+and the king penetrates) 9.Nc5+ Kc6 10.Nxe6 and white won.    Test1: The above
+position. This is won for white and your program should give white a big
++score. Though we may dream about the day when +9.99 pops up...;)    Test2:
+Exchange the bad bishop on e8 for a better one on e7. This position is a draw
+and your program should evaluate it close to 0.00. The new position below:} 1.
+Kb2 Ba4 2. Ne3 Ke7 3. Ka3 Bc6 4. Kb4 Kd7 5. Ka5 Kc7 6. Nc2 Kb7 7. Nb4 Bd7 8.
+Na6 Be8 9. Nc5+ Kc6 10. Nxe6 {and white won.} 1-0
+
+[Event "The Good the Bad and the..."]
+[Site "Tallinn"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Baslavsky"]
+[Black "Kondratiev"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p1b2k1/p1p1p1p1/2P1P2p/1P3P1P/P2B4/5K2/8 w - - 0 1"]
+[PlyCount "39"]
+[EventDate "1947.??.??"]
+
+{This position is from Baslavsky-Kondratiev 1947 -slightly modified-    The
+white bishop can aim at 5 of the opponents pawns. The white king threatens to
+sneak in at the upper North-West corner - a5,b6,c7. The black bishop looks
+just like another pawn. The game went like this:    1.Ke3 Kf7 2.Kd4 Be8 3.Kc3
+Ke7 4.Kb3 Kd8 5.Ka4 Kc7 6.Ka5 Bf7 [Black cannot allow Kb6 and is reduced to
+waiting moves with his bishop] 7.Bc4! Bg8 8.a4 Bf7 9.b5 axb5 10.axb5 Bg8 [if
+10.-cxb5 11.Bxb5 Bg8 12.Be8) 11.b6+ [From now on black has to constantly guard
+himself against Ba6, which gives white free hands on the king's flank.] 11...
+Kd8 12.Kb4 Bf7 13.Kc3 Kd7 14.Kd4 Kd8 15.Ke3 Kd7 16.f5! gxf5 17.Kf4 Bg6 18.Kg5
+Be8 19.Kf6 f4 20.Be2 and wins.    Test1: The above position. It's won for
+white and your program should show a high +score for white.    Test2: Exchange
+the good white Bd3 to the more ugly Bc3. This position is now a draw and your
+program should show close to 0.00.} 1. Ke3 Kf7 2. Kd4 Be8 3. Kc3 Ke7 4. Kb3 Kd8
+5. Ka4 Kc7 6. Ka5 Bf7 7. Bc4 Bg8 8. a4 Bf7 9. b5 axb5 10. axb5 Bg8 11. b6+ Kd8
+12. Kb4 Bf7 13. Kc3 Kd7 14. Kd4 Kd8 15. Ke3 Kd7 16. f5 gxf5 17. Kf4 Bg6 18. Kg5
+Be8 19. Kf6 f4 20. Be2 1-0
+
+[Event "The Beauty Queen"]
+[Site "Study by Paul Keres"]
+[Date "1936.03.06"]
+[Round "?"]
+[White "Master Paradox"]
+[Black "Mr.Doubt"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7b/8/8/1N5p/1pp5/7Q/k1K5 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1936.??.??"]
+
+{It was late one night in the smoky, old club house. Master Paradox was
+blitzing as white against the stubborn Mr.Doubt. In highest time pressure
+Master Paradox played 1.Qa2+ and hissed out: "Mate". "Hah, this is no mate. I
+just take it!", Mr Doubt yelled and played his 1.-bxa2. "I said mate", replied
+Master Paradox with rugged voice - lifted his knight and placed it with a thud
+on c6 (2.Nc6). Mr Doubt stared at the position. Naturally he couldn't believe
+his own eyes...shuffled up the pieces and left the room without a word.   
+True? Not really ;) This position is from Keres. White, a queen up, faces the
+unpleasant ...b2+. The only way to bring it home is the paradoxical 1.Qa2+!
+After 1.-bxa2 2.Nc6! black is helpless against the threat 3.Nd4 with mate on
+b3(c2). A true beauty!    Test: This position should be solvable since there
+is a forced mate.} 1. Qa2+ bxa2 2. Nc6 1-0
+
+[Event "The Burial"]
+[Site "?"]
+[Date "1907.03.06"]
+[Round "?"]
+[White "Platow"]
+[Black "Study"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5Bk1/2R5/2p4P/p4p2/1p3P2/1P6/7p/1bK5 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1907.??.??"]
+
+{The story goes that the unknown white player had made some miscalculations in
+the middlegame. Now he sat there staring at the black h2 pawn, which was just
+about to promote. His opponent was walking around with a big smile on his face.
+Heavy clouds entered the white player's mind. Not only was he facing a loss in
+the team match but just recently a good friend of his had passed away. When
+suddenly an ingenious idea flashed his mind! Oh yes, there was indeed a
+miraculous way to save half a point!    Test: White to move and make a draw.
+Fritz seems to have a good idea about these queer things. The solution:    1.
+h7+ Kh8 2.Bg7+! Kxh7 3.Ba1+! [The point. White has to bury his own bishop.] 3..
+.Kh6 4.Rxc6+ Kh5 5.Kb2!! [Very surprising! Now the bishop is no longer alive]
+5.-h1Q [The threat was Rc1. On 5.-Bc2 there follows 6.Rc8 and Rh8+] 6.Rh6+!
+Kxh6 and white cannot move...} 1. h7+ Kh8 2. Bg7+ Kxh7 3. Ba1+ Kh6 4. Rxc6+ Kh5
+5. Kb2 h1=Q 6. Rh6+ Kxh6 1/2-1/2
+
+[Event "The Royal Miracle"]
+[Site "Germany"]
+[Date "1911.03.06"]
+[Round "?"]
+[White "Perlis"]
+[Black "N.N."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p3p1p/p4P1k/P4P1p/6pP/6Pq/5P2/5K2 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1911.??.??"]
+
+{True story this time. The above position happened in a free game between Dr J.
+Perlis and N.N., many years ago, in Germany I think. The good doctor was a
+generous man and played without a queen from the start. So it's not strange
+that he is missing one in the above position. And since we are careful,
+scientific people we shall have a closer look at it with Fritz:  Okey, white
+is a queen down, is standing in check right now, Fritz gives 3 ways to go:  1.
+Ke2 -19.44  2.Ke1 -19.75  3.Kg1 -19.12  Guess it's time for a new game...In
+fact it is - because after 1.Kg1! *black* is mated in 7 moves.} 1. Kg1 $1 1-0
+
+[Event "Bishop against 3 pawns"]
+[Site "Beograd"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Minev"]
+[Black "Dukanovic"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5k2/7P/3K1PP1/8/8/1b6/8 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1977.??.??"]
+
+{This position happened in Minev-Dukanovic, Beograd 1977. Black played 1...
+Bc3? and lost after 2.h7! Kg7 3.Ke6! But the draw was there with 1.-Bc1! 2.h7
+Kg7 3.g6 Bb2 4.Ke6 Kh8!!    Test: The above position is a draw after 1...Bc1
+and should be evaluated close to 0.00.} 1... Bc1 1/2-1/2
+
+[Event "The Silence of the Knight"]
+[Site "Berlin"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Richter"]
+[Black "Schlage"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r1r1k/p2p2pp/np1P1q2/5p2/1PP1p3/P3Q3/B2R1PPP/4R1K1 w - - 0 1"]
+[PlyCount "49"]
+[EventDate "1930.??.??"]
+
+{This is the game Kurt Richter - Schlage, Berlin 1930. We can call it a
+positional test. The theme is about immobilizing your opponent's pieces. Guess
+Richter was in a splendid mood when he played 1.c5! bxc5 2.b5! Nb8 3.Lc4! The
+black knight was a mere spectator for the rest of the game:    1.c5! bxc5 2.
+b5! Nb8 3.Bc4! Rde8 4.f4 Rc8 5.a4 h6 6.Rd5 g5 7.fxg5 Qxg5 8.Qxg5 hxg5 9.g4!
+fxg4 10.Rxe4 Rf4 11.Rxf4 gxf4 12.Rg5 g3 13.hxg3 fxg3 14.Kg2 Kh7 15.Kxg3 a6 16.
+Kf4 axb5 17.axb5 Kh6 18.Rg8 Rxg8 19.Bxg8 Kg7 20.Bc4 Kf6 21.Ke4 Kg5 22.Kd5 Kf4
+23.Kxc5 Ke5 24.Bg8 Kf6 25.Kb6 1-0    Test: Your program should give white a
+big +score for the moveorder 1.c5! bxc5 2.b5!} 1. c5 bxc5 2. b5 Nb8 3. Bc4 Rde8
+4. f4 Rc8 5. a4 h6 6. Rd5 g5 7. fxg5 Qxg5 8. Qxg5 hxg5 9. g4 fxg4 10. Rxe4 Rf4
+11. Rxf4 gxf4 12. Rg5 g3 13. hxg3 fxg3 14. Kg2 Kh7 15. Kxg3 a6 16. Kf4 axb5 17.
+axb5 Kh6 18. Rg8 Rxg8 19. Bxg8 Kg7 20. Bc4 Kf6 21. Ke4 Kg5 22. Kd5 Kf4 23. Kxc5
+Ke5 24. Bg8 Kf6 25. Kb6 1-0
+
+[Event "Clearing the Path"]
+[Site "Jerusalem"]
+[Date "1985.03.06"]
+[Round "?"]
+[White "Gelfer"]
+[Black "Manievich"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/2p3np/1p1p2p1/3P4/1PPK1R2/6PB/7P/4r3 w - - 0 1"]
+[PlyCount "43"]
+[EventDate "1985.??.??"]
+
+{This is Gelfer-Manievich, Jerusalem 1985. The theme is about central
+supremacy and active king in the endgame. The penetration of the king into the
+enemy camp is many times decisive and often worth a pawn. Gelfer bought a
+ticket for his king to the holy land, in a very instructive way:    1.Be6+!
+Nxe6 2.dxe6 Rxe6 [The sacrifice has cleared a path for the white king. 2.-c6
+wouldn't do, owing to 3.b5!] 3.Kd5 Re7 4.Kc6 Kg7 5.Rf2 Re4 6.Rc2 Re7 7.b5 Kf6
+8.Ra2 Re4 9.Kxc7 Rxc4+ 10.Kxb6 d5 11.Ka7 d4 12.b6 Ke5 13.b7 Rb4 14.b8Q+ Rxb8
+15.Kxb8 d3 16.Kc7 Ke4 17.Kd6 Ke3 18.Ke5 d2 19.Ra1 Ke2 59.Kf6 d1Q 60.Rxd1 Kxd1
+61.Kg7 1-0    Test: The move 1.Be6+! should give a high +score for white. If a
+program plays this move it recognizes the value of entering into the enemy
+camp with the king. [Don't do that in the middlegame]} 1. Be6+ Nxe6+ 2. dxe6
+Rxe6 3. Kd5 Re7 4. Kc6 Kg7 5. Rf2 Re4 6. Rc2 Re7 7. b5 Kf6 8. Ra2 Re4 9. Kxc7
+Rxc4+ 10. Kxb6 d5 11. Ka7 d4 12. b6 Ke5 13. b7 Rb4 14. b8=Q+ Rxb8 15. Kxb8 d3
+16. Kc7 Ke4 17. Kd6 Ke3 18. Ke5 d2 19. Ra1 Ke2 20. Kf6 d1=Q 21. Rxd1 Kxd1 22.
+Kg7 1-0
+
+[Event "A Sparking Jewel"]
+[Site "Hastings"]
+[Date "1895.03.06"]
+[Round "?"]
+[White "Pillsbury"]
+[Black "Gunsberg"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1n6/4k2p/p3ppp1/1pPp4/3P1PP1/3NP3/P3K2P/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1895.??.??"]
+
+{Take off your hats folks, cause this is a real piece of art! A stunning
+performance by a great player. If you can figure out who handles the white
+pieces this way, you'll win a nice price - "My 60 Memories" by Ossi Weiner,
+provided of course that some justice is done in the old country [ Sorry, this
+was a little European joke that slipped out of my mouth.] Back to the game -
+we have a knight ending with 7 pawns each. If black's knight was on c6, his
+queenside majority would be a menace. As things stand, white can engineer a
+dramatic central breakthrough:    1.f5!! [ If now 1.-gxf5 2.gxf5 exf5 3.Nf4
+wins - and 1.-Nc6 2.Nf4! ] Black stops Nf4, but succumbs to a brilliant
+diversion.    1...g5 2.Nb4 a5 3.c6! Kd6 4.fxe6! Nxc6 5.Nxc6 Kxc6 6.e4! with a
+winning pawn ending. [ 6...dxe4 7.d5+ etc.]    Test1: White is winning in a
+forced, sparking way. Too hard for the comps?    Test2: Who played white and
+composed this beauty? [ Sorry, no price ]} 1. f5 g5 2. Nb4 a5 3. c6 Kd6 4. fxe6
+Nxc6 5. Nxc6 Kxc6 6. e4 1-0
+
+[Event "Activity in Rook ending"]
+[Site "San Sebastian"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Tarrasch"]
+[Black "Rubinstein"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3r4/7p/Rp4k1/5p2/4p3/2P5/PP3P1P/5K2 b - - 0 1"]
+[PlyCount "11"]
+[EventDate "1911.??.??"]
+
+{This is Tarrasch-Rubinstein, San Sebastian 1911. Black is a pawn down and the
+b6 pawn is under attack. Passive defence with 1...Rd6 or 1...Rb8 is doomed to
+failure. Rubinstein grasps his only chance: To mobilize his rook and king.
+Activity is vital in rook endings.    1...Rd2! 2.Rxb6+ Kg5 3.Ke1 [3.a4 f4 4.a5
+f3! is more than welcome to black.] 3...Rc2 4.Rb5 Kg4! 5.h3+ Kxh3 6.Rxf5 Rxb2
+[and black drew without effort.]    Test: Big + for your program if it chooses
+1.-Rd2! combined with activating the king.    Thumbs down if it chooses
+passive defence with 1...Rd6 or 1...Rb8.} 1... Rd2 2. Rxb6+ Kg5 3. Ke1 Rc2 4.
+Rb5 Kg4 5. h3+ Kxh3 6. Rxf5 Rxb2 1/2-1/2
+
+[Event "Good vs Bad Bishop"]
+[Site "Averbakh study"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Averbakh"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5b2/p2k4/1p1p1p1p/1P1K1P1P/2P1PB2/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1954.??.??"]
+
+{This is one of Averbakh's positions from 1954. It's a typical winning
+position in a good versus bad bishop ending. The black pawns on h5, f5, d5 and
+a6 are vulnerable and curtail the movements of the black bishop. To seal
+black's fate, all white need to do is lose a move. That is - repeat the
+initial position with black to move. This may be accomplished as follows:    1.
+Be2 Be8 [1...Bg6 2.Bd3 Bh7 3.Bf1 leads to instant zugzwang, be it after 3...
+Bg6 4.Bg2 Bf7 5.Bf3 or after 3...Bg8 4.Be2 Bf7 5.Bf3]    2.Bd3 Bg6 3.Bc2 Bh7 4.
+Bb3! Bg8 5.Bd1 Bf7 6.Bf3! and so on    Test: The above position is won for
+white so your program should be able to win it. The evals should differ
+distinctly between white and black.} 1. Be2 Be8 2. Bd3 Bg6 3. Bc2 Bh7 4. Bb3
+Bg8 5. Bd1 Bf7 6. Bf3 1-0
+
+[Event "Bishop ending"]
+[Site "Semmering"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Eliskases"]
+[Black "Capablanca"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2k4p/p1p1bp2/8/1P2PP2/4K3/7P/5B2 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1937.??.??"]
+
+{This is a position used by chesstrainers in Georgia [former USSR]. Got it
+from the horse's mouth during a combined vacation/chesstraining stay in
+Tbilisi a few years ago. It's from the game Eliskases-Capablanca, Semmering
+1937. We have a bishop ending (same colors) with 4 pawns each. White is on the
+move and to conserve winning chances, he must avoid early simplification and -
+if possible - keep the pawns on both wings. Thus 1.Bxa6 Kb6 followed by 2...c5
+constitutes a wrong approach whereas 1.Kd4 is the right one.    1.Kd4 Kb6
+[otherwise 2.Kc5] 2.Bc4 Bg4 [the pawn ending is lost] 3.e5 fxe5+ 4.fxe5 h6 5.
+h4 Bh5 6.e6 Be8 and black had many problems to overcome. White ultimately won
+the game.    Test: 1. Kd4! should be chosen by your program. 1.Bxa6? draws.} 1.
+Kd4 Kb6 2. Bc4 Bg4 3. e5 fxe5+ 4. fxe5 h6 5. h4 Bh5 6. e6 Be8 1-0
+
+[Event "Bishop Rivalry"]
+[Site "Queckenstadt"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Queckenstadt"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6p1/P1b1pp2/2p1p3/1k4P1/3PP3/1PK5/5B2 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1922.??.??"]
+
+{The two Bishops were fighting their own battle, while their Kings were
+watching. It was all about proving suited for the elevation to Archbishop. The
+struggle was tense when suddenly one of the Bishops realized that he could
+achive his goal by actually giving himself up.    As a true religious man he
+did so. Transfered himself to g2 [1.Bg2!] and faced his rival. Left with no
+choice his shocked brother in faith entered the same square [1...Bxg2] and
+found himself in a deserted land. After 2.e4! the door was closed. Desperately
+the Bishop tried to open it again, but could he do it in time?    Test: If
+your program could search deep enough to find the win for white. If not, try
+it with 1.Bg2 played.} 1. Bg2 Bxg2 2. e4 1-0
+
+[Event "The Goose Chase"]
+[Site "Troitzky study"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Troitzky"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2b2pp1/K2p4/p4P2/P7/6P1/8/2k3B1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1923.??.??"]
+
+{Hm, a bishopending with black a pawn up. But white's king is much better
+positioned. White's bishop is a real flyer while the black one tries to take
+off again and again - but never makes it... A flyer versus a goose and the
+hunt is just about to start.    Test: If your program is a flyer or a goose.
+The faster the better But the evals should show that white is *winning*} 1. f6
+gxf6 2. Kb7 Bd8 3. Kc8 Be7 4. Kd7 Bf8 5. Be3+ Kc2 6. Ke8 Bg7 7. Kxf7 Kd3 8. Bf4
+Bh8 9. Kg8 1-0
+
+[Event "Merry-go-round"]
+[Site "A. Selesniew study"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Selesniew"]
+[Black "Study"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4B3/5K2/5P1b/2p5/2p5/1k6/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1921.??.??"]
+
+{So few pieces and so tricky! Here we need the Deep ones at their best! If you
+play this one out you sure will get dizzy!} 1. Kg6 $1 Bf4 (1... c3 2. Kxh6 $11)
+2. Bf7 Kb4 3. Bxc4 $3 Kxc4 4. Kf5 Bd6 5. Ke6 Bf8 6. Kf7 Bh6 7. Kg6 Bf4 8. Kf5
+1/2-1/2
+
+[Event "Good bishop vs Limited knight"]
+[Site "Dawson"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Dawson"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p5k/4pP2/6B1/8/1P6/8/1n4K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1925.??.??"]
+
+{Seemingly about equal but your evals should soon show a big + for white. In
+fact white is winning this position by showing the limitations of a poor
+placed knight.    Test: White moves and wins. The sooner your program sees it
+- the better. It might happen in a tournament game!} 1. f7 Kg7 2. Be7 Kxf7 3.
+Bb4 1-0
+
+[Event "The Winning Arrow"]
+[Site "Queckenstadt"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Queckenstadt"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p1p2pp1/1pP3p1/3Pb2k/4P3/5P1P/8/3K2B1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1914.??.??"]
+
+{From Queckenstadt 1914 [published in Sydsvenska Dagbladet /Swedish newspaper]
+Here we have a bishop ending. White is a pawn down and black has two passers.
+No wonder your evals show a +score for black. But they should change cause
+white is winning this position. His pawns c6,d5,e4,f3 resembles an arrow, and
+once white lets it off there is fire on the board!    Test: White to move and
+win - could you do that under normal tournament conditions [40/2]} 1. f4 Bxf4
+2. Bd4 f6 3. e5 fxe5 4. Be3 Bxe3 5. d6 cxd6 6. c7 1-0
+
+[Event "The Rebel Rook"]
+[Site "Wotawa"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Wotawa"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6r1/Pp5p/7k/p7/7K/6P1/R7 w - - 0 2"]
+[PlyCount "17"]
+[EventDate "1951.??.??"]
+
+{Rookending and black is a pawn up. But white can take it back in a minute. So
+a draw or what? No, by breaking the rules for "normal" play in a rookending,
+the white rook becomes the rebellious hero of the day.    Test: To find the
+winning line for white in normal tournament level.} 2. Ra3 Rc7 3. Rg3 a3 4. a7
+Rxa7 5. Rg8 Ra4 6. g4+ Rxg4 7. Rxg4 b5 8. Rb4 a2 9. Rxb5+ Kg6 10. Ra5 1-0
+
+[Event "Totally Paralysed"]
+[Site "?"]
+[Date "1885.??.??"]
+[Round "?"]
+[White "Horwitz, B."]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k3b1q/pP2p1p1/P1K1P1Pp/7P/2B5/8/8/8 w - - 0 1"]
+[PlyCount "37"]
+[EventDate "1885.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.10.30"]
+
+{This one might prove as mission impossible. Black is totally paralysed from
+start and white is winning - but how? Maybe more amusing to humans than to
+silicons. One could characterize black's position as slightly passive ;)  but
+how could white make progress? Looks hard.  Test: Win it!  Draw scores like 0.
+00 are not trusted...} 1. Kd5 Qg8 2. Bb5 Kc7 3. Be8 Qh8 4. Bf7 Kb8 5. Kc6 Qg8
+6. Kd7 Qh8 7. Ke8 Kc7 8. b8=Q+ Kxb8 9. Kd8 Ka8 10. Kc8 Qg8 11. Kc7 Qxf7 12.
+gxf7 g5 13. Kd8 g4 14. Ke8 Bg7 15. Kxe7 g3 16. f8=Q+ Bxf8+ 17. Kxf8 g2 18. e7
+g1=Q 19. e8=Q# 1-0
+
+[Event "The Weekend Nicholas"]
+[Site "Troitzky, (Schachmaty 1934)"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Troitzky"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1knB4/8/7p/5R2/7K/8/3r4/7B w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1934.??.??"]
+
+{The title of this one is refering to a famous movie star. Wasn't it Con Air,
+something with las vegas and Face Off?! And this person might give a clue to
+the solution of this riddle. It's white to move and win. he has two bishops
+for a knight and a pawn + a rook each. Not much material left to win
+considered that both white's preachers are threatened at the moment....(1.
+-Rxd8, Rh2+)  Test: Reveal the secrets! White is winning but how? Showing +0.
+87 or +1.63 won't do... I like this one but then again, I like Nicholas too...;
+)} 1. Rb5+ Nb6 2. Bxb6 $1 Rh2+ 3. Kg4 Rxh1 4. Bg1+ Kc7 5. Rb1 Kd7 6. Re1 Kc6 7.
+Rd1 Kb5 8. Rc1 Ka4 9. Rb1 1-0
+
+[Event "The Giant King"]
+[Site "Reti"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Reti"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4kr2/5p1K/3p1Q2/1p4P1/4P3/1PP5/7b/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1928.??.??"]
+
+{This position is materially imbalanced. White has queen and pawn for rook and
+bishop. But the problem is the white king! He's in deep trouble concerning the
+threat 1...Be5 2.Q~~ Rh8 mate. At the moment he suffers the consequences of a
+very optimistic walk right into enemy territory. Still he can be the hero of
+the day! Logic and poetry, hand in hand...    Test: This is a win for white.
+The solution is further down. Warning: This one might be difficult for your
+program...} 1. Kh6 Be5 2. Kg7 Bh2 {2...Bxf6+ 3.gxf6} 3. c4 bxc4 4. e5 Bxe5 5.
+bxc4 Bxf6+ {5...Bh2 6.c5 Be5 7.cxd6!} 6. gxf6 Rh8 7. Kxh8 Kd7 8. Kg8 Ke6 9. Kg7
+{+- Reti, 1928 1-0} 1-0
+
+[Event "The Enchanted Castle"]
+[Site "?"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Hilse"]
+[Black "Kunstmann"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4k3/3nn3/1p2pbp1/pP1p1pBp/P2P1P1P/4KPP1/4B3/2R5 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1921.??.??"]
+
+{The story goes that the black player just had realized, that in the long run
+he would lose this game. It was an important match and he had stubbornly
+defended his difficult position, being an exchange down, when a sudden touch
+of magic and inspiration entered his mind... So, he played Kd8-e8, wrote down
+the move in his score sheet, and shook his head. The following deep sigh
+convinced the white player that his victory was close. We now have the
+position in the diagram above.    Here white quickly played 1.Rc7 and glanced
+at his more and more depressed opponent. Black sighed once more and replied
+with 1.-Kd8. Yes, in lost positions additional mistakes come easy, white
+thought, and played his decisive 2.Rxd7+?. Instead of resigning, the black
+player now smiled, quickly played 2...Kxd7 and ordered two sandwiches with
+Wurst and a cup of coffee...    Test: Does your program avoid the trap 1.Rc7
+Kd8 *2.Rxd7+?* This position is now a draw.} 1. Rc7 Kd8 2. Rxd7+ 1/2-1/2
+
+[Event "Rare Pawn ending"]
+[Site "Badai,B (Shajmati)"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Badai"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p6/p4p1p/2p1P2k/5P2/6pP/1P4P1/6K1 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1962.??.??"]
+
+{A clean cut pawn ending this time, 5 versus 6 pawns. But white to move and
+win. This is a rare flower and not a normal ending. A Swedish IM once told me
+that he had studied and learned all there is about pawn endings. And that he
+now *knew* them all. As in the stories he then went out to play an important
+team match, faced a complicated (right!) pawn ending - and lost it. They can
+be real tricky. This one is about taking squares instead of pawns - taking
+space instead of material. Mind you - a pawn down in a normal ending is mostly
+a loss. And here white moves for the win.    Test: White to move and win.    1)
+Can your program find the win?  2) How much time needed?} 1. f5 fxe5 2. h4 c4
+3. Kf1 a5 4. Ke2 a4 {4...e4 5.Ke3 a4 6.Kf4 c3 7.Kxg3 c2 8.Kh3 c1Q 9.g4#} 5. Kf3
+c3 {5...Kxh4 6.f6} 6. Kxg3 cxb2 7. Kh3 b1=Q 8. g4# 1-0
+
+[Event "3 pawns vs bishop and 2 pawns"]
+[Site "Ellison"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Ellison"]
+[Black "Study"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5pb1/7p/6PK/7P/Pk6/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1972.??.??"]
+
+{No story around this one, except to show how tricky endgames with very few
+pieces can be. One mistake and you're dead... Here white is fighting for the
+draw. After 1.gxh6 he will find the way, to the remaining black pawn, very
+long...    Test: White to move and draw. It might be interesting to check if
+your program can make it in blitz [5-10 min] or rapidgame [30-60 min] or
+tournamentlevel [40/2].} 1. g6 f6 {1...f5 2.a4} 2. Kg4 Kxa3 3. h5 {3.Kf5? h5 4.
+Ke6 Bh8 5.Kf5 Kb4 6.g7 Bxg7 7.Kg6 Bh8 8.Kxh5 Kc5 9.Kg6 Kd6 10.h5 Ke6 11.Kh7 f5}
+3... Kb4 4. Kf5 Kc5 5. Ke6 Bh8 6. Kf7 f5 7. g7 Bxg7 8. Kxg7 f4 9. Kxh6 1/2-1/2
+
+[Event "Instructive Bishop ending"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Novikov"]
+[Black "Hjartarson"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/4k3/1p2b1pp/p1p1p3/P1P1P3/1P3P1P/5KB1/8 b - - 0 37"]
+[PlyCount "37"]
+[EventDate "1992.??.??"]
+
+{Bishops of the same color, 6 pawns each and black wins. His pawns are targets.
+A bit surprising first move! At least for the eye...    Test: Black to move
+and win. Try out how fast your programs find the winning line.} 37... b5 38.
+axb5 {38.Bf1 bxa4 39.bxa4 Bd7-+} 38... Bxc4 39. b6 Kd8 {
+39...Kd6? 40.bxc4 a4 41.f4 a3 42.fxe5+ Kc6 43.e6+-} 40. Ke3 Bxb3 41. Kd2 Kc8
+42. f4 exf4 43. e5 Be6 44. Bf3 Bxh3 45. Bd5 g5 46. Kc3 a4 47. Kc4 a3 48. Kb3 f3
+49. Bxf3 Be6+ 50. Kxa3 g4 51. Be4 h5 52. Kb2 h4 53. Kc3 g3 54. Kd2 c4 55. Ke3
+c3 0-1
+
+[Event "Superb co-operation"]
+[Site "Kubbel (Shajmati)"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Kubbel"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3k4/1p4pP/4Rp2/3p3q/3N4/8/K2PP1PP/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1925.??.??"]
+
+{In this position black can relax a bit. His main worry is the dangerous pawn
+on h7, but now he's ready to send it to the blissful hunting-grounds. Then he
+should be able to play for a win since white's pawns are somewhat loose?! No,
+not this time monsigneur! Look above - the name Kubbel spells brilliant
+co-operation of the white pieces. True - it's actually white to move and win.
+This one is about covering and taking squares. And shows what a rook and
+knight can do to a queen...    Test: White to move and win. The time for your
+program to find the correct line, gives a clue about the performance in blitz,
+rapid game and tournament level.} 1. Re3 Qxh7 2. Ne6+ Kc8 3. Rc3+ Kb8 4. Nf8
+Qf5 5. e4 dxe4 6. Rc5 Qg4 7. h3 Qe2 8. Nd7+ Ka7 9. Ra5+ 1-0
+
+[Event "Schröder's Beauty"]
+[Site "Schröder"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Schröder"]
+[Black "Study"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/4pk1B/8/5K1N/p7/8/8 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1931.??.??"]
+
+{Well, Mr Schroeder seems to be a man of many talents. This is a very   nice
+position, made in his youth I think. Black is about to promote   and the white
+pieces sort of step on eachother's toes. But there is   a way for white to
+draw. A stunning resource that shows the beauty   of chess. Rebel might prove
+good at this one...      Test: White to move and draw. The quicker the better.
+} 1. Nf5 exf5 2. Bf8 a2 3. Bb4 a1=Q 4. Bc3+ Qxc3 1/2-1/2
+
+[Event "Bishop ending"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "CM8"]
+[Black "Larsson"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/7P/8/5Bk1/P7/8/1b4K1/8 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "2001.03.08"]
+
+{This position arose from a game of mine vs CM8K. Black is on the move and has
+an easy draw. How do your programs evaluate this position?} 1... Kh6 $1 2. a5
+Kg7 3. a6 Bd4 1/2-1/2
+
+[Event "The Hidden Secret of the Chain"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Hasek"]
+[Black "Study"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r7/7k/5R2/p3p3/Pp1pPp2/1PpP1Pp1/K1P3P1/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1937.03.08"]
+
+{White to move and make it for the draw. Normal play like 1.Rf5? Kg6! 2.Rxe5
+Rh8! followed by Rh2 gives the full point to black. 1.Re6? makes no difference
+after 1.-Rh8!. But the pawnchain carries some hidden secrets...To be honest,
+this is more a test of one's own limitations of the mind. I think it's too
+difficult for any chessprogram (but who knows?). Then again, it's possible to
+test the programs when 1/3, 1/2 or 2/3 of the solution is performed. A human
+can solve it by trial and error. If normal play doesn't work, one is forced to
+think in new patterns...} 1. Kb1 $3 (1. Rf5 $2 Kg6 $1 2. Rxe5 Rh8 $1) (1. Re6
+$2 Rh8 $1) 1... Kg7 2. Rh6 $3 Kxh6 3. Kc1 Kg5 4. Kd1 Rh8 5. Ke1 Rh2 6. Kf1 Rh1+
+(6... Rxg2 7. Kxg2 Kh4 8. Kg1 $1 $11) 7. Ke2 Rh2 8. Kf1 1/2-1/2
+
+[Event "The Frozen Bishop"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Winter"]
+[Black "Capablanca"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2pp1/3b1n1p/2p1p3/4P2B/2NP1N2/PPP2PPP/R2Q1RK1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1922.03.08"]
+
+{Here is an example of a definitive no-no. This position happened in Winter(!)
+- Capablanca, Hastings 1922. Here white was a bit careless and played 1.Nd5? 
+after 1.-g5! 2.Nxf6+ Qxf6 3.Bg3 Bg4 4.h3 Bxf3 5.Qxf3 Qxf3 6.gxf3, the proud
+bishop was reduced tp a simple pawn. This preacher never saw the daylight
+anymore...  Test1: 1.Nd5? is a clear no-no and should be evaluated with
+penalty points.  Test2: If 1.Nd5? is faced, your program should give definite
++scores to the line above. And choose this path in play.} 1. Nd5 $2 g5 $1 2.
+Nxf6+ Qxf6 3. Bg3 Bg4 4. h3 Bxf3 5. Qxf3 Qxf3 6. gxf3 0-1
+
+[Event "Paralysing the Knight"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Hort"]
+[Black "Ciocaltea"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4n3/1b3k1p/p2p2p1/3Pp3/2P3P1/6PP/2BB4/6K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1973.03.08"]
+
+{Only two moves are required to immobilize the black knight and pave the way
+for the victorious march of the white king to the deserted queenside:  1.g5!
+Bc8 2.g4! and black's position is ripe for resignation.  Test: The above move
+order should be rewarded with big +scores for white.} 1. g5 $1 Bc8 2. g4 $1 1-0
+
+[Event "Running Wild"]
+[Site "?"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Amelung"]
+[Black "Study"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "K7/8/1R6/8/PP6/2k5/1r6/1r6 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1941.03.08"]
+
+{True inspiration by Amelung. White is on the edge of losing and only a real
+desperado can save the day. Go for it farmer boy!!  Test: Some programs get it
+other's don't...} 1. a5 $3 Rxb4 2. a6 $3 Rxb6 3. a7 1/2-1/2
+
+[Event "A-pawn and wrong bishop"]
+[Site "Stockholm"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Bergkvist"]
+[Black "Stoltz"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/pp6/3b2K1/1P6/PN2k3/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1941.03.08"]
+
+{This is old Swedish chess history. White is in deep trouble. Knight moves to
+a1 or c2 will just lose the lonely one. But the knight has a braver
+possibility!  1.Na5!! actually saved the draw for white. After 1.-bxa5 2.bxa5
+black has the wrong bishop and white's king can just make it to a1, if black
+goes for both the white a-pawns.  Test: This is a difficult one for chess
+programs and presupposes extended knowledge about a/h pawn and the wrong
+bishop.} 1. Na5 $3 Kd3 2. Kf6 Kc3 3. Ke5 Bg2 4. Kd6 b5 5. Kc5 Kb2 6. Kb6 Kxa3
+7. Kxa6 Kxb4 8. Nb3 $1 1/2-1/2
+
+[Event "The Rebirth of the Bishop"]
+[Site "Zurich"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Alekhine"]
+[Black "Johner"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5nk1/2p3q1/1p1p1p2/3P1P1Q/2P1P1p1/5p2/PPB2P2/5K2 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1934.03.08"]
+
+{This is from Alekhine-Johner, Zurich 1934. A pawn down, black is about to
+manouvre his knight to e5, with excellent prospects. On the other hand the
+white bishop is in the need of more space, free lines to feel alive again. So
+Alekhine took a deep breath, played 1.e5! and said: "I need some more air." 
+Well it could have been that way anyhow...;)  Test: A few of the positions
+sent were rather easy, so for a change some real stuff to chew on...If your
+program plays 1.e5! you really have something going...} 1. e5 $1 dxe5 (1...
+fxe5 2. f6 Qxf6 3. Qxg4+ Kf7 4. Be4 $16) 2. d6 $1 {
+(The crux of white's combination. On 2.-cxd6 3.c5! is murderous)} 2... c5 3.
+Be4 Qd7 4. Qh6 {(The end could be 4.-Nh7 5.Bd5+ Kh8 6.Qg6 Qd8 7.d7)} 1-0
+
+[Event "The Arrow's Point"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Larsen"]
+[Black "Study"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k4B1b/p6P/Kp6/1P3P2/4P3/R2P4/2P2p2/6n1 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1932.03.08"]
+
+{The name of the author sure gives associations... But it's a common name and
+the initial + year tells us that it couldn't be this Larsen nor that Larsen...;
+) This one carries an indian theme. White has a nice and sharp arrow, formed
+by the pawns c2,d3,e4,f5,h7. On the other hand he's facing defeat since the
+black f2 pawn is about to promote. Looks like there is no decent way to stop
+this runner. But the arrow carries some poison and with an intriguing manouvre
+white is aiming for peace. And succeeds...  Test: White moves for the draw.
+Fire off your arrow and show us your peace evals! The smoke signals are
+further down. ;)} 1. Ra1 $1 Bxa1 2. c3 $1 Bxc3 3. d4 $1 Bxd4 4. e5 $1 Bxe5 5.
+f6 $1 Bxf6 (5... f1=Q 6. h8=Q Qh3 7. Qxh3 Nxh3 8. Bd6 $1) 6. Bg7 Bxg7 7. h8=Q+
+Bxh8 1/2-1/2
+
+[Event "The Pawnbishop"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Meyer"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2b2k1K/1pPp1p2/1P1P1P2/5B2/8/8/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1927.03.08"]
+
+{Hm, my sources are giving me some trouble here... First we had a beautiful
+study by Schroeder, who proved not to be *that* Rebel-Schroeder. :) And now we
+are facing a very clean finish by Meyer. Which Meyer? Kahlen? Believe it or
+not...This ending is very simple, clean and with a distinct finish. A bishop
+ending (same colors), 4-3 pawns, but the position is blocked and it's
+difficult to make any progress. Something must be there because black's bishop
+looks just like another pawn...  Test: White to move and win. Good evals for
+white, while just moving around the pieces, are not good enough. Can your
+program actually play out this position for a win? The distinct kill further
+down.} 1. Be3 Bd8 2. Bd4 Bc7 3. Bxf6 $1 Kxf6 4. Kg8 $1 1-0
+
+[Event "The Original Mozes"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Mozes"]
+[Black "Study"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5p2/6PR/7P/1k6/p7/7r/1K6 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1975.03.08"]
+
+{Now something to chew on for you fast drawers! No compromises any more. This
+is the real stuff!  And some of the possible endings KQ vs KRP have been
+proved forced mate.  Test: White to move and win. Nothing else counts. The
+ultimate solution further down.} 1. g7 (1. gxf7 $2 Rf2) 1... a2+ $1 2. Ka1 Ka3
+3. Ra6+ Kb3 4. Rb6+ Ka3 5. Rb1 $1 axb1=Q+ 6. Kxb1 Kb3 7. Kc1 Kc3 8. Kd1 Kd3 9.
+Ke1 Ke3 10. Kf1 Kf3 11. g8=Q Rh1+ 12. Qg1 Rxg1+ 13. Kxg1 Kg4 14. h6 1-0
+

@@ -1,0 +1,225 @@
+[Event "Plovdiv"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "SHIROV"]
+[Black "Atalik"]
+[Result "1-0"]
+[Annotator "MGV1-K"]
+[SetUp "1"]
+[FEN "rn2k3/p4ppr/1p2p1n1/2ppP1Bp/q2P3P/P1P2QN1/2P2PP1/R4K1R w q c6 0 1"]
+[PlyCount "1"]
+[EventDate "2003.??.??"]
+
+1. Nf5 1-0
+
+[Event "Biel"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "SHIROV"]
+[Black "Zvjaginsev"]
+[Result "1-0"]
+[Annotator "MGV2-K"]
+[SetUp "1"]
+[FEN "1qb2rk1/3p1pp1/1p6/1pbBp3/r5p1/3QB3/PPP2P1P/2KR2R1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+
+1. b3 1-0
+
+[Event "Tilburg"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Shirov"]
+[Black "MOZETIC"]
+[Result "1-0"]
+[Annotator "MGV8-K"]
+[SetUp "1"]
+[FEN "r4rk1/1pp2ppp/8/p2q4/Q7/2P4P/PP2nP1K/RNB2R2 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1993.??.??"]
+
+1... Ra6 1-0
+
+[Event "Dortmund"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "KAMSKY"]
+[Black "Shirov"]
+[Result "1-0"]
+[Annotator "MGV9-K"]
+[SetUp "1"]
+[FEN "rnbqr2k/pp2bp1B/7B/3pP1pP/3p4/2P2N2/P1Q2PP1/R3K2R w KQ - 0 1"]
+[PlyCount "1"]
+[EventDate "1992.??.??"]
+
+1. Bg6 1-0
+
+[Event "1. BL"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "APPEL"]
+[Black "Beckhuis"]
+[Result "1-0"]
+[Annotator "MGV11-K"]
+[SetUp "1"]
+[FEN "1r3bk1/1bp3p1/p2q1p2/1p1PNQp1/2p5/P5P1/1P3P1P/3RR1K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2006.??.??"]
+
+1. Ng4 1-0
+
+[Event "1. BL 0203"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "ALMASI"]
+[Black "Hickl"]
+[Result "1-0"]
+[Annotator "MGV25-K"]
+[SetUp "1"]
+[FEN "1rbq1rk1/1p3pbn/p3p1p1/P1pPp3/R7/2PB1N2/2P3PP/2B1QRK1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2003.??.??"]
+
+1. Rh4 1-0
+
+[Event "ISR-ch"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "SUTOVSKY"]
+[Black "Gelfand"]
+[Result "1-0"]
+[Annotator "MGV26-K"]
+[SetUp "1"]
+[FEN "1r1qk2r/5p2/pp1pb1pp/n1p5/P4Q1N/3P4/NPP3PP/R4RK1 w k - 0 1"]
+[PlyCount "1"]
+[EventDate "2000.??.??"]
+
+1. Nxg6 1-0
+
+[Event "Milan Vidmar Mem."]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "VOLOKITIN"]
+[Black "Kozul"]
+[Result "1-0"]
+[Annotator "MGV27-K"]
+[SetUp "1"]
+[FEN "r2qr1k1/pp1nbppp/3p1n2/2pP2N1/2B2B2/3P4/PPP1Q1PP/4RRK1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2001.??.??"]
+
+1. Nxf7 1-0
+
+[Event "Luebeck - Kreuzberg"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "FRESSINET"]
+[Black "Socko"]
+[Result "1-0"]
+[Annotator "MGV31-K"]
+[SetUp "1"]
+[FEN "4q3/1p4bk/1P1Bb1p1/1r2P2p/2p5/5RQP/6PK/5R2 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2002.??.??"]
+
+1. Rf8 1-0
+
+[Event "LTU-ch"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "ASAUSKAS"]
+[Black "Malisauskas"]
+[Result "1-0"]
+[Annotator "MGV32-K"]
+[SetUp "1"]
+[FEN "r2q1r2/1b2bpkp/p3p1p1/2ppP1P1/7R/1PN1BQR1/1PP2P1P/4K3 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2004.??.??"]
+
+1. Qf6+ 1-0
+
+[Event "BCF-ch (4NCL)"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Turner"]
+[Black "MESTEL"]
+[Result "0-1"]
+[Annotator "MGV33-K"]
+[SetUp "1"]
+[FEN "r4rk1/pp3pb1/1qppbnp1/8/2P1PP2/1PNQ1BPp/P6P/R1B1K2R b KQ - 0 1"]
+[PlyCount "1"]
+[EventDate "2000.??.??"]
+
+1... Nxe4 0-1
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "SOLOVJOV"]
+[Black "Lugovoj"]
+[Result "1-0"]
+[Annotator "MGV34-K"]
+[SetUp "1"]
+[FEN "1rb1qrk1/ppn1p1b1/3p3p/2pP2p1/4P1nQ/P1N2N1P/1PPBB1P1/R4RK1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2005.??.??"]
+
+1. Bxg5 1-0
+
+[Event "Gausdal NOR"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "OHLZON"]
+[Black "Nilsen"]
+[Result "1-0"]
+[Annotator "MGV38-K"]
+[SetUp "1"]
+[FEN "q1rbnr2/1b3p1k/pp1ppPp1/4n1Pp/2PNPQ1P/1PN1B3/P3B1R1/2R3K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2003.??.??"]
+
+1. Bxh5 1-0
+
+[Event "BL 9596"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "CONQUEST"]
+[Black "Hodgson"]
+[Result "1-0"]
+[Annotator "MGV39-K"]
+[SetUp "1"]
+[FEN "4kbnr/ppq2ppp/1np1p3/6P1/3r3P/2N2Q2/PPPB1P2/2KR1B1R w k - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+
+1. Nb5 1-0
+
+[Event "FRA -ct"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Efimov"]
+[Black "NATAF"]
+[Result "0-1"]
+[Annotator "MGV40-K"]
+[SetUp "1"]
+[FEN "2kr3r/pp3p1p/2n1b3/q3p3/2p5/b1P1P1N1/P1QN1PPP/1R2KB1R b K - 0 1"]
+[PlyCount "1"]
+[EventDate "2000.??.??"]
+
+1... Rxd2 0-1
+

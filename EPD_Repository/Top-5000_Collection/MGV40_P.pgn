@@ -1,0 +1,225 @@
+[Event "Sarajevo"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Sokolov, I."]
+[Black "SHIROV"]
+[Result "1-0"]
+[Annotator "MGV3-P"]
+[SetUp "1"]
+[FEN "bn1k1b1r/5p2/4pq1p/1B2N3/Q2P3p/8/1P3PPP/4K2R b K - 0 1"]
+[PlyCount "1"]
+[EventDate "2005.??.??"]
+
+1... Bd6 1-0
+
+[Event "Manila ol"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "SHIROV"]
+[Black "Rivas Pastor"]
+[Result "1-0"]
+[Annotator "MGV4-P"]
+[SetUp "1"]
+[FEN "rnq1kb1r/1R3ppp/2pp1n2/3P4/p3P3/3B1P2/1QPBN2P/4K2R w Kkq - 0 1"]
+[PlyCount "1"]
+[EventDate "1992.??.??"]
+
+1. Nd4 1-0
+
+[Event "Leon"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sion Castro"]
+[Black "SHIROV"]
+[Result "0-1"]
+[Annotator "MGV5-P"]
+[SetUp "1"]
+[FEN "2r3k1/1nq2ppp/p2ppB2/1n4P1/P3P3/1Pp3R1/4QP1P/2KR4 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+
+1... e5 0-1
+
+[Event "Sarajevo"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Leko"]
+[Black "SHIROV"]
+[Result "0-1"]
+[Annotator "MGV6-P"]
+[SetUp "1"]
+[FEN "r2qkb1r/3n3p/p2pbPp1/8/2pBPP2/2N5/PPPQ3P/2KR3R b kq - 0 1"]
+[PlyCount "1"]
+[EventDate "1999.??.??"]
+
+1... Bh6 0-1
+
+[Event "World Chess Cup"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "GRISCHUK"]
+[Black "Kamsky"]
+[Result "1-0"]
+[Annotator "MGV10-P"]
+[SetUp "1"]
+[FEN "3r1k2/2pq1np1/p2pQ3/1p1P1ppP/3P2N1/P7/1P3PP1/4R1K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2005.??.??"]
+
+1. Nf6 1-0
+
+[Event "CHN-RUS"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "ZHANG PENGXIANG"]
+[Black "Svidler"]
+[Result "1/2-1/2"]
+[Annotator "MGV14-P"]
+[SetUp "1"]
+[FEN "4k1r1/5q2/p2pp2Q/4P3/Ppr2P2/8/P5BP/5R1K w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2001.??.??"]
+
+1. f5 1/2-1/2
+
+[Event "Corus"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "BOLOGAN"]
+[Black "Svidler"]
+[Result "1-0"]
+[Annotator "MGV15-P"]
+[SetUp "1"]
+[FEN "3rr1k1/p2b1p1p/6p1/n2Pq3/1pp3P1/4B2P/P1Q2PB1/2R1R1K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2004.??.??"]
+
+1. Bc5 1-0
+
+[Event "XXIII SuperGM"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Topalov"]
+[Black "IVANCHUK"]
+[Result "1/2-1/2"]
+[Annotator "MGV16-P"]
+[SetUp "1"]
+[FEN "3qr1k1/1b4p1/3b1p2/2npp1N1/4P3/3PB3/BQ3PP1/4R1K1 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "2006.??.??"]
+
+1... fxg5 1/2-1/2
+
+[Event "WCC San Luis"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "POLGAR, J."]
+[Black "Kasimdzhanov"]
+[Result "1-0"]
+[Annotator "MGV18-P"]
+[SetUp "1"]
+[FEN "r1bRnk1r/1p2qpb1/p6p/5P2/8/2N5/PPPQ1P1P/2K2BR1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2005.??.??"]
+
+1. Bb5 1-0
+
+[Event "WCC San Luis"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "LEKO"]
+[Black "Polgar, J."]
+[Result "1-0"]
+[Annotator "MGV19-P"]
+[SetUp "1"]
+[FEN "1rb1k3/2qp1pp1/p3p1nr/6Rn/1b1QPP2/2N1B3/1PP1N2P/1K1R1B2 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2005.??.??"]
+
+1. Nb5 1-0
+
+[Event "XXIII SuperGM"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "LEKO"]
+[Black "Radjabov"]
+[Result "1-0"]
+[Annotator "MGV20-P"]
+[SetUp "1"]
+[FEN "1r6/Rb4kp/3pr3/3Rp1pP/6N1/1Pq3P1/4QP2/6K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2006.??.??"]
+
+1. Qc4 1-0
+
+[Event "RUS-Cup"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Morozevich"]
+[Black "DOLMATOV"]
+[Result "0-1"]
+[Annotator "MGV23-P"]
+[SetUp "1"]
+[FEN "1r2qrk1/p3npbp/b1np4/2p2PN1/4p3/1NPPB1PB/P3Q2P/R1R3K1 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+
+1... Nd5 0-1
+
+[Event "Merida"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "SHORT"]
+[Black "Khalifman"]
+[Result "1-0"]
+[Annotator "MGV24-P"]
+[SetUp "1"]
+[FEN "1k3r2/1p1n1pp1/q1n1p1p1/3pP1P1/3P2P1/pP1NBR2/P4PK1/3Q4 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2001.??.??"]
+
+1. Ne1 1-0
+
+[Event "Santa Clara"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "GOMEZ"]
+[Black "Dominguez"]
+[Result "1-0"]
+[Annotator "MGV30-P"]
+[SetUp "1"]
+[FEN "3r2k1/pp1r1p2/2p1pbp1/q4n1p/2PPQ2P/PP1R1NP1/5PK1/2BR4 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2000.??.??"]
+
+1. Bg5 1-0
+
+[Event "St. Petersburg vs Moscow"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "SOLOVJOV"]
+[Black "Kharitonov"]
+[Result "1-0"]
+[Annotator "MGV35-P"]
+[SetUp "1"]
+[FEN "r2qkb1r/3bpppp/p4nn1/3P4/1p1N4/1QN3B1/PP3PPP/R3KB1R w KQkq - 0 1"]
+[PlyCount "1"]
+[EventDate "2005.??.??"]
+
+1. Nc6 1-0
+

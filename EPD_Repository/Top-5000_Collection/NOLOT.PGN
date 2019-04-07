@@ -1,0 +1,145 @@
+[Event "?"]
+[Site "?"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (axb5)"]
+[Black "axb5"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "rnbqk2r/1p3ppp/p7/1NpPp3/QPP1P1n1/P4N2/4KbPP/R1B2B1R b kq - 0 1"]
+
+1... *
+
+[Event "?"]
+[Site "HA4=NOK (15e) (6h)"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (Bxh7+)"]
+[Black "Bxh7+"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r3rbk1/ppq2ppp/2b1pB2/8/6Q1/1P1B3P/P1P2PP1/R2R2K1 w - - 0 1"]
+
+*
+
+[Event "KS150=NOK>20:00"]
+[Site "HA3=NOK (15e) (2h)"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "Nolot (diep!)"]
+[Black "Rxc5"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r4rk1/pp1n1p1p/1nqP2p1/2b1P1B1/4NQ2/1B3P2/PP2K2P/2R5 w - - 0 1"]
+
+1. Rxc5 Nxc5 2. Nf6+ Kh8 3. Qh4 Qb5+ 4. Ke3 Qd3+ 5. Kf2 h5 6. Nxh5 Ne4+ 
+7. fxe4 Qd4+ 8. Kg2 Qxb2+ 9. Kh3 Qc3+ 10. Ng3+ Kg8 11. Bf6 Qc8+ 12. Kg2 
+*
+
+[Event "?"]
+[Site "?"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (e5)"]
+[Black "e5!"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r2qrb1k/1p1b2p1/p2ppn1p/8/3NP3/1BN5/PPP3QP/1K3RR1 w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site "?"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (Ng5!)"]
+[Black "Ng5!!"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r4r1k/4bppb/2n1p2p/p1n1P3/1p1p1BNP/3P1NP1/qP2QPB1/2RR2K1 w - - 0 1"]
+
+*
+
+[Event "KS150=12=2:06 (0.33)"]
+[Site "HA4=47:45 (14e)"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (Nxe6)"]
+[Black "Nxe6"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r1b1kb1r/1p1n1ppp/p2ppn2/6BB/2qNP3/2N5/PPP2PPP/R2Q1RK1 w kq - 0 1"]
+
+1. Nxe6 *
+
+[Event "?"]
+[Site "HA4=NOK (16/17e) (6h)"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (Nxg5)"]
+[Black "Nxg5"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r2qk2r/ppp1b1pp/2n1p3/3pP1n1/3P2b1/2PB1NN1/PP4PP/R1BQK2R w KQkq - 0 1"]
+
+1. Nxg5 Bxd1 2. Nxe6 Qb8 3. Nxg7+ *
+
+[Event "?"]
+[Site "HA4=NOK (15e) (5h)"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (Nxh6)"]
+[Black "Nxh6"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r3qb1k/1b4p1/p2pr2p/3n4/Pnp1N1N1/6RP/1B3PP1/1B1QR1K1 w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site "HA4=NOk (16e) (2«h)"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (Rxd8+)"]
+[Black "Rxd8+"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "1r1bk2r/2R2ppp/p3p3/1b2P2q/4QP2/4N3/1B4PP/3R2K1 w kq - 0 1"]
+
+*
+
+[Event "KS150=10=0:20"]
+[Site "HA4=6:26 (12e) (200 Mb)"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (Rxf7)"]
+[Black "Rxf7!"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r1b2rk1/1p1nbppp/pq1p4/3B4/P2NP3/2N1p3/1PP3PP/R2Q1R1K w - - 0 1"]
+
+1. Rxf7 *
+
+[Event "?"]
+[Site "HA3=15 1:47:04"]
+[Date "1996.09.22"]
+[Round "?"]
+[White "NOLOT (Rxh6)"]
+[Black "Rxh6"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[FEN "r1b3k1/p2p1nP1/2pqr1Rp/1p2p2P/2B1PnQ1/1P6/P1PP4/1K4R1 w - - 0 1"]
+
+*
+

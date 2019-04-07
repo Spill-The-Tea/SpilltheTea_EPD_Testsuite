@@ -1,0 +1,284 @@
+[Event "1/99-60 John Nunn"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "NET01: Rook Ending"]
+[Black "[+0400.66f2f7]"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/1ppr1kp1/p1p4p/8/8/5P2/PPP1RKPP/8 w - - 0 1"]
+[PlyCount "0"]
+
+{A position which might have arisen from the Exchange Variation of the Spanish.
+White's better pawn structure gives him some advantage, since he can create a
+passed pawn on the kingside while Black, owing to his doubled pawns, cannot do
+the same on the queenside.  It is not clear if this advantage is sufficient to
+win. In practical play I would expect wins and draws to be about equally
+divided. Das ist eine Stellung, die aus einer spanischen Abtauschvariante
+entstehen koennte. Weiss hat eine bessere Bauernstruktur, die ihm einen
+gewissen Vorteil bietet. Er kann am Koenigsfluegel einen Freibauern schaffen,
+waehrend Schwarz wegen der Doppelbauern am Damenfluegel nicht das gleiche tun
+kann. Es ist nicht klar, ob der Vorteil zum Gewinn ausreicht. Ich erwarte,
+dass etwa gleich viele Partien gewonnen und remisiert werden.}  *
+
+[Event "1/99-60 Budapest"]
+[Site "Budapest"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "NET02: Barcza"]
+[Black "Golombek"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/1pk3pp/p7/3p1p2/8/3K2P1/PP2PP1P/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1952.??.??"]
+
+{This endgame certainly favours White. Black's pawn structure is inferior
+because of the isolated d-pawn, while White's king is the first to occupy the
+fourth rank. White has the obvious plan of putting his king on d4 followed by
+using zugzwang to penetrate with his king to c5 or e5. This was in fact the
+plan adopted by Barcza in the game, but accurate defence by Golombek enabled
+him to hold the draw. Later (in 1966) Bondarevsky analysed the ending and
+concluded that White could win with a different and far from obvious plan:
+playing Ke3, threatening Kf4 and inducing Black to weaken his kingside pawn
+structure further by playing ...g5. It is hard to say whether this is correct,
+but at any rate it is clear that this position is finely poised between a draw
+and a win. Dieses Endspiel ist eindeutig fuer Weiss vorteilhaft. Die schwarze
+Bauernstruktur ist wegen des isolierten d-Bauern unguenstiger, ausserdem kann
+der weisse Koenig als erster die vierte Reihe betreten. Er hat einen
+offensichtlichen Plan: den Koenig nach d4 zu ziehen, um dann mit Hilfe von
+Zugzwang ueber c5 oder e5 durchzubrechen.  Dieser Plan wurde tatsaechlich in
+der Partie von Barcza angewandt, aber nach Golombeks genauer Verteidigung
+endete die Partie remis. Spaeter (1966) hat Bondarevsky das Endspiel
+analysiert und kam zum Schluss, dass Weiss mit einem anderen, viel weniger
+offensichtlichen Plan gewinnen konnte. Er kann mit Ke3 (Drohung Kf4) Schwarz
+dazu bringen, ...g5 zu spielen und dadurch die Bauernstruktur am
+Koenigsfluegel zu schwaechen.  Es ist schwer, ein endgueltiges Urteil
+abzugeben, aber es ist klar, dass die Stellung in einer sehr feinen Balance
+zwischen Gewinn und Remis schwebt.}  *
+
+[Event "1/99-60 John Nunn"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "NET03: Database position"]
+[Black "[+4000.10b2f4]"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "2q5/8/6Q1/8/1P3k2/8/1K6/8 w - - 0 4"]
+[PlyCount "0"]
+
+{Including a database position is perhaps a little controversial, but why not?
+A program which uses the 5-man databases will play the endgame more strongly
+than one which does not, so this should be a part of the Nunn-test The
+database shows that this position is a win, but only by 1 Qd6+!. If neither
+side has access to a database, it is harder to predict the result; between
+human players I would expect White to win more often than not. Eine Stellung
+aus der Endspieldatenbank in diesen Test aufzunehmen, ist vielleicht etwas
+kontrovers. Aber warum eigentlich nicht? Ein Programm, das die Fuenfsteiner
+beherrscht, wird das Endspiel staerker spielen als ein solches, das sie nicht
+kennt. Also sollte sie Teil des Nunn-Tests sein. Die Endspieldatenbank zeigt,
+dass die Stellung gewonnen ist, allerdings nur mit 1.Dd6+!. Ohne Datenbank ist
+der Ausgang unklar. Unter Menschen wuerde ich erwarten, dass Weiss in den
+meisten Faellen gewinnt.}  *
+
+[Event "1/99-60 Telegraph match"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "?"]
+[White "NET04: St Petersburg"]
+[Black "London"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/4k3/r4pp1/pR6/P4KP1/5P2/8/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1896.??.??"]
+
+{A classic ending. The game was halted at this point with London conceding the
+game. Chigorin then published some analysis claiming that White could win. For
+decades this was the accepted opinion, but theory advances and it gradually
+became recognised that defending such position often requires the sacrifice of
+the weak pawn (on a5 here). Fine, in his book Basic Chess Endings, suggested
+that this plan should lead to a draw. His analysis contained some errors, and
+was refined by Levenfish and Smyslov in their classic book Rook Endings. They
+supported Fine's conclusion, although some of the detailed variations differed
+from Fine's. That is the state of play today. Can computers unravel a position
+which took human analysts over half a century to unravel?. Ein klassisches
+Endspiel. Die Partie wurde an dieser Stelle von London aufgegeben.  
+ Tschigorin hat danach eine Analyse veroeffentlicht, in der er behauptete,
+Weiss koennte gewinnen. Jahrzehntelang wurde diese Meinung allgemein
+akzeptiert, aber die Theorie wurde weiterentwickelt und man erkannte
+allmaehlich, dass man bei der Verteidigung einer solchen Stellung oft den
+schwachen Bauern (hier den Ba5) opfern muss.   In seinem Buch Basic Chess
+Endings hat Fine angedeutet, dass diese Strategie zum Remis fuehren koennte.
+Seine Analyse enthielt einige Fehler, sie wurde von Levenfish und Smyslov in
+ihrem klassischen Werk ueber Turmendspiele verbessert. Sie unterstuetzten das
+Ergebnis von Fine, obwohl einige der detaillierten Varianten unterschiedlich
+waren.   Das ist der heutige Stand. Koennen Computer eine Stellung
+entschluesseln, an der menschliche Analytiker ueber ein halbes Jahrhundert
+geknobelt haben?}  *
+
+[Event "1/99-60 Dresden"]
+[Site "Dresden"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "NET05: Keres"]
+[Black "Alekhine"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/p1p1k3/1p1p2p1/3Pq2p/2P1P3/1P3QPK/P7/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1936.??.??"]
+
+{In this game between two of the leading players of the pre-war period, Black
+has the advantage because he can create a kingside passed pawn while White,
+thanks to his backward e-pawn, cannot create a passed pawn. However, in a
+queen ending matters are never so easy, due to the ever-present danger of
+perpetual check. In the game Black did succeed in winning after a hard fight,
+although Konstantinopolsky later suggested an improvement for White which
+might have placed Black's win in doubt. In dieser Partie zwischen den beiden
+fuehrenden Spielern der Vorkriegszeit hat Schwarz einen Vorteil, weil er am
+Koenigsfluegel einen Freibauern schaffen kann, waehrend Weiss wegen des
+rueckstaendigen e-Bauern keinen Freibauern bekommt. Allerdings sind
+Damenendspiele nie einfach, weil stets Dauerschach droht.   In der Partie hat
+Schwarz tatsaechlich nach hartem Kampf gewonnen, obwohl Konstantinopolsky
+spaeter eine Verbesserung fuer Weiss vorschlug, die den schwarzen Sieg in
+Frage stellen koennte.}  *
+
+[Event "1/99-60 Uzhgorod"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "NET06: Holmov"]
+[Black "Moiseev"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/p3ppk1/1p4pp/3nN3/6PP/1P3P2/P3PK2/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1972.??.??"]
+
+{A tricky knight ending. White won the game, but the winner's very detailed
+analysis (covering several pages) suggested that the correct result should be
+a draw. Ein trickreiches Springerendspiel. Weiss hat die Partie gewonnen, aber
+die sehr detaillierte (mehrseitige) Analyse des Siegers legt den Schluss nahe,
+dass das korrekte Ergebnis remis sein muesste.}  *
+
+[Event "1/99-60 Cetinje"]
+[Site "Cetinje"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "NET07: Ilincic"]
+[Black "Cabrilo"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "7k/pp4pp/2n5/8/8/P7/1P4PP/2K1B3 b - - 0 25"]
+[PlyCount "0"]
+[EventDate "1992.??.??"]
+
+{Although this position appears fairly drawish White won the game, and in his
+notes indicated no real improvement for Black. However, I analysed this ending
+in my book Secrets of Practical Chess, and came to the conclusion that it
+should probably be a draw.  What do the machines think? Obwohl diese Stellung
+ziemlich remislich erscheint, gewann Weiss die Partie, und seine Analysen
+enthalten keine wirklichen Verbesserungsvorschlaege fuer Schwarz. Allerdings
+habe ich das Endspiel in meinem Buch Secrets of Practical Chess untersucht.
+Ich kam zum Ergebnis, dass die Stellung wahrscheinlich remis ist. Was meinen
+die Maschinen dazu?}  *
+
+[Event "1/99-60 Siegen"]
+[Site "Siegen"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "NET08: Bellon"]
+[Black "Minic"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/8/p4Bp1/1pPb2P1/1P2kp2/P7/5K2/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1970.??.??"]
+
+{A fantastic position. An opposite-coloured bishop position with equal pawns
+looks as if it should be a draw, and indeed the players agreed to a draw at
+this point. However, White a serious problems because of his weak a3-pawn,
+which cannot be permanently defended by his bishop. Once this pawn has been
+captured, Black has the chance to make a second passed pawn by playing ...a5,
+which will stretch White's defence to the utmost. Dvoretsky and Yusupov
+subjected this ending to detailed analysis, and came to the astonishing
+conclusion that it is a draw, but only if White starts with the incredible 1
+c6!!. It is hard to imagine that any machine would find such a move, but who
+knows what might happen in the future... Eine phantastische Stellung. Die
+ungleichfarbigen Laeufer deuten auf remis, und tatsaechlich haben die beiden
+Spieler an dieser Stelle remis vereinbart. Allerdings hat Weiss ein
+ernsthaftes Problem mit seinem schwachen a3-Bauern, der nicht auf Dauer vom
+Laeufer verteidigt werden kann. Wenn der Bauer einmal faellt, hat Schwarz die
+Chance, mit ...a5 einen zweiten Freibauern zu schaffen, der die weisse
+Verteidigung bis zum Aeussersten auf die Probe stellen wird. Dvoretsky und
+Jussupow haben dieses Endspiel ausfuehrlich analysiert und kamen zu einem
+erstaunlichen Ergebnis: Die Stellung ist remis, aber nur, wenn Weiss mit dem
+unglaublichen Zug 1.c6!! beginnt. Man kann sich schwer vorstellen, dass eine
+Maschine einen solchen Zug finden koennte, aber wer weiss, was die Zukunft
+bringt?}  *
+
+[Event "1/99-60 Semmering-Baden"]
+[Site "Semmering"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "NET09: Eliskases"]
+[Black "Capablanca"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "8/4k3/p1B4p/2K5/1P4bP/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1937.??.??"]
+
+{Another classic ending. White has little trouble winning the a-pawn, but will
+this be enough to win the game? White is handicapped by the fact that his
+bishop is the wrong colour for the h-pawn, so even winning Black's bishop may
+not be sufficient. In the game White won, but various analysts who have
+examined this ending in detail have come to the conclusion that Black should
+draw with accurate play. But if even the great Capablanca could not find the
+draw, can a machine? Ein weiteres klassisches Endspiel. Weiss hat wenig Muehe,
+den a-Bauern zu gewinnen, aber ist das genug, die Partie nach Hause zu
+bringen? Ein Problem ist, dass sein Laeufer die falsche Farbe fuer den
+h-Bauern besitzt.   In der Partie gewann zwar Weiss, aber verschiedene
+Analytiker haben die Stellung genau untersucht und sind zum Ergebnis gekommen,
+dass Schwarz mit genauem Spiel remis halten sollte. Wenn nicht einmal der
+grosse Capablanca das Remis finden konnte, kann es eine Maschine?}  *
+
+[Event "1/99-60 Hannover"]
+[Site "Hannover"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "NET10: von Gottschall"]
+[Black "Nimzowitsch"]
+[Result "*"]
+[Annotator "John Nunn"]
+[SetUp "1"]
+[FEN "3R4/1p6/2b5/2P1k2p/p3p2P/P6r/1P2KB2/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1926.??.??"]
+
+{Once again we have opposite-coloured bishops and equal material, but here the
+defender's task is complicated by the presence of rooks. Indeed, the practical
+difficulties proved too much for White in the game, and he lost. However,
+later   analysts indicated possible improvements for White - my own view is
+that the ending should be a draw, but it would certainly be unpleasant to
+defend against a strong endgame player. Wieder einmal haben wir
+ungleichfarbige Laeufer und gleiches Material. Aber in diesem Fall wird die
+Aufgabe des Verteidigers durch die Anwesenheit der Tuerme verkompliziert.
+Tatsaechlich waren die praktischen Probleme fuer Weiss in der Partie zu
+schwerwiegend, und er verlor. Spaeter haben Analytiker moegliche
+Verbesserungen fuer die weisse Verteidigung vorgeschlagen. Meine eigene
+Ansicht ist, dass die Stellung remis sein sollte. Aber natuerlich waere es
+dabei aeusserst unangenehm, sie in einer praktischen Partie gegen einen
+starken Spieler verteidigen zu muessen.}  *
+

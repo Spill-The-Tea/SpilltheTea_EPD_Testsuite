@@ -1,0 +1,1930 @@
+[Event "Crafty1917-Gromit38, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 001"]
+[Black "B vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/p2p3p/3k2p1/PP6/3K1P1P/8/8 b - - 0 41"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+41... Kc6 {(Var)} (41... Ke6 $2 42. Kc4 Kd7 43. b5 axb5+ (43... a5 44. Kd5 $18)
+44. Kxb5 Kc7 45. Kc4 Kb6 46. Kd5 $18) (41... h5 $2 42. Kc3 Ke5 (42... h4 43.
+Kd3 Ke5 44. Kc4 $18) (42... Kc6 43. Kd4 d5 44. b5+ axb5 45. axb5+ $18) 43. b5
+axb5 44. axb5 $18) (41... Ke5 $2 42. Kc4 d5+ 43. Kc5 d4 44. Kc4 $18) 42. Ke4 (
+42. Kc4 Kb6 $11) 42... Kc7 43. Kd4 (43. f4 gxf4 44. Kxf4 Kd7 45. Kf5 (45. Ke3
+d5 46. Kd4 Kd6 $11) 45... d5 46. Ke5 Kc6 $11) (43. Kd5 Kd7 44. b5 axb5 45. axb5
+Kc7 46. b6+ Kxb6 47. Kxd6 Kb5 $11) 43... Kd7 44. Kd5 Kc7 45. Kc4 Kc6 $11 *
+
+[Event "GambitTiger2-AnMon521, CompGame 2002"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 002"]
+[Black "B vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/p5pp/3k1p2/3p4/1P3P2/P1K5/5P1P/8 b - - 0 32"]
+[PlyCount "17"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+32... g5 {(Var)} (32... g6 $2 33. Kd4 Kc6 (33... a6 34. a4 $18) 34. a4 a6 (
+34... h6 35. f5 gxf5 36. f4 $18) (34... Kd6 35. b5 $18) 35. b5+ axb5 36. axb5+
+$18) (32... f5 $2 33. Kd4 $18) (32... Kc6 $2 33. a4 g6 34. Kd4 $18) 33. fxg5 (
+33. a4 gxf4 34. f3 (34. Kd4 Kc6 $11) 34... h5 35. Kd4 Kc6 36. h4 a6 37. b5+
+axb5 38. axb5+ Kxb5 39. Kxd5 Kb4 40. Ke4 Kc4 41. Kxf4 Kd4 $11) (33. f5 Ke5 $11)
+33... fxg5 34. Kd4 (34. Kd3 g4 $11) (34. a4 g4 $11) 34... g4 35. b5 (35. Ke3
+Ke5 36. Kd3 (36. a4 d4+ 37. Kd3 Kd5 38. a5 a6 $19) 36... d4 37. Kc4 Ke4 $11)
+35... Kc7 36. Kc5 (36. Kxd5 Kb6 $11) 36... d4 37. Kxd4 Kb6 38. Ke5 (38. a4 Ka5
+$19) 38... Kxb5 39. Kf5 Ka4 40. Kxg4 Kxa3 $11 *
+
+[Event "Rinck 1912"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 003"]
+[Black "B vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1p3p2/p7/8/2k5/4P1pP/2P1K1P1/8 w - - 0 1"]
+[PlyCount "15"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. h4 Kd5 2. c4+ Ke5 (2... Kxc4 3. h5 $18) 3. c5 Kf5 (3... f5 4. Kd3 $18) (3...
+f6 4. Kd3 $18) 4. Kd3 Kg4 5. Kc4 Kxh4 6. Kb4 Kg5 7. Ka5 Kf5 8. Kb6 $18 *
+
+[Event "Shredder6-Hiarcs732, CompGame 2001"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 004"]
+[Black "B vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/pp5p/3k2p1/8/4Kp2/2P1P2P/P7/8 w - - 0 34"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+34. exf4 {(Var)} (34. Kxf4 $2 h6 35. c4 (35. Ke4 Ke6 36. c4 (36. a4 b6 37. Kd4
+(37. Kf4 Kd5 38. e4+ (38. h4 a6 $19 39. e4+ Ke6 $19) 38... Ke6 $19) (37. c4 g5
+$19) 37... h5 $19) 36... g5 37. c5 h5 38. Kd4 a5 39. a4 (39. e4 a4 $19) 39...
+Kf5 40. e4+ Ke6 $19) 35... a5 36. h4 Ke6 37. Ke4 a4 38. Kf4 Kf6 39. Ke4 g5 $19)
+34... b5 35. Kd4 a6 (35... h6 36. a3 $11) 36. a3 a5 (36... h5 37. c4 $11) 37.
+c4 Kc6 (37... b4 38. axb4 axb4 39. c5+ $11) 38. h4 $11 *
+
+[Event "Yace09987-Crafty1917, CompGame 2004"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 005"]
+[Black "B vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/7p/1p3pp1/p2K4/Pk3PPP/8/1P6/8 b - - 0 34"]
+[PlyCount "10"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+34... Kxa4 $2 (34... Kb3 $142 35. f5 (35. Ke6 Kxa4 36. Kxf6 Kb3 $11) 35... gxf5
+36. gxf5 Kxa4 $11) (34... f5 $142 35. gxf5 gxf5 36. Ke5 Kxa4 37. Kxf5 Kb3 $11)
+35. Kc4 b5+ (35... h6 36. g5 $18) 36. Kc3 h6 (36... h5 37. f5 $18) (36... b4+
+37. Kc4 h6 38. g5 $18) 37. g5 hxg5 (37... fxg5 38. h5 $18) 38. f5 gxf5 (38...
+b4+ 39. Kc4 $18) 39. h5 $18 *
+
+[Event "Fenoglio 1990"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 006"]
+[Black "B vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "2k5/3b4/PP3K2/7p/4P3/1P6/8/8 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Ke7 h4 (1... Bc6 2. e5 Bg2 3. e6 $18) 2. Kd6 Bb5 (2... Kd8 3. b7 $18) 3. a7
+Kb7 4. a8=Q+ Kxa8 (4... Kxb6 5. Qb8+ Ka5 6. Kc5 Bc4 7. Qb6#) 5. Kc7 $18 *
+
+[Event "Reti 1929"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 007"]
+[Black "B vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/3Pb1p1/8/3P2P1/5P2/7k/4K3/8 w - - 0 1"]
+[PlyCount "15"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Kd3 Kg3 (1... Kg4 2. Ke4 Bd8 3. Ke5 Bc7+ 4. Ke6 $18) 2. Ke3 Kh4 (2... Bd8 3.
+Ke4 $18) (2... Kg4 3. Ke4 $18) 3. Kd4 Kg4 4. Ke4 Bd8 (4... g6 5. d6 Bd8 6. Ke5
+$18) 5. Ke5 g6 (5... Kf3 6. g6 $18) 6. d6 Ba5 7. f5 Kxg5 8. f6 $18 *
+
+[Event "Fritz7-Shredder7, CompGame 2004"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 008"]
+[Black "B vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1Pk2Kpp/8/8/4nPP1/7P/8/8 b - - 0 46"]
+[PlyCount "7"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+46... Nf2 (46... g6 $2 47. Kg7 $18 Kxb7 48. h4 $18) (46... g5 $2 47. f5 $18) (
+46... Kxb7 $2 47. Kxg7 Kc6 48. f5 Kd6 49. f6 $18) 47. Kxg7 (47. f5 Nxh3 48.
+Kxg7 Ng5 $11) 47... Nxh3 48. f5 (48. Kxh7 Nxf4 $11) 48... Ng5 49. f6 Kxb7 $11 *
+
+[Event "GoliathLight1-Nimzo99, CompGame 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 009"]
+[Black "B vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "2n5/4k1p1/P6p/3PK3/7P/8/6P1/8 b - - 0 46"]
+[PlyCount "5"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+46... g6 {(Var)} (46... Na7 $2 47. h5 Nc8 48. Kf5 Kf7 49. g3 Nd6+ (49... Na7
+50. Ke5 Nb5 51. d6 $18) 50. Ke5 Nb5 51. d6 $18) 47. g3 (47. g4 Na7 48. d6+ (48.
+h5 gxh5 49. gxh5 (49. d6+ Kd8 $11) 49... Nb5 $11) 48... Kd7 49. g5 hxg5 50.
+hxg5 Nc8 51. Kd5 Nxd6 52. a7 Nc8 $11) 47... Kf7 48. d6 Na7 $11 *
+
+[Event "ZChess161-Bringer17, CompGame 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 010"]
+[Black "B vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "4k3/8/3PP1p1/8/3K3p/8/3n2PP/8 b - - 0 57"]
+[PlyCount "6"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+57... Nf1 $2 58. Kd5 Ne3+ (58... g5 59. Kc6 $18) (58... Nxh2 59. Kc6 $18) (
+58... Kd8 59. Kc6 $18) 59. Kc6 Nf5 (59... g5 60. g4 hxg3 (60... Nxg4 61. Kc7
+$18) 61. hxg3 g4 62. e7 $18) (59... Kd8 60. g4 Nxg4 (60... hxg3 61. e7+ $18)
+61. e7+ Ke8 62. d7+ Kxe7 63. Kc7 $18) 60. Kc7 $18 *
+
+[Event "CMaster8000-Nimzo2000b, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 011"]
+[Black "D vs D"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "6k1/5p2/P3p1p1/2Qp4/5q2/2K5/8/8 b - - 0 50"]
+[PlyCount "6"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+50... Qc1+ $2 (50... Qe5+ $2 51. Kb4 Qb2+ 52. Ka5 $18) 51. Kb4 Qb2+ (51... Qa1
+52. Qa5 Qd4+ (52... Qf1 53. Kc5 $18) 53. Kb5 Qa7 54. Qb6 $18) 52. Ka5 Kg7 (
+52... Kh7 53. a7 d4 (53... Qb7 54. Qb6 Qc8 55. Qa6 Qa8 (55... Qd8+ 56. Kb5 $18)
+56. Kb6 $18) 54. Ka6 Qg2 55. Qc8 Qa2+ 56. Kb7 Qb3+ 57. Kc7 Qc4+ 58. Kd8 Qd5+
+59. Ke7 $18) (52... d4 53. a7 $18) 53. a7 $18 *
+
+[Event "Spike1a-Shredder9, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 012"]
+[Black "D vs D"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/6pk/8/2p2P1p/6qP/5QP1/8/6K1 w - - 0 46"]
+[PlyCount "10"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+46. Qxg4 $2 (46. Qd3 $142 $13) (46. Qf2 $142 $13) 46... hxg4 47. Kf1 (47. Kf2
+Kg8 48. Ke3 Kf7 49. Kf4 Kf6 $19) 47... Kg8 48. Kf2 (48. Ke2 Kf7 49. Kd3 Kf6 $19
+) 48... Kf7 49. Ke3 Kf6 50. Kf4 c4 $19 *
+
+[Event "Salov 1998"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 013"]
+[Black "D vs D&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5q1k/5P1p/Q7/5n1p/6P1/7K/8/8 w - - 0 1"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Qa1+ (1. gxf5 $2 Qxf7 2. Qa1+ Qg7 $11) (1. Qf6+ $2 Ng7 2. Kg3 Qb8+ 3. Kg2
+Qa8+ $11) 1... Ng7 2. Qf6 Qa3+ 3. Kh4 Qf8 4. Kg5 hxg4 5. Kh4 g3 (5... Qxf7 6.
+Qxf7 h5 7. Qd5 Kh7 8. Kg5 g3 9. Qa8 $18) 6. Kh3 Qc8+ 7. Kxg3 $18 *
+
+[Event "Pervakov 1997"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 014"]
+[Black "D&L vs D&T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "4qr2/4p2k/1p2P1pP/5P2/1P3P2/6Q1/8/3B1K2 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Ba4 (1. fxg6+ $2 Qxg6 2. Bc2 Rxf4+ 3. Kg1 Rf6 $11) (1. Bc2 $2 Kxh6 2. Ke1 (
+2. fxg6 Qb5+ $11) 2... Kg7 $11) 1... b5 2. fxg6+ Kg8 (2... Qxg6 3. Bc2 Rxf4+ 4.
+Kg1 Rf6 5. Qg5 Rxe6 (5... Kh8 6. Qxg6 Rxg6+ 7. Bxg6 $18) 6. Kf1 Rf6+ 7. Ke1
+Re6+ 8. Kd1 Rd6+ 9. Kc1 Rc6 10. Qc5 $18) 3. g7 Rf5 4. h7+ Kxh7 5. Bc2 $18 *
+
+[Event "Kasparian 1997"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 015"]
+[Black "D&L&L vs D&L&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/kn4b1/P2B4/8/1Q6/6pP/1q4pP/5BK1 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Bc5+ (1. Qxb7+ $2 Qxb7 2. axb7 gxf1=Q+ 3. Kxf1 g2+ 4. Kxg2 Kxb7 $11) (1.
+Qxb2 $2 Bxb2 2. axb7 gxf1=Q+ 3. Kxf1 g2+ 4. Kxg2 Kxb7 $11) 1... Nxc5 (1... Kb8
+2. Qf4+ Qe5 3. Qxe5+ Bxe5 4. a7+ Ka8 5. Bxg2 gxh2+ (5... Bd4+ 6. Bxd4 gxh2+ 7.
+Kf1 h1=Q+ 8. Bg1 Qxg2+ 9. Kxg2 Nd8 10. h4 $18) 6. Kh1 $18) 2. Qxc5+ Qb6 (2...
+Kb8 3. a7+ $18) 3. Qxb6+ Kxb6 4. Bc4 Be5 5. hxg3 Bxg3 6. Kxg2 $18 *
+
+[Event "Serradimigni-Gorge, CorrGame 2002"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 017"]
+[Black "D&T&L vs D&L&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "6k1/1p2p1bp/p5p1/4pb2/1q6/4Q3/1P2BPPP/2R3K1 w - - 0 28"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+28. Qa3 Qxa3 (28... Qd2 29. Qa2+ Kh8 30. Rd1 Qxe2 31. Rd8+ Bf8 32. Rxf8+ Kg7
+33. Rf7+ $40) 29. bxa3 Be4 (29... e6 30. Rc7 $40) 30. Rc7 Kf8 (30... e6 31. Bc4
+Bf8 32. Bxe6+ $40) 31. Bc4 Bh6 32. f3 Be3+ 33. Kh1 Bc6 (33... b5 34. fxe4 $18)
+34. Bxa6 $18 *
+
+[Event "Echavarria-DaCostaJ, CorrGame 2003"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 018"]
+[Black "D&T&S vs D&T&T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "1rr2k2/p1q5/3p2Q1/3Pp2p/8/1P3P2/1KPRN3/8 w - e6 0 30"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+30. Rd1 Qf7 (30... Qg7 31. Qxd6+ $18) 31. Qxd6+ Qe7 (31... Kg7 32. Ng3 Qg6 33.
+Qxe5+ Kf8 34. Ne4 $18) (31... Ke8 32. Qxe5+ Kd7 33. Ra1 Rb7 34. Nd4 Re8 35. Ne6
+$18) 32. Qh6+ Qg7 33. Qxh5 e4+ (33... Qf6 34. Rg1 $18) (33... Rc7 34. d6 Rd7
+35. Nc3 Rbd8 36. Ne4 $18) 34. c3 $18 *
+
+[Event "Zappa11-Ufim701, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 019"]
+[Black "D&T&T vs D&T&T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "r5k1/3R2p1/p1r1q2p/P4p2/5P2/2p1P3/5P1P/1R1Q2K1 w - - 0 39"]
+[PlyCount "8"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+39. Rbb7 $2 c2 40. Rxg7+ (40. Qc1 Qf6 41. Kf1 Rd8 $19) 40... Kf8 41. Qc1 Rd8
+42. Kg2 (42. Qa3+ Rdd6 $19) 42... Rd1 $19 *
+
+[Event "Chispa394b-Gothmog031, CompGame 2003"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 020"]
+[Black "L vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1p4k1/pK5p/2B5/P4pp1/8/7P/8 b - - 0 57"]
+[PlyCount "10"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+57... g3 $2 58. hxg3 fxg3 (58... f3 59. Kxb7 Kf6 (59... a5 60. Kb6 $18) 60.
+Kxa6 Kg5 (60... Ke5 61. Kb6 $18) 61. Kb6 Kg4 62. a5 Kxg3 63. a6 $18) 59. Bd6 g2
+60. Bh2 Kf6 61. a5 Kf5 62. Kxb7 $18 *
+
+[Event "Galitzky 1902"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 021"]
+[Black "L vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/6p1/6P1/6Pp/B1p1p2K/6PP/3k2P1/8 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Bd1 e3 (1... Kxd1 2. Kxh5 e3 3. g4 e2 4. h4 e1=Q 5. g3 $11) 2. Bxh5 e2 3.
+Bxe2 c3 (3... Kxe2 4. Kh5 Kf2 (4... c3 5. g4 c2 6. h4 c1=Q 7. g3 $11) 5. g4
+Kxg2 6. h4 $11) 4. Bh5 c2 5. g4 c1=Q 6. g3 $11 *
+
+[Event "Hiarcs732-Nimzo8, CompGame 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 022"]
+[Black "L vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/4k3/8/2Kp3p/B3bp1P/P7/1P6/8 b - - 0 60"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+60... Bg2 {(Var)} (60... f3 $2 61. Bb5 Bf5 (61... Ke6 62. Kd4 $18) (61... Kd8
+62. a4 Kc8 63. a5 Kb7 (63... Kb8 64. b4 $18) 64. b4 $18) 62. Kd4 Kd6 (62... f2
+63. Ke3 $18) 63. b4 $18) (60... Bf3 $2 61. Bb5 $18) 61. Bc6 (61. Kd4 f3 62. Ke3
+d4+ 63. Kxd4 (63. Kf2 d3 $11) 63... f2 64. Bb5 Kd6 65. b4 f1=Q 66. Bxf1 Bxf1
+$11) 61... f3 62. Bxd5 Bh1 63. Bc4 Bg2 64. a4 (64. Bd5 Bh1 65. Bc4 (65. b4 f2
+$11) 65... Bg2 $11) 64... f2 $11 *
+
+[Event "Hiarcs9-Shredder9, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 023"]
+[Black "L vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/2p1K1p1/2k5/p7/P4BpP/1Pb3P1/8 w - - 0 26"]
+[PlyCount "12"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+26. Kd7 $2 Bb3 27. Be2 (27. h4 Bd5 $19) 27... Bd5 28. h4 Kd4 29. Kd6 (29. Bg4
+Ke3 $19) (29. Ke7 Ke3 $19) 29... Ke3 30. Bg4 Kf2 31. Bh3 Bxg2 $19 *
+
+[Event "Kharichev 1987"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 024"]
+[Black "L vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/3p3B/5p2/5P2/p7/PP5b/k7/6K1 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. b4 (1. bxa4 $2 d5 2. a5 (2. Bg6 d4 $11) 2... d4 3. Kf2 (3. Bg6 d3 $11) 3...
+d3 4. Bg6 (4. Ke3 Bf1 $11) 4... d2 5. Ke2 (5. Bh5 Bxf5 6. a6 Bc8 $11) 5... Bf1+
+6. Kxd2 Kxa3 $11) (1. Bg8 $2 axb3 $19) 1... Bg4 (1... d5 2. b5 $18) 2. Kf2 d5
+3. b5 d4 4. b6 d3 5. Ke3 $18 *
+
+[Event "Nimzo732-ChessTiger12, CompGame 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 025"]
+[Black "L vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/p4p2/1p2k2p/6p1/P4b1P/1P6/3B1PP1/6K1 w - - 0 40"]
+[PlyCount "10"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+40. Bxf4 $2 gxf4 41. Kf1 (41. g4 fxg3 42. fxg3 Kf5 43. Kg2 (43. Kf2 Kg4 $19)
+43... Kg4 44. Kh2 (44. Kf2 f5 45. Kg2 f4 46. gxf4 Kxf4 47. Kf2 (47. Kh3 h5 $19)
+47... Kg4 $19) (44. b4 a6 $19) 44... Kf3 $19) 41... Kf5 42. f3 (42. b4 Ke4 $19)
+(42. Ke2 Kg4 $19) 42... Ke5 43. b4 Kd4 44. Ke2 (44. b5 Kc3 $19) 44... Kc3 $19 *
+
+[Event "Toga21-Spike10aMainz, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 027"]
+[Black "L vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "3b3k/1p4p1/p5p1/4B3/8/7P/1P3PP1/5K2 b - - 0 37"]
+[PlyCount "10"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+37... Bf6 $2 38. Bxf6 gxf6 39. Ke2 Kg7 (39... Kg8 40. Kd3 $18) 40. Kd3 Kf7 (
+40... b6 41. Kd4 $18) 41. Kd4 Ke6 42. Kc5 $18 *
+
+[Event "Estrin-Ivashin, CorrGame 1947"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 028"]
+[Black "L vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "4b1k1/1p3p2/4pPp1/p2pP1P1/P2P4/1P1B4/8/2K5 w - - 0 29"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+29. b4 (29. Kb2 $2 b6 30. Ka3 Bd7 31. b4 Kf8 $11) 29... axb4 (29... Bxa4 30.
+bxa5 Bc6 31. Kb2 Kf8 32. Kc3 Ke8 33. Kb4 Kd8 34. Kc5 $18) 30. Bc2 Bc6 (30... b6
+31. Kb2 $18) (30... Bd7 31. Kb2 $18) (30... b3 31. Bxb3 b6 (31... Bd7 32. Kb2
+$18) (31... Kf8 32. Kb2 $18) 32. Kb2 Bd7 33. Bc2 Kf8 34. Kb3 Ke8 35. Kc3 Kd8
+36. Kb4 $18) 31. Kb2 b6 (31... Kf8 32. Kb3 $18) 32. Kb3 Kf8 (32... Bd7 33. Kxb4
+$18) 33. Kxb4 Ke8 (33... Bd7 34. a5 $18) 34. a5 bxa5+ 35. Kxa5 $18 *
+
+[Event "Fritz6-Fritz532, CompGame 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 029"]
+[Black "L vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/3k1p2/n3pP2/1p2P2p/5K2/1PB5/7P/8 b - - 0 42"]
+[PlyCount "12"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+42... Kc6 $2 (42... b4 $2 43. Bd4 Ke8 (43... h4 44. Kg4 Nb8 45. Bc5 Nc6 46. Bd6
+$18) 44. Kg5 Kf8 45. Kxh5 Kg8 46. Kg4 Kh7 47. Kf4 Kg6 48. Ke4 Kg5 49. Kd3 Nc7
+50. Kc4 $18) 43. Kg5 h4 (43... b4 44. Bd4 Kd5 45. Bb2 $18) 44. Kxh4 b4 (44...
+Nc5 45. Kg5 Ne4+ (45... Nxb3 46. h4 $18) 46. Kh6 Nxc3 47. Kg7 $18) 45. Be1 Kd5
+(45... Nc5 46. Bxb4 Nxb3 47. Bd6 $18) 46. Kg5 Kxe5 47. Bf2 Kd5 (47... Nc7 48.
+Bg3+ $18) (47... Kd6 48. h4 $18) 48. h4 $18 *
+
+[Event "GoliathLight1-Amy087, CompGame 2004"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 030"]
+[Black "L vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/4p1p1/1P1kP3/4n1PK/2B4P/8/8 b - - 0 59"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+59... Kc5 {(Var)} (59... Nxc3 $2 60. b6 Kc6 61. Kg5 Nd5 (61... Ne4+ 62. Kxg6
+$18) 62. h4 Ne3 (62... Nxb6 63. h5 gxh5 64. gxh5 Nd7 65. h6 $18) 63. h5 gxh5
+64. gxh5 $18) (59... g5+ $2 60. Kh5 $18) 60. Ba1 (60. Be1 Kxb5 61. g5 Kc5 62.
+Kg4 Kd5 63. Kf4 Nc5 64. Bg3 Kc6 65. h4 Kd7 $11) 60... Kxb5 61. g5 Kc6 62. Kg4
+Nf2+ 63. Kg3 (63. Kh4 Ne4 $11) 63... Nd3 64. h4 Kd7 $11 *
+
+[Event "Shredder4-Genius65, CompGame 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 031"]
+[Black "L vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/5k2/4p3/B2p2P1/3K2n1/1P6/8/8 b - - 0 81"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+81... Kg6 {(Var)} (81... Nh2 $2 82. b4 Nf3+ 83. Kc5 d4 (83... Nd2 84. b5 $18)
+84. b5 d3 (84... Ne5 85. Kxd4 $18) 85. b6 Ne5 86. b7 Nd7+ 87. Kd6 $18) 82. Bd8
+(82. b4 Kxg5 83. b5 Kf5 84. b6 Nf6 85. b7 e5+ 86. Ke3 (86. Kc5 Ke6 $11) 86...
+Nd7 $11) (82. Bd2 Nh2 83. b4 (83. Kc3 Nf3 84. b4 d4+ 85. Kc2 Ne5 $11) 83...
+Nf3+ 84. Kc3 (84. Kd3 e5 $11) 84... d4+ $11) 82... Nh2 83. b4 (83. Kc3 Nf3 $11)
+83... Nf3+ 84. Ke3 (84. Kc5 d4 $11) 84... Ne5 85. b5 (85. Kd4 Nc6+ $19) (85.
+Bc7 Nc4+ 86. Kd4 Kxg5 $11) 85... Nd7 86. Kd4 Kf5 $11 *
+
+[Event "Kasparian 1949"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 032"]
+[Black "L&L&S vs T&L&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5b2/p4B2/5B2/1bN5/8/P3r3/4k1K1/8 w - - 0 1"]
+[PlyCount "25"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Bh5+ (1. Ne6 $2 Bc6+ 2. Kg1 (2. Kh2 Bd6+ $19) 2... Rg3+ 3. Kh2 Bd6 4. Nd4+
+Kf1 5. Nf5 Rf3+ $19) (1. Nb3 $2 Bc6+ $19) 1... Ke1 2. Bh4+ Kd2 3. Bg5 Bxc5 (
+3... Bc6+ 4. Kf2 $11) 4. Kf2 Kd3 (4... Bb6 5. Bg6 $11) (4... a5 5. Bg6 $11) 5.
+Bg6+ Re4+ (5... Kd2 6. Bf5 $11) 6. Kf3 Bc6 7. a4 Kd4 (7... Bb6 8. Bf6 $11) (
+7... a5 8. Bf6 $11) 8. Bf6+ Re5+ (8... Kd3 9. Bf5 $11) 9. Kf4 Bd6 (9... Bxa4
+10. Bxe5+ $11) 10. a5 Kd5 (10... Bh1 11. Bb1 $11) (10... Bg2 11. Be8) 11. Bf7+
+Re6+ (11... Kd4 12. Be6 $11) 12. Kf5 Bd7 13. a6 $11 *
+
+[Event "Kubbel 1925"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 033"]
+[Black "L&S vs D"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/p5pq/8/p2N3p/k2P3P/8/KP3PB1/8 w - - 0 1"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Be4 Qh6 (1... Qxe4 2. Nc3+ $18) (1... g6 2. Bd3 Qb7 3. Bc4 $18) 2. Bd3 Qd2
+3. Be2 g6 (3... a6 4. f3 $18) 4. f3 Qc2 (4... a6 5. f4 Qc2 (5... Qxe2 6. Nc3+
+Kb4 7. Nxe2 $18) 6. Bd1 Qxd1 7. Nc3+ Kb4 8. Nxd1 $18) 5. Bd1 Qxd1 6. Nc3+ Kb4
+7. Nxd1 $18 *
+
+[Event "Pseudo07c-CMaster10000, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 034"]
+[Black "L&S vs L&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "1b6/1P6/8/2KB4/6pk/3N3p/8/8 b - - 0 62"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+62... Kg3 {(Var)} (62... g3 $2 63. Nc1 Kg5 (63... Ba7+ 64. Kc6 Bb8 65. Kd7 $18)
+64. Ne2 g2 (64... Kf6 65. Ng1 h2 66. Ne2 $18) 65. Kc6 Kf5 66. Kd7 Ke5 67. Bf3
+Ba7 68. Kc8 $18) 63. Kc6 (63. Be6 Kh4 64. Bd5 Kg3 $11) (63. Kd4 Kh2 64. Ne5 g3
+$11) 63... Kh2 64. Ne1 g3 65. Kd7 (65. Nf3+ Kg2 66. Ng5+ Kh2 $11) 65... Kg1 66.
+Kc8 Ba7 67. b8=Q (67. Nd3 g2 $11) 67... Bxb8 68. Kxb8 Kf2 $11 *
+
+[Event "Thinker47a-Naum18, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 035"]
+[Black "L&S vs L&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/p7/7k/1P1K3P/8/1n6/4Bp2/5Nb1 b - - 0 52"]
+[PlyCount "5"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+52... Na5 {(Var)} (52... Kg7 $2 53. Bf3 Na5 (53... Nc1 54. Kc4 $18) (53... Kf6
+54. Kc4 $18) 54. Kc5 Nb3+ 55. Kc4 Nc1 56. Kc3 $18) (52... Kg5 $2 53. Bf3 $18)
+53. Bf3 Nb7 54. Kc6 Nd8+ $11 *
+
+[Event "Bruzzi 1996"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 036"]
+[Black "L&S vs T&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/8/3K4/2N5/p2B4/p7/k4r2 w - - 0 1"]
+[PlyCount "5"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Kc5 (1. Bxf1 $2 Kb1 2. Bd3+ (2. Nd6 a1=Q $19) (2. Ne5 a1=Q $19) 2... Kc1 $19
+) 1... Rc1 2. Kb4 Rxc4+ 3. Kb3 $11 *
+
+[Event "Pogosiants 1977"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 037"]
+[Black "L&S&S vs T&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/2kp4/5Bp1/8/5K2/3N4/2rN4 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Nb3 Rxd1 2. Ke2 Rg1 (2... Kd5 3. Kxd1 Ke5 4. Bc8 Kf4 5. Ke2 g4 6. Kf2 $18)
+3. Kf2 Rd1 4. Bc2 Rd5 5. Be4 $18 *
+
+[Event "Kubbel 1938"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 038"]
+[Black "S vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "k2K4/1p4pN/P7/1p3P2/pP6/8/8/8 w - - 0 1"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. f6 (1. Kc7 $11 bxa6 2. f6 gxf6 3. Nxf6 a3 4. Nd5 a5 5. Ne3 axb4 6. Nc2 $11)
+(1. axb7+ $2 Kxb7 $19) (1. Nf8 $2 a3 $19) 1... gxf6 2. Nxf6 a3 3. Nd5 a2 (3...
+bxa6 4. Kc7 $11) 4. Kc7 bxa6 5. Nb6+ Ka7 6. Nc8+ Ka8 7. Nb6+ $11 *
+
+[Event "Vandiest 1995"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 039"]
+[Black "S vs D"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "k2N4/1qpK1p2/1p6/1P4p1/1P4P1/8/8/8 w - - 0 5"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+5. Nc6 (5. Nxb7 $2 Kxb7 6. Ke7 c5 7. bxc6+ Kxc6 8. Kxf7 Kb5 $11) 5... f6 (5...
+Qb8 6. Nxb8 Kxb8 7. Ke7 f5 8. gxf5 g4 9. f6 g3 10. f7 g2 11. f8=Q+ $18) 6. Kd8
+f5 (6... Qb8+ 7. Nxb8 Kxb8 (7... Kb7 8. Kd7 $18) 8. Ke7 Kb7 9. Kxf6 $18) 7.
+gxf5 g4 8. f6 g3 (8... Qxc6 9. bxc6 g3 10. f7 g2 11. f8=Q g1=Q 12. Kxc7+ $18)
+9. f7 g2 10. f8=Q $18 *
+
+[Event "Aristarch45-Yace9987, CompGame 2004"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 040"]
+[Black "S vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "6k1/4b3/4p1p1/8/6pP/4PN2/5K2/8 w - - 0 34"]
+[PlyCount "4"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+34. Ng5 $2 (34. Ne5 $142 Bxh4+ 35. Kg2 Kg7 36. Nxg4 $11) (34. Nh2 $142 Bxh4+
+35. Kg2 Kg7 (35... g3 36. Nf3 $11) 36. Nxg4 $11) 34... Bxg5 35. hxg5 Kf8 $19 *
+
+[Event "Kolcak-Feco, CorrGame 2001"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 041"]
+[Black "S vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/6Np/2p3kP/1pPbP3/1P3K2/8/8 w - - 0 64"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+64. e5 {(Var)} Kf5 (64... Kxh5 65. Nf4+ Kg5 66. Ke4 Bc3 (66... Kg4 67. e6 $18)
+67. Ne6+ Kg6 68. Nxc5 $18) 65. Ne7+ Ke6 66. Ng8 Bxe5 67. Nxh6 Bg7 (67... Bd6
+68. Ke4 $18) 68. Ng4 Kf5 69. h6 $18 *
+
+[Event "Nurmamedov-Volovici 1960"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 042"]
+[Black "S vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/3P4/1p3b1p/p7/P7/1P3NPP/4p1K1/3k4 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. g4 {(Var)} (1. Kf2 $2 Bd8 2. h4 Bf6 $11) 1... e1=Q (1... Be7 2. h4 e1=Q (
+2... Kc1 3. Kg3 $18) (2... Bd8 3. Kh3 $18) (2... Bf6 3. Kg3 Kc2 (3... Be5+ 4.
+Kh3 $18) 4. g5 hxg5 5. h5 $18) 3. Nxe1 Bxh4 4. Nf3 $18) (1... Kc2 2. h4 Kd1 3.
+Kh3 e1=Q (3... Kc2 4. g5 $18) 4. Nxe1 Kxe1 5. g5 $18) (1... e1=N+ 2. Nxe1 Kxe1
+3. Kg3 $18) 2. Nxe1 Kxe1 3. Kg3 Ke2 (3... Kd2 4. h4 $18) 4. h4 Ke3 (4... Be5+
+5. Kg2 $18) 5. g5 hxg5 6. h5 $18 *
+
+[Event "Zappa-Jonny, CompGame 2006"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 043"]
+[Black "S vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/1p2p3/p3p2b/P1PpP2P/kP6/2K5/7N w - - 0 132"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+132. Nf2 {(Var)} (132. Ng3 $2 Bg6 133. h5 Be8 134. h6 Bg6 135. Nh5 Bxe4+ 136.
+Kd2 Kxb3 $19) 132... Bf3 133. h5 Bxh5 134. Nd3 Bf3 135. c5 bxc5 136. Nxc5 $11 *
+
+[Event "Kallstrom 1969"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 044"]
+[Black "S vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "4N3/8/3P3p/1k2P3/7p/1n1K4/8/8 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. d7 (1. Ke3 $2 Nc5 $11) 1... Nc5+ 2. Ke2 Nxd7 (2... Nb7 3. Nd6+ $18) 3. e6
+Kc6 (3... h3 4. Kf1 $18) 4. e7 h3 5. Kf1 h5 (5... h2 6. Kg2 $18) 6. Kg1 $18 *
+
+[Event "Selesniev 1927"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 045"]
+[Black "S vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "N5n1/2p1kp2/2P3p1/p4PP1/K4P2/8/8/8 w - - 0 1"]
+[PlyCount "6"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Nxc7 $2 (1. f6+ $142 Kd6 2. Kb5 a4 3. Nb6 a3 4. Nc4+ $18) (1. Kb5 $142 gxf5
+(1... Kd6 2. f6 a4 3. Nb6 a3 (3... cxb6 4. Kxb6 $18) 4. Nc4+ $18) 2. Nxc7 Kd6
+3. Ne8+ Ke7 4. Nf6 Nxf6 5. gxf6+ $18) 1... Kd6 2. Ne6 (2. fxg6 fxg6 3. f5 gxf5
+4. Nb5+ Kxc6 5. Nd4+ Kd5 6. Nxf5 Ne7 $11) 2... gxf5 3. Nd8 (3. c7 Ne7 $11) 3...
+Ne7 $11 *
+
+[Event "Thinker47a-Tao57b, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 046"]
+[Black "S vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/2pn4/p4p1p/P4N2/1Pk2KPP/8/8 w - - 0 1"]
+[PlyCount "6"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Nxh5 $2 (1. Ne2+ $142 Kb2 2. Kf4 $11) (1. Ne6 $142 Nc8 2. Kf4 $11) 1... Kxb3
+2. g4 (2. Ke2 Kxa4 3. Kd1 Kb3 4. Kc1 a4 $19) (2. Nf4 Kxa4 3. Ke3 (3. Ke2 Kb3
+$19) 3... Kb3 4. Kd2 a4 5. Kc1 a3 6. Kb1 Ne4 $19) 2... fxg4+ 3. hxg4 (3. Kxg4
+Kxa4 $19) 3... Kxa4 $19 *
+
+[Event "Mattison 1913"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 047"]
+[Black "S vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/7k/2P5/2p4p/P3N2K/8/8/5r2 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Ng5+ (1. c7 $2 Rf8 2. Nxc5 Kg6 3. a5 Rc8 4. Ne6 Kf6 5. Nf4 Ke5 6. Kg5 Rg8+
+$11) 1... Kg6 (1... Kg8 2. Ne6 Ra1 3. c7 Rxa4+ 4. Nd4 Ra8 5. Nc6 $18) (1... Kh6
+2. c7 $18) 2. Ne6 Ra1 3. c7 Rxa4+ 4. Nd4 Rxd4+ (4... Ra8 5. Nc6 $18) 5. Kg3 $18
+*
+
+[Event "Raina 1948"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 048"]
+[Black "S vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "2k1r3/p7/K7/1P6/P2N4/8/P7/8 w - - 0 1"]
+[PlyCount "7"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Nc6 (1. Kxa7 $2 Re7+ 2. Kb6 Re4 3. Kc5 Re5+ $11) (1. a5 $2 Re7 2. Nc6 Rb7 3.
+Nxa7+ (3. a4 Rf7 4. Nxa7+ (4. b6 axb6 5. axb6 Rh7 $11) 4... Kb8 5. Nc6+ Ka8 $11
+) 3... Kb8 4. Nc6+ (4. b6 Rxa7+ 5. bxa7+ Ka8 $11) 4... Ka8 $11) 1... Re6 (1...
+Rh8 2. Kxa7 Rh7+ 3. Ka6 Rc7 4. a5 $18) (1... Re2 2. Kxa7 Rxa2 3. a5 $18) 2. a5
+Kd7 (2... Kc7 3. Kxa7 $18) 3. Kb7 Kd6 4. Nxa7 $18 *
+
+[Event "Vukovic 1953"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 049"]
+[Black "T vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "1k6/8/8/1K6/5pp1/8/4Pp1p/R7 w - - 0 1"]
+[PlyCount "25"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Kb6 (1. Kc6 $2 g3 2. Rb1+ (2. Rd1 Kc8 $19) 2... Kc8 3. Ra1 (3. Rd1 h1=Q+ 4.
+Rxh1 Kd8 $19) (3. Rc1 h1=Q+ 4. Rxh1 Kd8 $19) 3... h1=Q+ 4. Rxh1 Kd8 5. Kd6 Ke8
+6. Ke6 Kf8 7. Kf6 Kg8 $19) 1... g3 (1... f1=Q 2. Rxf1 Kc8 3. Kc6 $11) (1... f3
+2. exf3 g3 3. Kc6 $11) 2. Kc6 g2 (2... f1=Q 3. Rxf1 g2 4. Rb1+ Kc8 5. Ra1 $11)
+(2... h1=Q+ 3. Rxh1 g2 4. Rh8+ Ka7 5. Rh7+ Ka6 6. Rh8 $11) (2... f3 3. Rb1+ Ka7
+4. Ra1+ $11) 3. Rb1+ Kc8 4. Ra1 Kd8 5. Kd6 Ke8 6. Ke6 Kf8 7. Kf6 Kg8 8. Ra8+
+Kh7 9. Ra7+ Kh6 10. Ra8 Kh5 11. Kf5 Kh4 12. Rh8+ Kg3 13. Rg8+ $11 *
+
+[Event "Weenink 1927"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 050"]
+[Black "T vs B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "6k1/8/8/1K4p1/3p2P1/2pp4/8/1R6 w - - 0 1"]
+[PlyCount "15"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Kc6 (1. Rd1 $2 c2 2. Rc1 d2 $19) 1... c2 (1... d2 2. Kd7 c2 3. Rb8+ Kg7 4.
+Re8 d1=Q 5. Re7+ Kf6 6. Re6+ $11) (1... Kf7 2. Kd7 Kf6 3. Re1 $11) 2. Re1 d2 (
+2... Kf7 3. Kd7 d2 4. Re7+ $11) 3. Re8+ Kf7 4. Kd7 d1=Q 5. Re7+ Kf6 6. Re6+ Kf7
+7. Re7+ Kf8 8. Re8+ $11 *
+
+[Event "Jonny275-Spike09, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 051"]
+[Black "T vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/5p2/3pp2p/p5p1/4Pk2/2p2P1P/P1Kb2P1/1R6 w - - 0 1"]
+[PlyCount "8"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rb7 $2 (1. a4 $142 Kg3 2. Rb5 Kxg2 3. Rxa5 Kxh3 4. e5 $11) (1. Rb5 $142 a4 (
+1... Kg3 2. Rxa5 $11) 2. Ra5 Kg3 3. Rxa4 Kxg2 4. Rd4 Kxf3 5. a4 $11) 1... Kg3
+2. Rxf7 (2. Ra7 Kxg2 3. Rxa5 Kxf3 4. a4 (4. Ra7 h5 $19) 4... h5 $19) 2... Kxg2
+3. Rf6 (3. Rh7 Kxh3 4. Rxh6+ (4. Re7 e5 $19) (4. Kd3 Kg2 $19) 4... Kg2 5. Rxe6
+(5. Kd3 Bf4 $19) 5... Bf4 $19) (3. Ra7 Kxh3 4. Rxa5 h5 5. a4 (5. e5 dxe5 6.
+Rxe5 Kg3 $19) 5... h4 6. e5 (6. Rb5 Kg3 $19) 6... dxe5 7. Rxe5 Kg3 $19) 3... h5
+4. Rxe6 (4. a4 Kxh3 5. Rxe6 Bf4 $19) 4... Bf4 $19 *
+
+[Event "Shredder9-Ruffian21, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 052"]
+[Black "T vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/4pR2/3pP2p/6P1/2p4k/P1Kb4/8 b - - 0 46"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+46... hxg4 {(Var)} (46... Kxg4 $2 47. Rxe6 Kf5 (47... h4 48. Re7 $18) (47...
+Be3 48. Kxc3 $18) (47... Bf4 48. Re8 $18) 48. Re8 Bf4 (48... d4 49. e6 $18) 49.
+e6 Be5 50. a4 h4 51. a5 $18) 47. Rxe6 (47. a4 g3 $19) 47... Bf4 48. Re8 (48.
+Kxc3 g3 49. Rg6 Bxe5+ 50. Kd3 g2 $11) 48... g3 49. e6 g2 50. Rg8 Bg3 $11 *
+
+[Event "Halberstadt 1939"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 053"]
+[Black "T vs S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "3k3K/p5P1/P3r3/8/1N6/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Kh7 (1. Nc6+ $2 Kd7 2. g8=Q Re8 3. Nxa7 (3. Nb8+ Kd8 $11) 3... Rxg8+ 4. Kxg8
+Kc7 $11) (1. g8=Q+ $2 Re8 2. Kg7 Rxg8+ 3. Kxg8 Ke7 $11) 1... Re8 2. Nd5 Kc8 3.
+Kg6 Rd8 4. Kf7 Kb8 (4... Rxd5 5. g8=Q+ $18) 5. Nf6 Kc8 (5... Kc7 6. Ne8+ $18)
+6. Ke7 $18 *
+
+[Event "CraftyCito12-Movei008310, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 054"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/5p2/5k2/p4r2/PpKR4/1P5P/8 w - - 0 46"]
+[PlyCount "8"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+46. Rd4 $2 Rxd4 47. Kxd4 Kg4 48. Kd5 (48. Kc4 f5 $19) 48... Kh3 49. Ke6 Kxh2
+$19 *
+
+[Event "Delfi44-Aristarch441, CompGame 2004"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 055"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5k2/7R/8/4Kp2/5Pp1/P5rp/1P6/8 w - - 0 44"]
+[PlyCount "15"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+44. Kf6 {(Var)} (44. a4 $2 Kg8 45. Rh5 (45. Rh4 Rg2 46. a5 h2 $19) (45. Rh6 Kg7
+$19) 45... Rg2 46. Kxf5 h2 $19) (44. Kxf5 $2 Rg2 45. Kf6 (45. b4 h2 $19) (45.
+Rh8+ Kf7 $19) 45... Ke8 46. Ke6 (46. b4 h2 $19) (46. Kf5 h2 $19) 46... Kd8 $19)
+(44. Ke6 $2 Rg2 $19) (44. Rh4 $2 Rg2 45. Kxf5 (45. Kf6 Kg8 $19) 45... h2 $19)
+44... Kg8 (44... Ke8 45. a4 Rg2 46. a5 Rxb2 (46... h2 47. a6 $18) 47. a6 Rb6+
+48. Kxf5 $11) 45. Rg7+ Kh8 (45... Kf8 46. Rh7 $11) 46. Rg6 Rb3 47. Rh6+ Kg8 48.
+Kxf5 g3 (48... Rxb2 49. Kxg4 $11) 49. Rxh3 g2 (49... Kf7 50. Rh7+ $11) 50. Rxb3
+g1=Q 51. Rb4 $36 *
+
+[Event "Hasek 1929"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 056"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "2K5/p7/7P/5pR1/8/5k2/r7/8 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rxf5+ (1. Rh5 $2 Re2 2. h7 (2. Kd7 Rb2 3. h7 Rb8 4. h8=Q (4. Rxf5+ Kg4 $11)
+4... Rxh8 5. Rxh8 f4 $11) 2... Re8+ 3. Kd7 Rh8 $11) 1... Kg4 (1... Ke4 2. Rh5
+$18) 2. Rh5 Rc2+ (2... Rf2 3. Rh1 $18) 3. Kd7 Rd2+ 4. Ke7 Re2+ 5. Kf7 Rf2+ 6.
+Kg7 $18 *
+
+[Event "Junior9-Shredder8, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 057"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/2R4p/4k3/1p2P3/pP3PK1/r7/8/8 b - - 0 52"]
+[PlyCount "10"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+52... Rb3 $2 (52... h5+ $142 53. Kxh5 (53. Kg5 Rg3+ 54. Kxh5 a3 $11) 53... Rg3
+54. Rc6+ Kd5 $11) (52... Ra1 $142 53. Rxh7 (53. Rc6+ Kd5 $11) 53... a3 54. Ra7
+(54. Rh6+ Kd5 $11) 54... a2 55. Ra6+ Kd5 56. Kf5 Kc4 57. e6 Kxb4 $11) 53. Rc6+
+Kd7 (53... Ke7 54. f5 Rxb4+ (54... a3 55. f6+ Kf7 56. Kf5 $18) 55. Kg5 h6+ (
+55... Rc4 56. Ra6 $18) (55... Rb1 56. f6+ $18) 56. Rxh6 Re4 57. Rh7+ $18) 54.
+Ra6 Rxb4 (54... Re3 55. Kf5 $18) 55. Kf5 Ke7 (55... Rb1 56. e6+ Ke7 57. Ra7+
+Kd6 58. Kf6 $18) 56. Ra7+ Kd8 57. e6 $18 *
+
+[Event "Rey 1929"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 058"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "2k1r3/5R2/3KP3/8/1pP3p1/1P5p/8/8 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rc7+ (1. e7 $2 h2 2. Rf8 h1=Q $11) 1... Kb8 2. Rh7 Rd8+ 3. Ke5 Re8 (3... g3
+4. Rxh3 Rg8 (4... g2 5. Rg3 $18) 5. e7 $18) (3... Rd1 4. e7 Re1+ 5. Kd6 g3 6.
+Rxh3 g2 7. Rg3 Rd1+ 8. Kc5 Re1 9. Kxb4 $18) 4. c5 g3 (4... Kc8 5. c6 $18) 5.
+Rxh3 $18 *
+
+[Event "Riumin-IlyinZhenevsky, Moskau 1931"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 059"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/6p1/1p5p/1R2k3/4p3/1P2P3/1K4PP/3r4 b - - 0 47"]
+[PlyCount "12"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+47... Rd5 $2 48. Rxd5+ Kxd5 49. Ka3 Kc5 50. Ka4 g6 (50... Kc6 51. Kb4 $18) 51.
+h4 h5 (51... g5 52. h5 $18) 52. g3 Kc6 (52... Kd6 53. Kb5 $18) 53. b4 $18 *
+
+[Event "Saemisch 1922"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 060"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5K2/kp3P2/2p5/2Pp4/3P4/r7/p7/6R1 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Ke7 (1. Kg7 $2 a1=Q 2. Rxa1 Rxa1 3. f8=Q Re1 4. Qf2 Re4 $11) (1. Kg8 $2 a1=Q
+$11) 1... Re3+ 2. Kf6 Rf3+ (2... Rb3 3. Ra1 Rf3+ 4. Ke7 Re3+ 5. Kd6 Rf3 6.
+Rxa2+ Kb8 7. Ke7 $18) 3. Kg7 Ra3 4. f8=Q a1=Q 5. Rxa1 Rxa1 6. Qf2 $18 *
+
+[Event "Selesniev 1922"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 061"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/pp3K2/2P4k/5p2/8/6P1/R7/6r1 w - - 0 1"]
+[PlyCount "7"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Kf6 (1. cxb7 $2 Rb1 2. Kf6 (2. Ra6+ Kg5 $11) (2. Rxa7 Kg5 $11) 2... Rb6+ $11
+) 1... Kh5 2. Rxa7 bxc6 (2... Kg4 3. Rxb7 $18) 3. g4+ Kh4 (3... Rxg4 4. Rh7#)
+4. gxf5 $18 *
+
+[Event "Skuja&Giese 1934"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 062"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "2r3k1/6pp/3pp1P1/1pP5/1P6/P4R2/5K2/8 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. c6 (1. cxd6 $2 hxg6 $11) (1. gxh7+ $2 Kxh7 $11) 1... Rxc6 (1... d5 2. Rc3 d4
+(2... Rf8+ 3. Ke2 $18) (2... e5 3. a4 $18) 3. Rc1 d3 (3... h5 4. a4 bxa4 5. b5
+$18) (3... hxg6 4. a4 $18) 4. Ke3 $18) (1... e5 2. a4 bxa4 3. b5 $18) (1...
+hxg6 2. Rc3 Kf7 3. a4 $18) (1... h5 2. Rc3 $18) (1... Ra8 2. Rc3 $18) 2. Rf8+
+Kxf8 3. gxh7 Rc2+ 4. Kg3 Rc3+ 5. Kg4 Rc4+ 6. Kg5 $18 *
+
+[Event "Smyslov 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 063"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "r2k4/8/8/1P4p1/8/p5P1/6P1/1R3K2 w - - 0 1"]
+[PlyCount "14"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. b6 (1. Ke2 $2 Kc7 2. Kd3 (2. b6+ Kb7 $19) 2... Kb6 3. Kc4 (3. Ke4 Ra5 $19)
+3... a2 4. Ra1 g4 5. Kb4 Ra5 6. Kc4 Ra4+ $19) 1... a2 (1... Kd7 2. b7 Rb8 3.
+Kf2 a2 4. Ra1 $11) 2. Ra1 Kc8 (2... Ra3 3. g4 $11) 3. g4 Kb7 (3... Ra4 4. g3
+$11) 4. g3 Kxb6 (4... Ra6 5. Kg2 $11) 5. Kg2 Kb5 (5... Kc5 6. Kh3 $11) 6. Kh3
+Kb4 (6... Kb6 7. Rxa2 $11) 7. Rxa2 Rxa2 $11 *
+
+[Event "Uhlmann-Knaak, Halle 1976"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 064"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/4k3/1p4p1/p7/P1r1P3/1R4Pp/5P1P/4K3 w - - 0 47"]
+[PlyCount "15"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+47. Ke2 Rxa4 48. Kf3 Ra2 (48... Kf7 49. Rxb6 $40) 49. Rxb6 Kf7 50. e5 a4 (50...
+Ra4 51. g4 Ra1 52. Kg3 $18) 51. Rf6+ Kg7 52. Kg4 Re2 (52... a3 53. Kxh3 Re2 (
+53... Rb2 54. f4 $18) 54. f4 $18) 53. f4 Rxh2 54. Ra6 $18 *
+
+[Event "VanScheltinga 1941"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 065"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "R7/4kp2/P3p1p1/3pP1P1/3P1P2/p6r/3K4/8 w - - 0 1"]
+[PlyCount "19"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Kc2 (1. Re8+ $2 Kxe8 2. a7 a2 3. a8=Q+ Ke7 $11) (1. a7 $2 a2 2. Re8+ Kxe8 3.
+a8=Q+ Ke7 $11) 1... a2 (1... Rh2+ 2. Kb1 Rb2+ 3. Ka1 Rb4 4. Ka2 Ra4 (4... Rxd4
+5. Kxa3 Rd1 (5... Rxf4 6. Rh8 $18) 6. Kb2 Rd2+ (6... Rd4 7. Ra7+ $18) 7. Kb3
+Rd1 8. Ra7+ Kf8 9. Rb7 Ra1 10. a7 $18) 5. a7 Ra6 (5... Ra5 6. f5 exf5 7. e6 f6
+(7... f4 8. Rh8 $18) 8. gxf6+ Kxe6 9. Re8+ $18) 6. f5 exf5 7. e6 $18) 2. Kb2
+Ra3 3. Ka1 Ra4 (3... Kd7 4. a7 Kc6 5. Rc8+ Kb7 6. Rf8 Kxa7 7. Rxf7+ $18) 4. a7
+Ra6 (4... Ra3 5. f5 $18) 5. f5 exf5 6. e6 f4 (6... f6 7. gxf6+ Kxe6 8. Re8+ $18
+) 7. Rh8 f3 (7... f6 8. gxf6+ Kxe6 (8... Kxf6 9. a8=Q $18) 9. a8=Q Rxa8 10.
+Rxa8 g5 (10... Kxf6 11. Rf8+ $18) 11. Rg8 $18) (7... Kxe6 8. a8=Q Rxa8 9. Rxa8
+Kf5 10. Rf8 $18) 8. a8=Q Rxa8 9. Rxa8 f2 10. Ra7+ $18 *
+
+[Event "Yace09987-Delfi45, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 066"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1pp1r3/p1p2k2/6p1/P5P1/1P3P2/2P1RK2/8 b - - 0 8"]
+[PlyCount "12"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+8... Rxe2+ $2 (8... Re5 $2 9. Rxe5 Kxe5 10. Ke3 $18) 9. Kxe2 Ke5 (9... c5 10.
+c4 Ke6 (10... Ke5 11. Ke3 $18) (10... a5 11. Kd3 $18) 11. Ke3 Ke5 12. Kd3 a5
+13. Ke3 $18) (9... b5 10. Ke3 Ke5 11. c3 $18) (9... Ke6 10. Ke3 Ke5 11. c3 $18)
+10. Ke3 c5 (10... a5 11. c3 $18) 11. c3 b6 (11... a5 12. c4 $18) (11... c4 12.
+bxc4 $18) 12. c4 c6 13. Kd3 Kf4 (13... Kd6 14. Ke4 Ke6 15. f4 $18) 14. Ke2 $18
+*
+
+[Event "Chessmast10000-Shredder9, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 067"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1p2R3/8/p5P1/3k4/P2p2K1/1P6/5r2 w - - 0 60"]
+[PlyCount "7"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+60. Kg2 {(Var)} (60. Rd7+ $2 Ke3 61. Re7+ Kd2 62. Rxb7 (62. b4 axb4 63. axb4 b5
+64. Kg4 (64. Rc7 Ke3 65. Re7+ Kd4 66. Rd7+ (66. Kg2 Rf5 $19) 66... Kc3 $19)
+64... Kc3 65. Rc7+ Kxb4 $19) (62. Kg4 Kd1 63. b4 d2 $19) 62... Kc2 63. Rc7+ (
+63. b4 d2 $19) 63... Kxb2 64. Rd7 Kc2 $19) 60... Rf5 (60... Rf8 61. Rd7+ Ke3
+62. Re7+ $11) 61. g6 Rg5+ (61... d2 62. g7 $11) 62. Kf2 Rxg6 63. Rxb7 $11 *
+
+[Event "Herbstmann 1952"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 068"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "R7/P5Kp/2P5/k3r2P/8/5p2/p4P2/8 w - - 0 1"]
+[PlyCount "7"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rb8 (1. Rd8 $2 Re7+ 2. Kh6 Rxa7 $19) 1... Re7+ 2. Kg8 Rxa7 3. c7 a1=Q (3...
+Rxc7 4. Ra8+ Kb4 5. Rxa2 $11) 4. h6 $11 *
+
+[Event "ProDeo11-Hiarcs10HM, CompGame 2006"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 069"]
+[Black "T vs T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/2p4K/4k1p1/p1p1P3/PpP2P2/5R1P/8/6r1 b - - 0 41"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+41... Kf7 42. Rd3 (42. Kh6 Rc1 43. Kg5 (43. e6+ Kxe6 44. Kxg6 Rg1+ $19) 43...
+Rxc4 44. f5 gxf5 45. Kxf5 Rc3 $19) 42... Rc1 43. e6+ (43. Rd7+ Ke6 44. Rxc7
+Rxc4 45. Rc6+ (45. Kxg6 Rxf4 $19) 45... Ke7 46. Rc7+ (46. Kxg6 Rxf4 $19) 46...
+Kd8 47. Rb7 (47. Rf7 b3 $19) 47... Rxf4 48. Kxg6 c4 $19) 43... Kxe6 44. Kxg6
+Rg1+ 45. Kh5 Kf6 $19 *
+
+[Event "Kasparian 1947"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 071"]
+[Black "T&L vs D"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/B7/1R6/q3k2p/8/6p1/5P2/5K2 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rb3 (1. Rg6 $2 Qb5+ 2. Kg2 (2. Kg1 gxf2+ 3. Kh2 (3. Bxf2 Qb1+ $19) (3. Kxf2
+Qb2+ 4. Kg3 Qa3+ 5. Kh4 (5. Kg2 Qxa7 $19) 5... Qxa7 $19) 3... f1=Q $19) 2...
+Qb7+ 3. Kxg3 Kf5 $19) (1. Bb8+ $2 Kf5 2. Rb1 gxf2 3. Bg3 Qc3 4. Bxf2 (4. Kxf2
+Qc2+ $19) 4... Qd3+ $19) 1... Qxa7 (1... h4 2. Bb8+ Kf5 (2... Ke4 3. Re3+ $11)
+(2... Kd4 3. Bxg3 $11) 3. Bxg3 Qd5 (3... Qa1+ 4. Kg2 h3+ 5. Kxh3 $11) 4. Re3
+Qh1+ 5. Ke2 h3 6. Bb8 $11) 2. Rxg3 h4 (2... Qa1+ 3. Kg2 h4 4. Re3+ $11) 3. Rh3
+Qh7 (3... Qa4 4. Re3+ Kf4 5. Kg2 $11) 4. Kg2 Kf4 5. Re3 $11 *
+
+[Event "Kubbel 1916"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 072"]
+[Black "T&L vs L&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5k2/8/2Pb1B2/8/6RK/7p/5p1P/8 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Be5 (1. Bg7+ $2 Ke8 2. c7 (2. Re4+ Kf7 3. c7 Bxc7 4. Rc4 f1=Q $19) 2... Bxc7
+3. Re4+ Kf7 $19) (1. c7 $2 Bxc7 2. Bg7+ Ke8 $19) 1... Bxe5 (1... Be7+ 2. Kg3
+f1=Q 3. Rf4+ Qxf4+ 4. Bxf4 Ke8 5. Kxh3 $18) 2. c7 Bxc7 3. Rg5 Bd8 (3... f1=Q 4.
+Rf5+ $11) 4. Kg3 f1=Q 5. Rf5+ $11 *
+
+[Event "Yates 1921"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 073"]
+[Black "T&L vs T&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "3kB3/R4P2/8/8/1p6/pp6/5r2/1K6 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. f8=Q (1. f8=R $144) (1. Bb5 $2 Rb2+ 2. Kc1 Rc2+ 3. Kd1 Rf2 $11) 1... Rxf8 (
+1... a2+ 2. Ka1 $18) 2. Bf7 b2 (2... Kc8 3. Ra8+ $18) (2... a2+ 3. Ka1 $18) 3.
+Ka2 Kc8 (3... Rxf7 4. Rxf7 Kc8 (4... b3+ 5. Kb1 a2+ 6. Kxb2 $11) 5. Rf3 $18) 4.
+Ra8+ Kc7 5. Rxf8 $18 *
+
+[Event "Wright 1901"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 074"]
+[Black "T&L vs T&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5k2/1p6/1P1p4/1K1p2p1/PB1P2P1/3pR2p/1P2p1pr/8 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Ba5 (1. Rg3 $2 Rh1 $19) 1... e1=Q 2. Rxe1 g1=Q 3. b4 Qxd4 (3... Qxe1 $11) 4.
+Re8+ Kf7 5. Re7+ $11 *
+
+[Event "Fritz9-TogaII1.21, CompGame 2006"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 075"]
+[Black "T&L vs T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "6k1/p6p/1p1p2p1/2bP4/P1P5/2B3P1/4r2P/1R5K w - - 0 33"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+33. a5 {(Var)} (33. Bb4 $2 Bxb4 34. Rxb4 Ra2 35. Kg1 Kf7 36. Rb1 Rxa4 37. Rf1+
+(37. Rc1 Kf6 $19) 37... Ke7 $19) 33... Re4 (33... Rc2 34. axb6 axb6 35. Bb4 $11
+) (33... bxa5 34. Bxa5 Rc2 35. Rb8+ Kg7 36. Rb7+ Kh6 (36... Kf6 37. Bd8+ Ke5
+38. Re7+ Kd4 39. Rxh7 Kxc4 40. Rg7 $11) 37. Rd7 Rxc4 38. Bc7 $11) 34. axb6 axb6
+35. Bb4 Rxc4 36. Bxc5 Rxc5 (36... bxc5 37. Rb6 $11) 37. Rxb6 Rxd5 38. Rb7 $11 *
+
+[Event "Kasparian 1969"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 076"]
+[Black "T&L vs T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "3R3B/8/1r4b1/8/4pP2/7k/8/7K w - - 0 1"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Bd4 Rb1+ 2. Bg1 e3 (2... Bh5 3. Rh8 Kg4 4. Rh7 $11) 3. Rh8+ Kg4 (3... Kg3 4.
+Rg8 $11) 4. Rg8 e2 (4... Kxf4 5. Rxg6 $11) 5. Rxg6+ Kf5 (5... Kf3 6. Re6 $11)
+6. Rg5+ Kxf4 7. Rg2 $11 *
+
+[Event "Kubbel 1936"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 077"]
+[Black "T&L vs T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "rk1b4/p2p2p1/1P6/2R2P2/8/2K5/8/5B2 w - - 0 1"]
+[PlyCount "21"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rc8+ Kxc8 (1... Kb7 2. Bg2+ $18) 2. Ba6+ Kb8 3. b7 Bb6 (3... Be7 4. Kc4 Bd6
+(4... Ba3 5. Kd4 $18) 5. Kd5 $18) 4. Kc4 Bc7 (4... Bd8 5. Kd5 Be7 (5... Bc7 6.
+f6 gxf6 7. Ke4 $18) 6. f6 gxf6 7. Ke4 $18) 5. Kd5 Bg3 (5... Bd8 6. Kd6 g6 7.
+Kxd7 Bg5 8. bxa8=Q+ Kxa8 9. Kc8 Bf4 10. Bb7#) (5... Bf4 6. f6 gxf6 7. Ke4 Bh6
+8. Kf5 $18) 6. f6 gxf6 7. Ke4 Bh2 (7... Be1 8. Kf5 Bh4 9. Kg6 f5 (9... Bg5 10.
+Kf7 $18) 10. Kf7 Bg5 11. Ke8 $18) (7... Be5 8. Kf5 $18) (7... Bh4 8. Kf5 $18)
+8. Kf5 Be5 9. Kg6 d5 (9... Bd4 10. Kf7 $18) (9... Bc7 10. Kxf6 $18) 10. Kf5 Kc7
+(10... d4 11. Ke6 d3 12. Kd7 d2 13. bxa8=Q+ Kxa8 14. Kc8 d1=Q 15. Bb7#) 11.
+bxa8=Q $18 *
+
+[Event "Weichert 1968"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 078"]
+[Black "T&L vs T&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "3r1k2/8/7R/8/8/pp1B4/P7/n1K5 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rf6+ Ke7 (1... Kg7 2. Rg6+ $11) 2. Ra6 bxa2 (2... Rxd3 3. Rxa3 $11) 3. Rxa3
+Nb3+ (3... Rxd3 4. Rxa2 $11) 4. Kb2 a1=Q+ 5. Rxa1 Nxa1 6. Be4 $11 *
+
+[Event "Shredder9-Ruffian21, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 079"]
+[Black "T&L&L vs T&L&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "r5k1/5ppp/1p6/2b1R3/1p3P2/2nP2P1/1B3PKP/5B2 w - - 0 29"]
+[PlyCount "5"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+29. d4 {(Var)} (29. Re1 $2 Bd4 30. Kf3 (30. f5 g6 31. fxg6 fxg6 32. Rc1 (32.
+Bxc3 bxc3 33. Rc1 b5 $19) 32... Ra2 $19) (30. Re7 Kf8 31. Rd7 (31. Rc7 Ra2 32.
+Rc4 Bxf2 33. Kxf2 Rxb2+ $19) 31... Bf6 32. g4 (32. d4 Ra2 $19) 32... Ra2 $19) (
+30. Rc1 Ra2 31. Rc2 Kf8 32. Bxc3 Rxc2 33. Bxd4 b3 $19) 30... f5 31. Ra1 (31.
+Re7 Ra2 32. Rd7 Bf6 $19) 31... Rxa1 32. Bxa1 Nb5 $19) 29... Bxd4 30. Re1 Rd8
+31. Bc4 $13 *
+
+[Event "Kasparian 1993"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 080"]
+[Black "T&L&S vs D&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5k2/3p1b2/4pN2/3PPpp1/6R1/6PK/1B1q1P2/8 w - - 0 1"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Ba3+ (1. Rxg5 $2 Qxb2 $19) 1... Kg7 (1... d6 2. Rxg5 Ke7 3. Bxd6+ Kd8 4.
+dxe6 Bxe6 5. Rh5 $11) 2. Rxg5+ Qxg5 (2... Kh8 3. Bf8 Qxg5 4. f4 Qg6 5. d6 $11)
+3. Bf8+ Kh8 (3... Kg6 4. f4 Qxf6 5. exf6 Kxf6 6. Bd6 $11) 4. f4 Qg6 (4... Qxf6
+5. exf6 exd5 6. Bc5 $11) 5. d6 Bg8 (5... Be8 6. Kg2 $11) 6. Kg2 Qf7 (6... Bh7
+7. Kh3 $11) 7. Bh6 $11 *
+
+[Event "Garcia 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 081"]
+[Black "T&L&S vs L&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1p5p/6p1/1p4Pp/1PpR4/2P1K1kB/6Np/7b w - - 0 1"]
+[PlyCount "17"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rd1 Bxg2 2. Bxg2 Kxg2 3. Rh1 h4 (3... Kxh1 4. Kf2 b6 5. Kf1 h4 6. Kf2 h6 7.
+gxh6 $18) 4. Ke2 Kg3 (4... Kxh1 5. Kf1 $18) (4... h3 5. Ke1 $18) 5. Kf1 h3 (
+5... b6 6. Ke2 $18) 6. Ke1 Kg2 (6... Kf3 7. Rxh2 Kg3 8. Rf2 h2 (8... b6 9. Rf1
+$18) 9. Rf1 b6 (9... Kg4 10. Kf2 Kxg5 11. Kg2 $18) 10. Rh1 Kg2 11. Ke2 Kxh1 12.
+Kf1 h6 13. gxh6 $18) 7. Ke2 Kg3 (7... b6 8. Ke1 $18) 8. Kf1 b6 9. Ke1 $18 *
+
+[Event "Kondratjev 1980"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 082"]
+[Black "T&L&S vs T&L&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "7k/1p1Nr2P/3Rb3/8/3K4/6b1/8/5B2 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Ne5 (1. Rxe6 $2 Rxe6 2. Bh3 (2. Kc4 Re7 $19) 2... Rd6+ 3. Ke3 (3. Kc4 Rc6+
+4. Kb5 (4. Kb3 Kxh7 $19) 4... Rh6 5. Bg2 Rh5+ 6. Kc4 (6. Kb4 Be1+ 7. Kb3 Rxh7
+$19) 6... b5+ $19) 3... b5 $19) 1... Bxe5+ (1... Kxh7 2. Bg2 b6 $11) 2. Kxe5
+Bc4+ (2... Kxh7 3. Rxe6 Rxe6+ 4. Kxe6 $11) 3. Kf6 Rf7+ 4. Kg6 Rg7+ 5. Kh6 Rxh7+
+6. Kg6 $11 *
+
+[Event "Gandalf432f-Fritz6, CompGame 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 083"]
+[Black "T&L&S vs T&L&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1B4k1/5pn1/6N1/1P3rb1/P1K4p/3R4/8 w - - 0 38"]
+[PlyCount "10"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+38. Nxh3 {(Var)} (38. Ne4 $2 Bf3 39. Nc5 (39. Nd6 Bxb7 $19) 39... Bxb7 40. Nxb7
+(40. Rd7+ Kh6 41. Nxb7 Rf3+ 42. Kb2 Ne5 43. Rd4 Kh5 $19) 40... Rf3+ $19) 38...
+Bxh3 39. a4 Ne5 (39... Be6 40. Rd4 $11) 40. a5 Rc4+ 41. Kb3 Be6 42. a6 Rc1+ $11
+*
+
+[Event "Epishin-Dolmatov, Rostov 1993"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 084"]
+[Black "T&S vs T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/7p/6p1/3Np1bk/4Pp2/1R3PPK/5r1P/8 w - - 0 43"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+43. Nc7 {(Var)} fxg3 (43... Rc2 44. Ne6 Rc6 45. Nf8 Be7 (45... Kh6 46. Rb7 $18)
+46. Nd7 $40) 44. hxg3 Bc1 {(Var):} (44... Bd2 45. Ne8 Kg5 46. Nd6 Kf6 (46... h5
+47. Nc4 $40) 47. Nc4 Be1 (47... Ke6 48. Rb6+ $40) 48. Rb6+ Kg7 49. Nxe5 $40) (
+44... Be7 45. Ne8 Bd8 46. Rb8 Rd2 47. Rb5 g5 48. Rxe5 $40) (44... Rf1 45. Ne6
+Rh1+ (45... Bd2 46. Rd3 $40) 46. Kg2 Ra1 47. Rb7 $40) 45. Ne6 Rf1 (45... Rb2
+46. Rc3 Rb6 47. Nd8 Bb2 48. Rc7 $40) (45... Kh6 46. Kg4 $40) 46. Kg2 Rd1 47.
+Rb5 Rd6 (47... g5 48. Rxe5 $40) 48. Rxe5+ $40 *
+
+[Event "Hoch 1973"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 085"]
+[Black "T&S vs T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "1r6/3b1p2/2k4P/1N3p1P/5P2/8/3R4/2K5 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Na7+ (1. Nd6 $2 Rf8 $11) 1... Kc7 (1... Kc5 2. Nc8 Rxc8 (2... Bxc8 3. Rd8
+$18) 3. Rc2+ $18) 2. Rc2+ Kd6 3. Nc8+ Bxc8 4. Rd2+ Ke7 (4... Kc7 5. Rd8 $18) 5.
+Rd8 Kxd8 (5... Rb6 6. h7 $18) 6. h7 $18 *
+
+[Event "Vrabec 1999"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 086"]
+[Black "T&S vs T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "k6r/8/1R6/8/1pK2p2/8/7N/3b4 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Nf1 (1. Ra6+ $2 Kb7 2. Ra2 b3 3. Rd2 (3. Rb2 Rc8+ 4. Kd3 Ka6 $19) 3... Rc8+
+4. Kb4 Bc2 $19) 1... Be2+ (1... b3 2. Nd2 Ka7 (2... Rh3 3. Rf6 b2 (3... f3 4.
+Nxb3 $11) 4. Rxf4 $11) 3. Rb4 Rh3 4. Kc5 Rc3+ (4... Rd3 5. Nxb3 f3 6. Na5 Ka6 (
+6... f2 7. Nc6+ Ka6 8. Rb6#) 7. Nc4 f2 8. Rb6+ Ka7 9. Rf6 $11) 5. Kd4 Rg3 (5...
+Rh3 6. Kc5 f3 7. Nxb3 $11) 6. Ke4 $11) 2. Kxb4 Rf8 (2... Bxf1 3. Rf6 Rh4 (3...
+Rb8+ 4. Ka3 Rc8 5. Rxf4 $11) 4. Ka5 Bh3 (4... Kb8 5. Rf8+ Kc7 (5... Kb7 6. Rxf4
+$11) 6. Rxf4 $11) (4... Rh8 5. Rxf4 $11) 5. Kb6 Kb8 (5... Rh8 6. Rxf4 $11) (
+5... Bc8 6. Rf8 $11) 6. Rf8+ Bc8 7. Rf7 Rh6+ 8. Kc5 $11) 3. Nh2 Ka7 (3... f3 4.
+Nxf3 $11) 4. Re6 Bd1 (4... f3 5. Re3 $11) 5. Re1 Bh5 6. Re5 $11 *
+
+[Event "Fruit21-Shredder9, CompGame 2005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 087"]
+[Black "T&S vs T&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/8/p1p5/2P1k3/1Pn5/1N1R2K1/1r6 w - - 0 65"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+65. Kg3 {(Var)} (65. Rf2 $2 Re1 66. Kg3 Ne2+ 67. Kg4 (67. Kh4 Nd4 $40) 67...
+Rg1+ 68. Kh5 Nc1 $40) (65. Rc2 $2 Kd4 66. Kf3 (66. Rd2+ Ke3 67. Rd3+ Ke2 68.
+Rf3 Ne4 $40) 66... Na2 67. Rh2 Nc1 $40) 65... Ke3 (65... Re1 66. Kf2 $11) 66.
+Rd3+ Ke2 (66... Ke4 67. Rd2 $11) 67. Rxc3 Rxb2 68. Kf4 Kd2 69. Rh3 Kc2 70. Rh5
+Rxb3 71. Rxc5 $11 *
+
+[Event "Kosikov-Bezman, UdSSR-Ch 1986"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 088"]
+[Black "T&S vs T&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5n1k/1r3P1p/p2p3P/P7/8/1N6/5R2/4K3 b - - 0 50"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+50... Re7+ {(Var)} (50... Rxb3 $2 51. Rg2 Rb1+ 52. Kf2 Rb2+ 53. Kg1 Rxg2+ 54.
+Kxg2 $18) 51. Re2 (51. Kd2 Re6 $11) 51... Rxf7 52. Re8 Rf6 53. Ra8 Kg8 54. Rxa6
+Rxh6 $11 *
+
+[Event "N.N. 1792"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 089"]
+[Black "T&S vs T&T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "6R1/P2k1N2/r7/7P/r7/p7/7K/8 w - - 0 1"]
+[PlyCount "15"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Nh6 (1. h6 $2 Rxa7 $19) (1. Rg1 $2 Rh4+ 2. Kg3 Rxh5 $19) (1. Rg7 $2 Rh4+ 2.
+Kg3 a2 $19) 1... a2 (1... Kc6 2. a8=Q+ Rxa8 3. Rg6+ $11) 2. Rg7+ Ke6 3. Rg6+
+Ke5 4. Rg5+ Kf4 5. Rg4+ Kf3 6. Rg3+ Kf2 7. Rg2+ Kf1 8. Rg1+ $11 *
+
+[Event "Kasparian 1982"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 090"]
+[Black "T&S&B vs T&T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1rk1P3/7p/P7/1N2r3/5RKb/8/8 w - - 0 1"]
+[PlyCount "15"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Na6+ (1. Nd5+ $2 Kc6 2. a6 (2. Nf6 Rexe7 $19) 2... Ra7 3. Rf4 Re5 4. Nb4+
+Kb5 5. Kxh3 Raxe7 $19) 1... Kd6 (1... Kc6 2. Rc3+ $11) 2. Rd3+ Kxe7 3. Nc5 Bf1
+(3... Rg4+ 4. Kxh3 Rbb4 5. a6 Rh4+ (5... Rg1 6. Ra3 $11) 6. Kg2 Rbg4+ 7. Kf3 h5
+(7... Rc4 8. Re3+ $11) 8. a7 $11) 4. Ra3 Reb4 5. Nxb7 Rxb7 (5... h5 6. Kf2 $11)
+6. a6 Ra7 7. Kh4 Bxa6 (7... Bg2 8. Rg3 $11) 8. Kh5 $11 *
+
+[Event "Petrov 1963"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 090"]
+[Black "T&T vs D"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "2K5/k3q3/6pR/6p1/6Pp/7P/8/3R4 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rh7 Qxh7 2. Rd7+ Ka8 (2... Qxd7+ 3. Kxd7 Kb6 4. Ke6 $18) 3. Kc7 Qh6 4. Rd8+
+Ka7 5. Kc6 $18 *
+
+[Event "Dolci 1919"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 092"]
+[Black "T&T vs T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "R5bk/5r2/P7/1P1pR3/3P4/7p/5p1K/8 w - - 0 1"]
+[PlyCount "11"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rh5+ Kg7 2. Rg5+ Kh6 (2... Kh7 3. Rg1 $18) (2... Kf6 3. Rg1 $18) 3. Rg1
+fxg1=Q+ 4. Kxg1 Rg7+ 5. Kh1 Be6 (5... Bh7 6. b6 $18) 6. b6 $18 *
+
+[Event "Kasparian 1978"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 093"]
+[Black "T&T vs T&L&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "4k3/7r/3nb3/2R5/8/6n1/1R3K2/8 w - - 0 1"]
+[PlyCount "7"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Re5 Nge4+ 2. Ke3 Nc4+ (2... Ng5 3. Rb8+ Kf7 4. Rxg5 $11) 3. Kd4 Nxe5 4. Kxe5
+$11 *
+
+[Event "Aristarch45-TheBaron15, CompGame 2004"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 094"]
+[Black "T&T vs T&T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "1r6/1r6/1P1KP3/6k1/1R4p1/7p/7R/8 w - - 0 62"]
+[PlyCount "4"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+62. e7 $2 (62. Kc6 $142 Rh7 63. Rb3 Kf6 64. Rg3 $11) (62. Rb5+ $142 Kf4 63.
+Rb4+ Kg3 64. Rhb2 $11) 62... Rxb6+ 63. Rxb6 Rxb6+ $19 *
+
+[Event "Katsnelson 2000"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 095"]
+[Black "T&T vs T&T"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "1k1K4/1p6/P4P2/2R5/4p2R/r2p4/8/3r4 w - - 0 1"]
+[PlyCount "15"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rf4 (1. Rc8+ $2 Ka7 2. axb7 Kxb7 $11) 1... Rh1 (1... d2 2. f7 $18) 2. f7
+Rh8+ (2... d2 3. Rc8+ Ka7 4. Ra8+ Kb6 5. Rf6+ Kb5 6. Ke7 Rxa6 7. Rfxa6 $18) 3.
+f8=Q Rxf8+ 4. Rxf8 d2 (4... Rb3 5. a7+ Kxa7 6. Kc7 $18) (4... Rxa6 5. Re5 $18)
+5. Rc8+ Ka7 6. Ra8+ Kb6 7. Rf6+ Kc5 8. axb7 $18 *
+
+[Event "Kasparian 1978"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 096"]
+[Black "T&T&L vs D&L&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "5k2/R1p5/p1R3Pb/2K5/2B5/2q2b2/8/8 w - - 0 1"]
+[PlyCount "9"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. g7+ Bxg7 2. Ra8+ Ke7 3. Re6+ Kf7 4. Rf8+ Bxf8+ (4... Kxf8 5. Re8+ $11) 5.
+Re7+ $11 *
+
+[Event "Pogosiants 1979"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 097"]
+[Black "T&T&L vs T&S&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/8/k7/n7/p1R5/p7/4r1p1/KB3R2 w - - 0 1"]
+[PlyCount "12"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Rc3 Nb3+ (1... gxf1=B 2. Bd3+ Kb6 3. Bxe2 Bxe2 4. Rxa3 Bb5 5. Rc3 $11) (1...
+Rd2 2. Rg1 Nb3+ 3. Rxb3 axb3 4. Be4 $11) 2. Rxb3 Ra2+ (2... gxf1=Q 3. Rb6+ Ka5
+(3... Kxb6 $11) 4. Rb5+ $11) 3. Kxa2 axb3+ (3... gxf1=Q 4. Bd3+ $11) 4. Ka1 b2+
+5. Ka2 gxf1=Q 6. Bd3+ Qxd3 $11 *
+
+[Event "Bellmann-Rieseler, CorrGame 1998"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 098"]
+[Black "T&T&L vs T&T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "3r2k1/p1R2ppp/1p6/P1b1PP2/3p4/3R2B1/5PKP/1r6 w - - 0 34"]
+[PlyCount "7"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+34. f6 g5 (34... g6 35. e6 fxe6 36. f7+ Kf8 (36... Kg7 37. Be5+ Kf8 38. Rh3 $18
+) 37. Bf4 Be7 38. Bh6+ Kxf7 39. Bg5 $18) (34... Re1 35. a6 g5 (35... Ra8 36.
+fxg7 $18) (35... gxf6 36. Bh4 $18) 36. Rxa7 $18) 35. e6 fxe6 (35... bxa5 36.
+Rxc5 $18) (35... Ra8 36. Be5 $18) (35... Rf8 36. Rd7 $18) 36. Rg7+ Kf8 37. Bc7
+$18 *
+
+[Event "O'Kelly-Donner, Beverwijk 1963"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 099"]
+[Black "T&T&S vs T&T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/5p2/5rp1/p2k1r1p/P1pNp2P/RP1bP1P1/5P1R/4K3 b - - 0 33"]
+[PlyCount "7"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+33... c3 (33... Re5 $2 34. bxc4+ Kxc4 35. Kd2 $11) (33... cxb3 $2 34. Rxb3 $11)
+34. Nxf5 (34. Ra2 Kc5 35. Kd1 (35. Ra1 Rf3 $19) 35... c2+ $19) (34. Ra1 Kc5 35.
+Rd1 Rf3 $19) 34... Rxf5 35. Ra1 (35. g4 hxg4 36. Rg2 Kc5 37. Rxg4 Kb4 $19)
+35... Kc5 36. Rd1 (36. f4 exf3 37. Kf2 Kb4 $19) 36... Rd5 $19 *
+
+[Event "Oesteraard-Kerr, CorrGame 2002"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 100"]
+[Black "T&T&S vs T&T&L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "1r4k1/6pp/3Np1b1/p1R1P3/6P1/P2pr2P/1P1R2K1/8 b - - 0 32"]
+[PlyCount "13"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+32... Rf8 33. Rd1 (33. Rc3 Re2+ 34. Rxe2 dxe2 35. Re3 Bd3 $19) (33. Rc1 Re2+
+34. Rxe2 dxe2 35. Nc4 Rc8 $19) (33. b4 Re2+ $19) 33... h5 34. gxh5 (34. h4 hxg4
+$19) (34. Rcc1 Rff3 $19) 34... Bxh5 35. Rd2 (35. Nc4 Re2+ $19) (35. Rcc1 Re2+
+$19) 35... Re2+ 36. Rxe2 dxe2 37. Rc1 Bg6 38. Nc4 Rc8 $19 *
+
+[Event "ChessTiger2007-Rybka22n2, CompGame 2007"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 16b"]
+[Black "T&S vs T&S"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "4k1r1/pp2p2p/3pN1n1/2pP4/2P3P1/PP5P/8/5RK1 b - - 0 32"]
+[PlyCount "12"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+32... Nf8 $2 33. Nxf8 Rxf8 34. Rxf8+ Kxf8 35. Kf2 Kf7 36. Kf3 e6 (36... Kg6 37.
+Kf4 h6 (37... Kf6 38. g5+ $18) 38. a4 b6 39. h4 $18) (36... Kf6 37. Kf4 $18)
+37. dxe6+ Kxe6 (37... Ke7 38. Ke4 $18) 38. Ke4 $18 *
+
+[Event "Batik-Eliskases, CorrGame 1932"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 26b"]
+[Black "L vs L"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/3k3p/1p2p3/p4p2/Pb1Pp3/2B3PP/1P3P2/5K2 w - - 0 39"]
+[PlyCount "24"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+39. Bxb4 $2 axb4 40. Ke2 (40. b3 Kd6 41. Ke2 Kd5 42. Ke3 h6 $19) (40. h4 Kc6
+41. Ke2 Kd5 42. Ke3 b3 $19) 40... Kd6 41. h4 (41. Ke3 Kd5 42. b3 (42. h4 b3 $19
+) 42... h6 43. h4 h5 $19) (41. b3 Kd5 42. Ke3 h6 $19) 41... h5 42. Ke3 (42. b3
+Kd5 43. Ke3 e5 44. dxe5 Kxe5 45. Kd2 (45. Ke2 f4 $19) 45... f4 46. gxf4+ (46.
+Ke2 fxg3 47. fxg3 Kd4 $19) 46... Kxf4 $19) (42. Kd2 Kd5 $19) 42... Kd5 43. Kf4
+(43. b3 e5 44. dxe5 Kxe5 $19) 43... Kxd4 44. Kg5 Kd3 45. Kxh5 Ke2 46. Kg6 Kxf2
+47. h5 Kxg3 48. h6 e3 49. h7 e2 50. h8=Q (50. Kf6 f4 $19) 50... e1=Q $19 *
+
+[Event "Loyd 1878"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E_E_T 70b"]
+[Black "D vs T&L&B"]
+[Result "*"]
+[Annotator "W.Eigenmann"]
+[SetUp "1"]
+[FEN "8/1k6/8/Q7/7p/6p1/6pr/6Kb w - - 0 1"]
+[PlyCount "19"]
+[Source "W.Eigenmann"]
+[SourceDate "2006.12.12"]
+
+1. Qc5 Ka6 (1... Rh3 2. Qe7+ Kc6 3. Qe6+ Kb5 4. Qd7+ Kb4 5. Qxh3 Kb5 6. Qxh4
+$18) (1... h3 2. Qd6 Ka7 3. Qxg3 Ka8 4. Qxh2 $18) (1... Kb8 2. Qc6 Ka7 3. Qb5
+Ka8 4. Qb6 Rh3 5. Qd8+ Kb7 6. Qd7+ Kb8 7. Qxh3 $18) 2. Qb4 Rh3 (2... Ka7 3. Qb5
+Ka8 (3... h3 4. Qb3 Ka6 5. Qxg3 $18) 4. Qb6 Rh3 5. Qd8+ Ka7 6. Qd7+ Kb6 7. Qxh3
+$18) 3. Qd6+ Ka5 4. Qd2+ Kb6 5. Qd4+ Ka5 6. Qd2+ Kb6 7. Qd8+ Kc6 8. Qc8+ Kd5 9.
+Qxh3 Ke4 10. Qxh4+ $18 *
+

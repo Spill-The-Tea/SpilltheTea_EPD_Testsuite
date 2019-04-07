@@ -1,0 +1,151 @@
+[Event "Linares"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "SHIROV"]
+[Black "Kamsky"]
+[Result "1-0"]
+[Annotator "MGV7-E"]
+[SetUp "1"]
+[FEN "r1n2bk1/p6p/1p4pP/3Pp1N1/4P1P1/4B3/P4K2/1R6 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1993.??.??"]
+
+1. Rc1 1-0
+
+[Event "Berlin op"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "RAZUVAEV"]
+[Black "Ostojic"]
+[Result "1-0"]
+[Annotator "MGV12-E"]
+[SetUp "1"]
+[FEN "8/4k3/p2p2p1/P1pPn2p/1pP1P2P/1P1NK1P1/8/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1988.??.??"]
+
+1. g4 1-0
+
+[Event "Tilburg"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "SVIDLER"]
+[Black "Van Wely"]
+[Result "1-0"]
+[Annotator "MGV13-E"]
+[SetUp "1"]
+[FEN "4R3/P7/2bB2p1/r3pk2/2p2p1P/2P2P1K/6P1/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1998.??.??"]
+
+1. Rxe5+ 1-0
+
+[Event "Linares"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "BAREEV"]
+[Black "Ivanchuk"]
+[Result "1-0"]
+[Annotator "MGV17-E"]
+[SetUp "1"]
+[FEN "8/5pp1/3kpb2/8/1PKP3p/r4N1P/1R3PP1/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1994.??.??"]
+
+1. Ne5 1-0
+
+[Event "Moscow"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "LEKO"]
+[Black "Anand"]
+[Result "1-0"]
+[Annotator "MGV21-E"]
+[SetUp "1"]
+[FEN "2r5/8/p1k2p2/Kp3p1p/3R4/P1P2PP1/7P/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2004.??.??"]
+
+1. Rh4 1-0
+
+[Event "Pamplona"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "MOROZEVICH"]
+[Black "Vallejo Pons"]
+[Result "1-0"]
+[Annotator "MGV22-E"]
+[SetUp "1"]
+[FEN "8/3bkpp1/pp2p3/1P1pP2r/P2K3P/3B4/2P2P2/R7 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+
+1. a5 1-0
+
+[Event "FIDE Wch Tripoli"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "DOMINGUEZ"]
+[Black "Radjabov"]
+[Result "1-0"]
+[Annotator "MGV28-E"]
+[SetUp "1"]
+[FEN "5r2/k6r/p2bP3/2pP2pp/2R1P3/1P2K1P1/P4P2/7R w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2004.??.??"]
+
+1. b4 1-0
+
+[Event "Capablanca mem"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Felgaer"]
+[Black "DOMINGUEZ"]
+[Result "0-1"]
+[Annotator "MGV29-E"]
+[SetUp "1"]
+[FEN "8/1B6/3r2p1/5p1p/5P1P/4k1P1/8/6K1 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "2004.??.??"]
+
+1... g5 0-1
+
+[Event "Kiev"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "TABOROV"]
+[Black "Vovk"]
+[Result "1-0"]
+[Annotator "MGV36-E"]
+[SetUp "1"]
+[FEN "8/4k2p/p1P5/1p2P3/2p5/P3K3/7P/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1993.??.??"]
+[TimeControl "3600+15"]
+
+1. Ke4 1-0
+
+[Event "GER-ch Binz"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Boensch"]
+[Black "ZUDE"]
+[Result "0-1"]
+[Annotator "MGV37-E"]
+[SetUp "1"]
+[FEN "8/8/5kp1/4p1p1/3n4/1pK1PP2/3N4/8 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+
+1... Nxf3 0-1
+
