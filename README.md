@@ -46,5 +46,9 @@ horribly wrong. This repository, is hoping to reduce these two problems among te
  11. [Protector EPD Repository](https://sourceforge.net/p/protector/code/HEAD/tree/epd/)
  12. [ECM Testsuite](http://web.archive.org/web/20180714035646/http://www.st.ewi.tudelft.nl/~renze/doc/TestSuites/ECM.epd)
  13. [Zugzwangs](https://www.stmintz.com/ccc/index.php?id=391553)
- 13. [Chess Programming](https://www.chessprogramming.org/Test-Positions), for general info about historically significant EPD Test Suites, and corresponding authors.
+ 14. [Colditz Suite](http://www.talkchess.com/forum3/viewtopic.php?t=62659)
+ 15. [Chess Programming](https://www.chessprogramming.org/Test-Positions), for general info about historically significant EPD Test Suites, and corresponding authors.
+ 16. [BlitzChess Sources](http://www.blitzchess.fr/fr/tests/index.html)
+ 
+ 
  
