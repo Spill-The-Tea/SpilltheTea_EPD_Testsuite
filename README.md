@@ -44,5 +44,7 @@ horribly wrong. This repository, is hoping to reduce these two problems among te
  9. [ClubFoot Repository](https://github.com/zd3nik/Clubfoot/tree/master/epd)
  10. [Collection of Old EPD Test Suites](http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index), also included in top-5000 collection.
  11. [Protector EPD Repository](https://sourceforge.net/p/protector/code/HEAD/tree/epd/)
- 12. [Chess Programming](https://www.chessprogramming.org/Test-Positions), for general info about historically significant EPD Test Suites, and corresponding authors.
+ 12. [ECM Testsuite](http://web.archive.org/web/20180714035646/http://www.st.ewi.tudelft.nl/~renze/doc/TestSuites/ECM.epd)
+ 13. [Zugzwangs](https://www.stmintz.com/ccc/index.php?id=391553)
+ 13. [Chess Programming](https://www.chessprogramming.org/Test-Positions), for general info about historically significant EPD Test Suites, and corresponding authors.
  
