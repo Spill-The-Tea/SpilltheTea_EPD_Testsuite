@@ -47,6 +47,7 @@ horribly wrong. This repository, is hoping to reduce these two problems among te
  12. [ECM Testsuite](http://web.archive.org/web/20180714035646/http://www.st.ewi.tudelft.nl/~renze/doc/TestSuites/ECM.epd)
  13. [Zugzwangs](https://www.stmintz.com/ccc/index.php?id=391553)
  14. [Colditz Suite](http://www.talkchess.com/forum3/viewtopic.php?t=62659)
+ 15. [Quick Test Set](http://members.aon.at/computerschach/quick/quick.epd)
  15. [Chess Programming](https://www.chessprogramming.org/Test-Positions), for general info about historically significant EPD Test Suites, and corresponding authors.
  16. [BlitzChess Sources](http://www.blitzchess.fr/fr/tests/index.html)
  
