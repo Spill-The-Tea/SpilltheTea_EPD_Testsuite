@@ -36,7 +36,7 @@ of this repository, named "Remove_EPD_Duplicates.py."
  7. [LaPuce Test Set (LCT-II)](https://www.chessprogramming.org/LCT_II)
  8. [Eigenmann Rapid Engine Test (ERET)](https://glarean-magazin.ch/2017/03/05/computerschach-testaufgaben-engines-eigenmann-rapid-engine-test-eret/)
  9. [Giraffe EPD Repository](https://github.com/AFDudley/giraffe/tree/master/tests/testsuites)
- 10. [Hard Testsuite](http://www.talkchess.com/forum3/viewtopic.php?t=64914) by Vincent Lejeune (AKA Vinvin or Dorszcz)
+ 10. [Hard Testsuite](http://www.talkchess.com/forum3/viewtopic.php?t=64914) by Vincent Lejeune (AKA Vinvin)
  11. [ClubFoot Repository](https://github.com/zd3nik/Clubfoot/tree/master/epd)
  12. [Collection of Old EPD Test Suites](http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index), also included in top-5000 collection.
  13. [Protector EPD Repository](https://sourceforge.net/p/protector/code/HEAD/tree/epd/)
