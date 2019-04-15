@@ -31,8 +31,7 @@ of this repository, named "Remove_EPD_Duplicates.py."
  4. [Tactical Insanity Suite (Ti-c)](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32665) </br>
     a. This [Rybka Forum](http://rybkaforum.net/cgi-bin/rybkaforum/board_show.pl?tid=32659#tid32659) is also helpful
  5. [Strategic Test Suite](https://sites.google.com/site/strategictestsuite/download-all-epds-in-one-file)
- 6. [Top-5000](http://web.archive.org/web/20180820213741/www.top-5000.nl/testsets.htm) used to host a repository </br>
- of various epd Testsuites, but is available through the web archive.
+ 6. [Top-5000](http://web.archive.org/web/20180820213741/www.top-5000.nl/testsets.htm) used to host a repository of various epd Testsuites, but is available through the web archive.
  7. [LaPuce Test Set (LCT-II)](https://www.chessprogramming.org/LCT_II)
  8. [Eigenmann Rapid Engine Test (ERET)](https://glarean-magazin.ch/2017/03/05/computerschach-testaufgaben-engines-eigenmann-rapid-engine-test-eret/)
  9. [Giraffe EPD Repository](https://github.com/AFDudley/giraffe/tree/master/tests/testsuites)
