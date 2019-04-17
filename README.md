@@ -16,14 +16,6 @@ A Repository of Chess Positions in EPD Format
   * Threads = 3
   * Engine = Stockfish 10, Xiphos 0.5, Ethereal 11.25, Laser 1.7, and Critter 1.6a
 
-## Notes
-
-After collecting a number of epd testsuites, you will begin to notice that every testsuite is </br>
-incredibly incestuous. In most cases, using a simple awk expression through terminal was not sufficient </br>
-to remove duplicates, because identical epd positions were reformatted (e.g. different IDs), and thus </br>
-not removed properly. To overcome this, there is crude script written by Ferdinand Mosca in the Tools section </br>
-of this repository, named "Remove_EPD_Duplicates.py."
-
 ## Sources and Links
  1. [Chess Programming](https://www.chessprogramming.org/Test-Positions), for general info about historically significant EPD Test Suites, and corresponding authors.
  2. [Arasan Testsuite](https://arasanchess.org/testsuite.shtml)
