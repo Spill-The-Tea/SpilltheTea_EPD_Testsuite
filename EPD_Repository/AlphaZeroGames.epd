@@ -1,0 +1,10 @@
+3rqbk1/2p3p1/b6p/Q1p5/2N1PP2/1P1P2P1/2P4P/5R1K b - - bm Bc8; id "Stockfish8 - AlphaZero";
+4r1k1/2pbnrq1/1p1b1p2/2pPp1pp/p1P1P2P/P2QNNB1/1P3PP1/3RR2K b - - bm Nc8 g4; id "Stockfish8 - AlphaZero";
+3r2k1/p2prp1p/1p1Rn1pP/4P3/4q3/5RP1/P2Q1PK1/3B4 w - - bm Bb3; id "AlphaZero - Stockfish8";
+1r3rk1/3bb1pp/1qn1p3/3pP3/3P1N2/2Q2N2/2P3PP/R1BR3K w - - bm h4; id "AlphaZero - Stockfish8";
+rn3rk1/pn1p1ppq/bpp4p/7P/4N3/6P1/PP3PB1/R1BQR1K1 w - - bm Qg4; id "AlphaZero - Stockfish8";
+1r1r1qk1/pn1p2p1/1pp1npBp/8/2PB2QP/4R1P1/P4PK1/3R4 w - - bm Bc3; id "AlphaZero - Stockfish8";
+3rr1k1/1b2nnpp/1p1q1p2/pP1p1P2/P1pP2P1/2N1P1QP/3N1RB1/2R3K1 w - - bm Nf1; id "AlphaZero - Stockfish8";
+5bk1/1b1rq2p/2p1p1p1/1pP1P3/1Pp1B2Q/2B3P1/5PK1/7R w - - bm Qg4; id "AlphaZero - Stockfish8";
+4q2r/1b1kbp2/1p2p1p1/pP1pP1N1/P2P1PQP/3BK3/2R5/8 w - - bm Bxg6; id "AlphaZero - Stockfish8";
+rn3rq1/p5k1/2p2bp1/1p4p1/8/2P1B1PQ/5PK1/3R3R w - - bm c4; id "AlphaZero - Stockfish8";
