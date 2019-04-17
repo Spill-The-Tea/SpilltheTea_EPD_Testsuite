@@ -44,7 +44,7 @@ of this repository, named "Remove_EPD_Duplicates.py."
  16. [Colditz Suite](http://www.talkchess.com/forum3/viewtopic.php?t=62659)
  17. [Quick Test Set](http://members.aon.at/computerschach/quick/quick.epd)
  18. [BlitzChess Sources](http://www.blitzchess.fr/fr/tests/index.html)
- 19. 
+ 19. [Positional Test Suite](http://talkchess.com/forum3/viewtopic.php?f=2&t=70438#p795360), by Kai Laskos
  
  
  
